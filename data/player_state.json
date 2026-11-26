@@ -1,6 +1,7 @@
 {
   "_note": "Mark's progress as of 2026-11-26. Update as things change; build requests should start from this.",
   "weapon_type": "Dual Blades",
+  "build_style": "elemental",
   "master_rank": 70,
   "anomaly_research_level": 130,
   "cleared": ["Amatsu", "Violet Mizutsune", "Primordial Malzeno"],
