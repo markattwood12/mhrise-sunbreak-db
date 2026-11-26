@@ -1,0 +1,49 @@
+anomaly_tier,group,material_tier,research_levels,level_min,level_max,material,monsters,in_image
+A1,1,1,1-30,1,30,Afflicted Pelt,Great Baggi; Great Izuchi; Great Wroggi; Kulu-Ya-Ku,True
+A1,1,2,31-100,31,100,Afflicted Hide+,Great Baggi; Great Izuchi; Great Wroggi; Kulu-Ya-Ku,True
+A1,1,3,101-200,101,200,Afflicted Thickhide,Great Baggi; Great Izuchi; Great Wroggi; Kulu-Ya-Ku,True
+A1,2,1,1-30,1,30,Afflicted Bone,Arzuros; Lagombi; Volvidon,True
+A1,2,2,31-100,31,100,Afflicted Hardbone,Arzuros; Lagombi; Volvidon,True
+A1,2,3,101-200,101,200,Afflicted Slogbone,Arzuros; Lagombi; Volvidon,True
+A2,3,1,11-30,11,30,Afflicted Monster Bone,Aknosom; Barroth; Basarios; Royal Ludroth,True
+A2,3,2,31-100,31,100,Afflicted Monster Hardbone,Aknosom; Barroth; Basarios; Royal Ludroth,True
+A2,3,3,101-200,101,200,Afflicted Monster Slogbone,Aknosom; Barroth; Basarios; Royal Ludroth,True
+A2,4,1,11-30,11,30,Afflicted Blood,Bishaten; Daimyo Hermitaur; Khezu; Tetranadon,True
+A2,4,2,31-100,31,100,Afflicted Dragon Blood,Bishaten; Daimyo Hermitaur; Khezu; Tetranadon,True
+A2,4,3,101-200,101,200,Afflicted Pure Blood,Bishaten; Daimyo Hermitaur; Khezu; Tetranadon,True
+A3,5,1,21-30,21,30,Afflicted Shell,Blood Orange Bishaten; Jyuratodus; Shogun Ceanataur; Somnacanth,True
+A3,5,2,31-100,31,100,Afflicted Carapace,Blood Orange Bishaten; Jyuratodus; Shogun Ceanataur; Somnacanth,True
+A3,5,3,101-200,101,200,Afflicted Cortex,Blood Orange Bishaten; Jyuratodus; Shogun Ceanataur; Somnacanth,True
+A3,6,1,21-30,21,30,Afflicted Scale,Anjanath; Pukei-Pukei; Rathian; Tobi-Kadachi,True
+A3,6,2,31-100,31,100,Afflicted Scale+,Anjanath; Pukei-Pukei; Rathian; Tobi-Kadachi,True
+A3,6,3,101-200,101,200,Afflicted Shard,Anjanath; Pukei-Pukei; Rathian; Tobi-Kadachi,True
+A4,7,1,Quest,,,Afflicted Claw,Almudron; Aurora Somnacanth; Goss Harag; Rakna-Kadaki,True
+A4,7,2,31-100,31,100,Afflicted Claw+,Almudron; Aurora Somnacanth; Goss Harag; Rakna-Kadaki,True
+A4,7,3,101-200,101,200,Afflicted Hardclaw,Almudron; Aurora Somnacanth; Goss Harag; Rakna-Kadaki,True
+A4,8,1,Quest,,,Afflicted Fang,Barioth; Garangolm; Magnamalo; Nargacuga,True
+A4,8,2,31-100,31,100,Afflicted Fang+,Barioth; Garangolm; Magnamalo; Nargacuga,True
+A4,8,3,101-200,101,200,Afflicted Hardfang,Barioth; Garangolm; Magnamalo; Nargacuga,True
+A5,9,1,51-100,51,100,Afflicted Dire Bone,Lunagaron; Magma Almudron; Tigrex,True
+A5,9,2,101-160,101,160,Afflicted Dire Hardbone,Lunagaron; Magma Almudron; Tigrex,True
+A5,9,3,161-200,161,200,Afflicted Dire Slogbone,Lunagaron; Magma Almudron; Tigrex,True
+A5,10,1,51-100,51,100,Afflicted Dire Horn,Diablos; Seregios; Zinogre,True
+A5,10,2,101-160,101,160,Afflicted Dire Horn+,Diablos; Seregios; Zinogre,True
+A5,10,3,161-200,161,200,Afflicted Dire Hardhorn,Diablos; Seregios; Zinogre,True
+A5,11,1,51-100,51,100,Afflicted Dire Scale,Astalos; Mizutsune; Rathalos,True
+A5,11,2,101-160,101,160,Afflicted Dire Scale+,Astalos; Mizutsune; Rathalos,True
+A5,11,3,161-200,161,200,Afflicted Dire Shard,Astalos; Mizutsune; Rathalos,True
+A6,12,1,71-110,71,110,Afflicted Dire Shell,Bazelgeuse; Espinas; Gore Magala,True
+A6,12,2,111-180,111,180,Afflicted Dire Carapace,Bazelgeuse; Espinas; Gore Magala,True
+A6,12,3,181-200,181,200,Afflicted Dire Cortex,Bazelgeuse; Espinas; Gore Magala,True
+A6,13,1,71-110,71,110,Afflicted Dire Claw,Pyre Rakna-Kadaki; Rajang,True
+A6,13,2,111-180,111,180,Afflicted Dire Claw+,Pyre Rakna-Kadaki; Rajang,True
+A6,13,3,181-200,181,200,Afflicted Dire Hardclaw,Pyre Rakna-Kadaki; Rajang,True
+A7,14,1,91-140,91,140,Afflicted Dire Blood,Chaotic Gore Magala; Flaming Espinas; Seething Bazelgeuse,True
+A7,14,2,141-200,141,200,Afflicted Dire Dragon Blood,Chaotic Gore Magala; Flaming Espinas; Seething Bazelgeuse,True
+A7,14,3,not in TU3 image (added later),,,Afflicted Dire Darkblood,Chaotic Gore Magala; Flaming Espinas; Seething Bazelgeuse,False
+A7,15,1,91-140,91,140,Afflicted Dire Fang,Furious Rajang; Scorned Magnamalo,True
+A7,15,2,141-200,141,200,Afflicted Dire Fang+,Furious Rajang; Scorned Magnamalo,True
+A7,15,3,not in TU3 image (added later),,,Afflicted Dire Hardfang,Furious Rajang; Scorned Magnamalo,False
+A7,16,1,91-140,91,140,Afflicted Dire Wing,Gold Rathian; Silver Rathalos,True
+A7,16,2,141-200,141,200,Afflicted Dire Wing+,Gold Rathian; Silver Rathalos,True
+A7,16,3,not in TU3 image (added later),,,Afflicted Dire Fellwing,Gold Rathian; Silver Rathalos,False

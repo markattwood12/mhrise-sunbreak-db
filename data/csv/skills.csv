@@ -1,0 +1,148 @@
+skill,max_level,description
+Adrenaline Rush,3,Perform a perfectly-timed evade just as a monster attacks for a temporary attack boost.
+Affinity Sliding,1,Sliding increases your affinity for a short time.
+Agitator,5,Increases attack power and affinity when large monsters become enraged.
+Ammo Up,3,Increases bowgun loading capacity. (There is a cap to loading capacity.)
+Artillery,3,"Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo."
+Attack Boost,7,Increases attack power.
+Ballistics,3,Extends the range in which ammo and arrows have maximum power.
+Berserk,2,Switch to the Blue Swap Scroll and all vitality will change to red gauge and start decreasing. As long as you have red you cannot faint.
+Bladescale Hone,3,"Dodge rolling to evade an attack with your weapon drawn will recover sharpness, refill bowgun ammo, or give Close-range Coatings a temporary boost."
+Blast Attack,3,Increases the rate of blast buildup. (Blast buildup has a maximum limit.)
+Blast Resistance,3,Grants protection against blastblight.
+Blight Resistance,3,Grants protection against all elemental blights.
+Blood Awakening,3,"Gradually bolsters your attacks for a certain period of time, depending on how much health you regain when landing attacks."
+Blood Rite,3,A proportion of damage dealt is converted to health when striking a broken monster part.
+Bloodlust,3,"The effects of the Frenzy virus change. Health is gradually reduced, but you gain a variety of effects. Frenzy virus occurs regularly when in combat."
+Bludgeoner,3,Increases attack power when your weapon sharpness is low.
+Bombardier,3,Increases the damage of explosive items.
+Botanist,4,Increases the quantity of herbs and other consumable items you gather.
+Bow Charge Plus,1,Increases max bow charge level by one.
+Bubbly Dance,3,Reduces bubbleblight and grants increased evasion when afflicted.
+Buildup Boost,3,"Increases attack power when you land attacks that build poison, paralysis, sleep, blast, or exhaust. (Exhaust - ammo/phials/coatings only)"
+Burst,3,Continuously landing hits gradually increases attack and elemental attack. (The amount of increase depends on the weapon.)
+Capture Master,1,High chance of increased capture rewards. (No effect when joining mid-quest.)
+Carving Master,1,Lets you carve one additional time. (No effect when joining mid-quest.)
+Carving Pro,1,Prevents knockback from attacks while carving.
+Chameleos Blessing,4,Gain the power of the elder dragon Chameleos.
+Charge Master,3,"When a charged attack hits a monster, the element and status buildup of the charged attack increases."
+Coalescence,3,Temporarily enhances attacks after recovering from blights or abnormal status.
+Constitution,5,"Reduces stamina depletion when evading, blocking, or doing certain other actions."
+Counterstrike,3,Temporarily increases attack power after being knocked back.
+Critical Boost,3,Increases the damage of critical hits.
+Critical Draw,3,Increases affinity for a short time after performing a draw attack. (Does not include Silkbind attacks.)
+Critical Element,3,"Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+Critical Eye,7,Increases affinity.
+Defense Boost,7,Increases defense. Resistances will also improve as the level increases.
+Defiance,5,Increases defense when large monsters become enraged.
+Dereliction,3,"Qurio will drain health, but also bolster your attacks. Multiple Qurio further bolster attacks and let you recover health when performing a Switch Skill Swap."
+Diversion,1,Increases the attention drawn when attacking a monster.
+Divine Blessing,3,Has a predetermined chance of reducing the damage you take.
+Dragon Attack,5,Increases dragon element attack power. (Elemental attack power has a maximum limit.)
+Dragon Conversion,3,"When using the Red Swap Scroll, all elemental resistance is set to 0 and converted into elemental attack. The Blue Swap Scroll raises elemental resistance."
+Dragon Resistance,3,Increases dragon resistance. Also improves defense at higher levels.
+Dragonheart,5,Draconic energy fills you after losing a certain amount of health. Weapons lose all non-dragon effects.
+Earplugs,5,Grants protection from large monsters' roars.
+Element Exploit,3,Increases elemental damage when attacking body parts upon which the element are highly effective.
+Embolden,3,"When targeted by a monster, that monster becomes more likely to become enraged but your own defense is increased."
+Evade Extender,3,Increases evade distance.
+Evade Window,5,Extends the invulnerability period when evading.
+Fire Attack,5,Increases fire element attack power. (Elemental attack power has a maximum limit.)
+Fire Resistance,3,Increases fire resistance. Also improves defense at higher levels.
+Flinch Free,3,Prevents knockbacks and other reactions to small damage.
+Focus,3,Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.
+Foray,3,"Increases attack power and affinity when attacking a large monster affected by poison, paralysis, or an elemental blight."
+Fortify,1,Increases your attack and defense when you fall in battle. (Disabled for some quests. Can be activated twice.)
+Free Meal,3,Gives you a predetermined chance of consuming a food or drink item for free.
+Frenzied Bloodlust,3,Temporarily gain an additional Wirebug when overcoming the Frenzy. The effect duration decreases drastically when your weapon is sheathed.
+Frostcraft,3,"An aura of frost builds when your weapon is sheathed, raising attack. The effect decreases with each melee hit or shot/arrow fired."
+Furious,3,Using the Red Scroll builds your fury while fighting monsters. Swapping to the Blue Scroll when your fury is full gives you infinite stamina temporarily.
+Geologist,3,Increases the number of times you can use a gathering point.
+Good Luck,3,Good chance of increased quest rewards. (No effect when joining mid-quest.)
+Grinder (S),3,"When recovering sharpness, grants a boost to sharpness properties based on the number of levels recovered."
+Guard,5,Reduces knockbacks and stamina depletion when guarding.
+Guard Up,3,Allows you to guard against ordinarily unblockable attacks.
+Guts,3,Prevents fainting one time only when damage taken exceeds a certain amount of your remaining health.
+Handicraft,5,"Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+Heaven-Sent,3,Activates when not taking damage for a while during combat with a large monster. The effect is lost when you are knocked back or stray too far away from the monster.
+Hellfire Cloak,4,Grants hellfire resistance and confers explosive hellfire power to your attacks after fulfilling certain conditions.
+Heroics,5,Increases attack power and defense when health drops to 35% or lower.
+Horn Maestro,1,Increases overall performance speed and shockwave damage.
+Hunger Resistance,3,Reduces maximum stamina depletion over time.
+Ice Attack,5,Increases ice element attack power. (Elemental attack power has a maximum limit.)
+Ice Resistance,3,Increases ice resistance. Also improves defense at higher levels.
+Inspiration,1,"Adds an extra attack increase bonus for a short while when activating effects that affect friends within a certain target area, like melodies, etc."
+Intrepid Heart,2,"After filling the gauge by continuously landing attacks, negates damage reactions and reduces damage taken from a single attack that would knock you back."
+Item Prolonger,3,Extends the duration of some item effects.
+Jump Master,1,Prevents attacks from knocking you back during a jump.
+Kushala Blessing,4,Gain the power of the elder dragon Kushala Daora.
+Latent Power,5,Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+Leap of Faith,1,"Allows you to do an emergency evade when facing towards large monsters, and extends the evasion distance."
+Load Shells,2,"Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity."
+Mail of Hellfire,3,Decreases defense but increases attack. Exact changes to stats depends on Switch Skill Swap Scroll that is being used.
+Marathon Runner,3,Slows down stamina depletion for actions which continuously drain stamina (such as dashing).
+Master Mounter,1,Improves your Wyvern Riding skills.
+Master's Touch,3,Prevents your weapon from losing sharpness during critical hits.
+Maximum Might,3,Increases affinity if stamina is kept full for a period of time.
+Mind's Eye,3,Your attacks are deflected less and deal more damage to hard targets.
+Muck Resistance,2,Reduces impairments to mobility while stuck in monster muck or deep snow.
+Mushroomancer,3,Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.
+Normal/Rapid Up,3,Increases the attack power of Normal Ammo and Rapid-type arrows.
+Offensive Guard,3,Temporarily increases attack power after executing a perfectly-timed guard.
+Paralysis Attack,3,Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)
+Paralysis Resistance,3,Reduces the duration of paralysis.
+Partbreaker,3,Makes it easier to break or sever parts of monsters.
+Peak Performance,3,Increases attack when your health is full.
+Pierce Up,3,Increases the attack power of Piercing Ammo and Piercing-type arrows.
+Poison Attack,3,Increases the rate of poison buildup. (Poison buildup has a maximum limit.)
+Poison Resistance,3,Reduces damage while poisoned.
+Powder Mantle,3,Continuously attacking a large monster will cause powder to form around you. The color and effects of the powder will change over time.
+Power Prolonger,3,"Long swords, dual blades, insect glaives, switch axes, and charge blades stay powered up longer."
+Protective Polish,3,Weapon sharpness does not decrease for a set time after sharpening.
+Punishing Draw,3,Adds a stun effect to draw attacks and slightly increases attack power. (Does not include Silkbind attacks.)
+Quick Breath,1,You can remove some statuses or slow their effects by performing a Switch Skill Swap. Health recovers when a status is removed.
+Quick Sheathe,3,Speeds up weapon sheathing.
+Rapid Fire Up,3,Improves light bowgun rapid fire.
+Rapid Morph,3,Increases switch speed and power for switch axes and charge blades.
+Razor Sharp,3,Prevents your weapon from losing sharpness.
+Recoil Down,3,Reduces recoil when firing bowgun ammo.
+Recovery Speed,3,Speeds healing of recoverable damage (the red portion of the health gauge).
+Recovery Up,3,Increases the amount recovered when restoring health.
+Redirection,2,Perform a perfectly-timed Switch Skill Swap just as a monster attacks to reduce the damage and negate damage reactions.
+Reload Speed,3,Increases bowgun reloading and bow coating loading speed.
+Resentment,5,Increases attack when you have recoverable damage (the red portion of your health gauge).
+Resuscitate,3,Increases attack power when you are suffering from an abnormal status.
+Shock Absorber,1,Disables damage reactions when you hit a friend or when a friend hits you. (Does not apply during certain status ailments.)
+Sleep Attack,3,Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)
+Sleep Resistance,3,Reduces the duration of sleep.
+Slugger,3,Makes it easier to stun monsters.
+Sneak Attack,3,Increases damage to large monsters when attacks hit them from behind.
+Spare Shot,3,Bow and bowgun shots have a chance not to expend coatings or ammo.
+Special Ammo Boost,2,Increases the power of bowgun special ammo and Dragon Piercer.
+Speed Eating,3,Increases meat-eating and item-consumption speed.
+Speed Sharpening,3,Speeds up weapon sharpening when using a whetstone.
+Spiribird's Call,1,Receive the effects of a random Spiribird at fixed intervals. (Certain quests only)
+Spread Up,3,Increases the attack power of Spread Ammo and Spread- type arrows
+Stamina Surge,3,Speeds up stamina recovery.
+Stamina Thief,3,Increases certain attacks' ability to exhaust monsters.
+Status Trigger,3,Perform a perfectly-timed evade just as a monster attacks to trigger abnormal status buildup on hit.
+Steadiness,3,Suppresses the deviation of bowgun shots.
+Stormsoul,5,Strengthens thunder and dragon power and improves skills of the same elements.
+Strife,3,Increases elemental attack and affinity in proportion to the length of your red health gauge.
+Stun Resistance,3,Reduces stun duration.
+Teostra Blessing,4,Gain the power of the elder dragon Teostra.
+Thunder Alignment,5,Gain the power of the elder dragon Thunder Serpent Narwa.
+Thunder Attack,5,Increases thunder element attack power. (Elemental attack power has a maximum limit.)
+Thunder Resistance,3,Increases thunder resistance. Also improves defense at higher levels.
+Tremor Resistance,3,Grants protection against ground tremors.
+Tune-Up,2,Increases the stats of custom mods attached to bowguns.
+Wall Runner,3,Reduces stamina consumption when running on walls.
+Wall Runner (Boost),1,Wirebug Gauge recovers faster while wall running.
+Water Attack,5,Increases water element attack power. (Elemental attack power has a maximum limit.)
+Water Resistance,3,Increases water resistance. Also improves defense at higher levels.
+Weakness Exploit,3,Increases the affinity of attacks that exploit a monster weak spot.
+Wide-Range,5,Allows the effects of certain items to also affect nearby allies.
+Wind Alignment,5,Gain the power of the elder dragon Wind Serpent Ibushi.
+Wind Mantle,3,Using Silkbind attacks boosts Wirebug Gauge recovery. Landing continuous attacks increases the effect. Wears off when you sheathe your weapon.
+Windproof,3,Grants protection against wind pressure.
+Wirebug Whisperer,3,Improves your handling of Wirebugs.

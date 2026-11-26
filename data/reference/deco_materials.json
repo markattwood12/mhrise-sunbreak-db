@@ -1,0 +1,1222 @@
+{
+ "Dragon Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "2x Aquaglow Jewel 2x Rathian Carapace 1x Dragonbone Relic"
+ },
+ "Dragon Jewel+ 2": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Rathian Cortex 1x Eroded Elder Skeleton"
+ },
+ "Hard Dragon Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Adamant Jewel 2x Gore Magala Cortex 7x Afflicted Bone Key"
+ },
+ "Hard Dragon Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Gore Magala Mantle 6x Afflicted Dire Hardbone Key"
+ },
+ "Flawless Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "Apex Mizutsune",
+  "mats": "4x Lazurite Jewel 2x Apex Bubblefoam 3x Ibushi Claw+ 1x Basarios Tears"
+ },
+ "Flawless Jewel+ 4": {
+  "unlock": "None",
+  "key": "Risen Kushala Daora",
+  "mats": "5x Sovereign Jewel 1x Daora Risegem 3x Tigrex Hardfang 1x Large Elder Dragon Gem"
+ },
+ "Bomber Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 1x Inferno Sac 2x Magna Ghostprism"
+ },
+ "Hard Bomber Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 1x Bombadgy Activator 3x Conflagrant Sac"
+ },
+ "Geology Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Kulu-Ya-Ku Scale+"
+ },
+ "Hard Geology Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 3x Kulu-Ya-Ku Shard 2x Eroded Elder Skeleton"
+ },
+ "Wind Res Jewel 1": {
+  "unlock": "Quest: Serpent God of Wind",
+  "key": "",
+  "mats": "1x Bloodrun Jewel 2x Basarios Carapace 2x Tetra Carapace+"
+ },
+ "Hard Wind Res Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Heavy Tetra Carapace 2x Vespoid Razorwing"
+ },
+ "Wirebug Jewel 2": {
+  "unlock": "None",
+  "key": "Bishaten",
+  "mats": "2x Aquaglow Jewel 2x Bishaten Feather+ 2x Monster Broth"
+ },
+ "Wirebug Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 2x Pyre-Kadaki Silk+ 2x Monster Essence 7x Afflicted Fang Key"
+ },
+ "Flywall Jewel 1": {
+  "unlock": "MR 6\u2605",
+  "key": "",
+  "mats": "3x Adamant Jewel 2x Seregios Carver+ 1x Archdemon Wingtalon"
+ },
+ "Foray Jewel 2": {
+  "unlock": "None",
+  "key": "Flaming Espinas",
+  "mats": "5x Sovereign Jewel 2x Flaming Espinas Sulfur 1x Teostra Hardhorn"
+ },
+ "Foray Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 2x Espinas Surspike 3x Afflicted Dire Hardfang 3x Afflicted Dire Fellwing Key"
+ },
+ "Razor Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "Rajang",
+  "mats": "5x Lazurite Jewel 3x Magnamalo Scute+ 2x Rajang Claw+ 1x Rathalos Plate"
+ },
+ "Razor Jewel+ 4": {
+  "unlock": "None",
+  "key": "Lucent Nargacuga",
+  "mats": "6x Sovereign Jewel 2x Lucent Narga Razor 2x Magnamalo Bladeshell"
+ },
+ "Chain Jewel 2": {
+  "unlock": "None",
+  "key": "Violet Mizutsune",
+  "mats": "6x Sovereign Jewel 2x White Synovial Fluid 2x Astalos Wingripper"
+ },
+ "Chain Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 1x Astalos Mantle 6x Risen Dragonbone+ Key"
+ },
+ "Hellfire Jewel 3": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 3x Magna Soulprism 2x Rathalos Scale+ 2x Rakna-Kadaki Glowgut"
+ },
+ "Hellfire Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 3x Magnamalo Soulprism+ 2x Rakna-Kadaki Glowgut+ 7x Afflicted Fang Key"
+ },
+ "Potential Jewel 2": {
+  "unlock": "None",
+  "key": "Diablos",
+  "mats": "5x Bloodrun Jewel 2x Rajang Tail 2x Majestic Horn 2x Tigrex Scale+"
+ },
+ "Potential Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 3x Gold Rajang Pelt+ 6x Risen Dragonbone Key"
+ },
+ "Pierce Jewel 3": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 3x Tigrex Fang+ 1x Rajang Horn+ 1x Mizutsune Plate"
+ },
+ "Pierce Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 2x Lucent Narga Hardfang 6x Afflicted Dire Claw Key"
+ },
+ "Quickload Jewel 1": {
+  "unlock": "Hub 7\u2605",
+  "key": "",
+  "mats": "3x Bloodrun Jewel 2x Magnamalo Scale+ 2x Diablos Carapace 1x Bishaten Fur+"
+ },
+ "Fate Jewel 3": {
+  "unlock": "None",
+  "key": "Chameleos",
+  "mats": "8x Lazurite Jewel 6x Chameleos Hide+ 4x Chameleos Wing 1x Golden Almudron Orb"
+ },
+ "Fate Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 5x Chameleos Finehide 1x Almudron Mantle 7x Afflicted Fang Key"
+ },
+ "Sharp Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "4x Lazurite Jewel 4x Magnamalo Blade+ 3x Narga Razor 1x Great Izuchi Tail+"
+ },
+ "Sharp Jewel+ 4": {
+  "unlock": "None",
+  "key": "Silver Rathalos",
+  "mats": "4x Sovereign Jewel 2x Silver Rathalos Lash 2x Seregios Breacher+ 1x Rath Gleam"
+ },
+ "Bolt Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "2x Aquaglow Jewel 2x Pearl Hide 1x Thunder Sac"
+ },
+ "Bolt Jewel+ 2": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 3x Lightning Sac 4x Sapphiron Ore"
+ },
+ "Hard Bolt Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Adamant Jewel 2x Pearl Glosshide 7x Afflicted Bone Key"
+ },
+ "Hard Bolt Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Zinogre Skymerald 6x Afflicted Hardfang Key"
+ },
+ "Crisis Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "4x Lazurite Jewel 3x Nargacuga Pelt+ 2x Tigrex Carapace 1x Beast Gem"
+ },
+ "Crisis Jewel+ 4": {
+  "unlock": "None",
+  "key": "Gold Rathian",
+  "mats": "5x Sovereign Jewel 3x Gold Rathian Shard 2x Tigrex Cortex"
+ },
+ "Ironshell Jewel 1": {
+  "unlock": "None",
+  "key": "Risen Kushala Daora",
+  "mats": "2x Sovereign Jewel 1x Daora Risegem 2x Barioth Greatspike 3x Daora Cortex"
+ },
+ "Diversion Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 3x Remobra Hide+"
+ },
+ "Cornerstone Jewel 1": {
+  "unlock": "None",
+  "key": "Gold Rathian",
+  "mats": "2x Sovereign Jewel 2x Gold Rathian Cortex 1x Rath Gleam"
+ },
+ "Hard Cornerstone Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 3x Gold Rathian Surspike 6x Afflicted Dire Fellwing Key"
+ },
+ "Rodeo Jewel 2": {
+  "unlock": "None",
+  "key": "Aknosom",
+  "mats": "1x Aquaglow Jewel 2x Aknosom Feather+"
+ },
+ "Shockproof Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 1x Monster Bone+"
+ },
+ "Embolden Jewel 2": {
+  "unlock": "None",
+  "key": "Velkhana",
+  "mats": "3x Sovereign Jewel 2x Velkhana Hardclaw 2x Violet Mizu Whitefell"
+ },
+ "Embolden Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 2x Violet Mizu Hardclaw 6x Risen Dragon Blood Key"
+ },
+ "Backstab Jewel 2": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 2x Lucent Narga Razor 2x Afflicted Dire Fang+ Key 2x Afflicted Dire Wing+"
+ },
+ "Backstab Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Cloudy Moonshard 6x Afflicted Dire Hardfang Key"
+ },
+ "Critical Jewel 2": {
+  "unlock": "None",
+  "key": "Apex Rathalos",
+  "mats": "5x Lazurite Jewel 2x Apex Blaze Sac 2x Magnamalo Horn+ 1x Almudron Plate"
+ },
+ "Enhancer Jewel 2": {
+  "unlock": "None",
+  "key": "Almudron",
+  "mats": "4x Bloodrun Jewel 2x Block of Ice+ 2x Golden Sludge 1x Wyvern Gem"
+ },
+ "Enhancer Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 3x Orangaten Fur+ 2x Inferno Lava Mud 7x Afflicted Fang Key"
+ },
+ "Draw Jewel 3": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 3x Ibushi Claw+ 2x Majestic Horn 1x Amber Fang+"
+ },
+ "Draw Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 3x Twisted Stouthorn 2x Amber Hardfang 7x Afflicted Claw Key"
+ },
+ "Intrepid Jewel 1": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 2x Flaming Espinas Hardhorn 4x Afflicted Dire Darkblood Key"
+ },
+ "Intrepid Jewel+ 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Flaming Espinas Mantle 6x Risen Dragon Blood Key"
+ },
+ "Counter Jewel 2": {
+  "unlock": "Quest: Serpent God of Wind",
+  "key": "",
+  "mats": "2x Bloodrun Jewel 3x Rathalos Scale+ 1x Ibushi Horn+"
+ },
+ "Counter Jewel+ 4": {
+  "unlock": "None",
+  "key": "Silver Rathalos",
+  "mats": "6x Sovereign Jewel 2x Gold Rathian Surspike 1x Rathian Mantle"
+ },
+ "Spiribird's Call Jewel 1": {
+  "unlock": "None",
+  "key": "",
+  "mats": "2x Anomaly Jewel 2x Garangolm Cortex 7x Afflicted Dire Scale Key"
+ },
+ "Attack Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 3x Rajang Blackfur 3x Goss Harag Claw+ 1x Magnamalo Plate"
+ },
+ "Attack Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Anomaly Jewel 1x Abyssal Dragonsphire 6x Risen Dragon Thickblood Key"
+ },
+ "Crit Element Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 2x Elder Dragon Blood 2x Block of Ice+ 1x Tobi-Kadachi Electrode+"
+ },
+ "Crit Element Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel Key 2x Pure Dragon Blood 1x Large Wyvern Gem"
+ },
+ "Charger Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 3x Ibushi Windsac 3x Magnamalo Scute+ 2x Rath Medulla"
+ },
+ "Charger Jewel+ 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Large Volvi Rickrack 1x Dragonbone Artifact"
+ },
+ "Dive Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Bullfango Pelt+ 1x Stoutbone"
+ },
+ "Salvo Jewel 3": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 3x Narwa Horn+ 1x Rathian Spike+ 1x Anjanath Plate"
+ },
+ "Inspiration Jewel 1": {
+  "unlock": "None",
+  "key": "Primordial Malzeno",
+  "mats": "4x Sovereign Jewel 1x Primordial Scale 1x Malzeno Pureplate"
+ },
+ "Haze Jewel 1": {
+  "unlock": "None",
+  "key": "Risen Chameleos",
+  "mats": "2x Sovereign Jewel 1x Chameleos Risegem 3x Chameleos Finehide 1x Large Pukei-Pukei Sac"
+ },
+ "Sprinter Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 3x Zinogre Electrofur 3x Diablos Carapace 2x Royal Ludroth Claw+"
+ },
+ "Sprinter Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel 3x Boltscale 2x Magmadron Hardwhisker 7x Afflicted Scale Key"
+ },
+ "Forceshot Jewel 3": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 2x Majestic Horn 2x Goss Harag Horn+ 2x Wyvern Gem"
+ },
+ "Forceshot Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 2x Flickering Silvershell 6x Afflicted Dire Shell Key"
+ },
+ "Gambit Jewel 2": {
+  "unlock": "None",
+  "key": "Zinogre",
+  "mats": "2x Bloodrun Jewel 1x Zinogre Horn+ 2x Somnacanth Shell+ 1x Goss Harag Claw"
+ },
+ "Gambit Jewel+ 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 2x Somnacanth Cortex 1x Large Wyvern Gem"
+ },
+ "Mighty Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 2x Narwa Claw+ 4x Goss Harag Fur+ 1x Rathian Plate"
+ },
+ "Mighty Jewel+ 4": {
+  "unlock": "None",
+  "key": "Violet Mizutsune",
+  "mats": "6x Sovereign Jewel 3x Violet Mizu Fin 3x Abyssal Dragonscale"
+ },
+ "Ironwall Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 3x Narwa Sparksac 3x Almudron Fin+ 2x Tetranadon Disc+"
+ },
+ "Ironwall Jewel+ 3": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 2x Jyuratodus Grandfin 1x Basarios Lash"
+ },
+ "Expert Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 3x Elder Dragon Blood 3x Rajang Blackfur 1x Ibushi Bluespike"
+ },
+ "Expert Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Anomaly Jewel 1x Velkhana Crystal 6x Risen Dragon Thickblood Key"
+ },
+ "Hungerless Jewel 1": {
+  "unlock": "None",
+  "key": "Tetranadon",
+  "mats": "1x Aquaglow Jewel 1x Tetranadon Beak+"
+ },
+ "Hard Hungerless Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 1x Tetranadon Greatbeak 5x Tiny Hermitaur Shell"
+ },
+ "Refresh Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 3x Tigrex Scale+ 2x Almudron Whisker+ 2x Royal Ludroth Crest+"
+ },
+ "Refresh Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel 3x Almud Ascetic Whisker 2x Chic Crest 7x Afflicted Shell Key"
+ },
+ "Quickswitch Jewel 2": {
+  "unlock": "None",
+  "key": "Tigrex",
+  "mats": "3x Bloodrun Jewel 2x Tigrex Claw+ 1x Somnacanth Claw+ 2x Rakna-Kadaki Silk"
+ },
+ "Quickswitch Jewel+ 4": {
+  "unlock": "None",
+  "key": "Seething Bazelgeuse",
+  "mats": "5x Sovereign Jewel 2x Scorching Silverwing 2x Luna Vermilion Hardclaw"
+ },
+ "Fungiform Jewel 3": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 1x Tigrex Maw 3x Anjanath Fang+ 3x Mandragora"
+ },
+ "Fungiform Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 4x Tigrex Hardfang 2x Rainbowshrooms 7x Afflicted Claw Key"
+ },
+ "Trigger Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Chameleos Risegem 4x Risen Dragonbone Key"
+ },
+ "Trigger Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 1x Chameleos Risegem 6x Risen Slogbone Key"
+ },
+ "Grinder Jewel 1": {
+  "unlock": "None",
+  "key": "Rathian",
+  "mats": "2x Aquaglow Jewel 2x Rath Wingtalon+ 1x Great Izuchi Tail+"
+ },
+ "Hard Grinder Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Sovereign Jewel 1x Seregios Breacher+ 1x Great Izuchi Grindtail 7x Afflicted Blood Key"
+ },
+ "Thunder Res Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Pearl Hide"
+ },
+ "Hard Thunder Res Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Vespoid Razorwing 2x Monster Essence"
+ },
+ "Blunt Jewel 2": {
+  "unlock": "None",
+  "key": "Diablos",
+  "mats": "4x Bloodrun Jewel 3x Goss Harag Brace+ 2x Diablos Ridge+ 1x Rajang Tail"
+ },
+ "Botany Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Great Izuchi Pelt+"
+ },
+ "Hard Botany Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 3x Great Izuchi Thickfur"
+ },
+ "Precise Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 2x Narwa Claw+ 3x Zinogre Claw+ 1x Diablos Medulla"
+ },
+ "Precise Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 3x Zinogre Hardclaw 2x Abyssal Dragonscale 7x Afflicted Claw Key"
+ },
+ "Challenger Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "4x Lazurite Jewel 2x Anjanath Scale+ 3x Almudron Scale+ 1x Beast Gem"
+ },
+ "Challenger Jewel+ 4": {
+  "unlock": "None",
+  "key": "Amatsu",
+  "mats": "5x Sovereign Jewel 3x Amatsu Hardclaw 1x Zinogre Skymerald"
+ },
+ "Fire Res Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Aknosom Scale+"
+ },
+ "Hard Fire Res Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 1x Large Kulu-Ya-Ku Plume 3x Monster Toughbone"
+ },
+ "Phoenix Jewel 2": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 2x Gore Magala Cortex 2x S. Magala Shard 7x Afflicted Dire Horn Key"
+ },
+ "Phoenix Jewel+ 4": {
+  "unlock": "None",
+  "key": "Risen Chameleos",
+  "mats": "5x Sovereign Jewel 1x Chameleos Risegem 2x Gore Magala Eclipse 1x S. Magala Hardhorn"
+ },
+ "Jumping Jewel 2": {
+  "unlock": "None",
+  "key": "Tobi-Kadachi",
+  "mats": "2x Bloodrun Jewel 4x Zinogre Shocker+ 2x Tobi-Kadachi Scale+"
+ },
+ "Jumping Jewel+ 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 2x Bishaten Glidefeather 1x Large Beast Gem"
+ },
+ "Dragon Res Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Monster Keenbone 2x Dragonhusk Shard"
+ },
+ "Hard Dragon Res Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Hornetaur Cortex 5x Massive Monster Bone"
+ },
+ "Mind's Eye Jewel 2": {
+  "unlock": "None",
+  "key": "Tigrex",
+  "mats": "5x Bloodrun Jewel 2x Goss Harag Hide+ 3x Mizutsune Purplefur+ 2x Gold Rajang Pelt"
+ },
+ "Mind's Eye Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel 2x Goss Finehide 3x Mizutsune Purplefell 7x Afflicted Scale Key"
+ },
+ "Mastery Jewel 2": {
+  "unlock": "None",
+  "key": "Teostra",
+  "mats": "8x Lazurite Jewel 6x Fire Dragon Scale+ 4x Teostra Mane 1x Goss Harag Bile"
+ },
+ "Mastery Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 1x Hellfire Shard 1x Teostra Lash 7x Afflicted Dire Bone Key"
+ },
+ "Bloodlust Jewel 4": {
+  "unlock": "None",
+  "key": "Risen Shagaru Magala",
+  "mats": "5x Sovereign Jewel 1x Shagaru Risegem 3x Rouge Lancewing+"
+ },
+ "Gobbler Jewel 2": {
+  "unlock": "Hub 6\u2605",
+  "key": "",
+  "mats": "2x Bloodrun Jewel 2x Anjanath Fang+ 1x Tetranadon Beak+"
+ },
+ "Gobbler Jewel+ 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 1x Tetranadon Greatbeak 3x Velociprey Shard"
+ },
+ "Antiblast Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Inferno Sac 2x Bombadgy Igniter"
+ },
+ "Hard Antiblast Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 3x Orangaten Feather+ 7x Afflicted Dire Horn Key"
+ },
+ "Destroyer Jewel 2": {
+  "unlock": "Hub 6\u2605",
+  "key": "",
+  "mats": "1x Bloodrun Jewel 2x Zinogre Claw+ 1x Amber Fang+ 1x Diablos Tailcase"
+ },
+ "Destroyer Jewel+ 4": {
+  "unlock": "None",
+  "key": "Silver Rathalos",
+  "mats": "4x Sovereign Jewel 2x Silver Rathalos Cortex 1x Zinogre Hardclaw"
+ },
+ "Steadfast Jewel 1": {
+  "unlock": "Hub 7\u2605",
+  "key": "",
+  "mats": "2x Bloodrun Jewel 2x Rakna-Kadaki Carapace 2x Almudron Shell+"
+ },
+ "Hard Steadfast Jewel 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 3x Pukei-Pukei Fellwing 2x Kestodon Husk"
+ },
+ "Dragon Spirit Jewel 4": {
+  "unlock": "None",
+  "key": "Risen Crimson Glow Valstrax",
+  "mats": "5x Sovereign Jewel 1x Valstrax Risegem 2x Ibushi Windsac+"
+ },
+ "Blast Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "Bazelgeuse",
+  "mats": "4x Lazurite Jewel 2x Bazelgeuse Fuse 1x Bazelgeuse Carapace 2x Magna Soulprism"
+ },
+ "Blast Jewel+ 4": {
+  "unlock": "None",
+  "key": "Flaming Espinas",
+  "mats": "4x Sovereign Jewel 3x Flaming Espinas Shard 1x Bazelgeuse Glandflux"
+ },
+ "Brace Jewel 1": {
+  "unlock": "None",
+  "key": "Zinogre",
+  "mats": "2x Bloodrun Jewel 2x Zinogre Carapace 2x Mizutsune Claw+"
+ },
+ "Hard Brace Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Adamant Jewel 2x Garangolm Shard 1x Luna Vermilion Hardclaw 7x Afflicted Monster Bone Key"
+ },
+ "Frost Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "2x Aquaglow Jewel 2x Lagombi Pelt+ 2x Great Baggi Claw+"
+ },
+ "Frost Jewel+ 2": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Lagombi Fur 2x Frozen Stiffbone"
+ },
+ "Hard Frost Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Adamant Jewel 2x Auroracanth Icescale 7x Afflicted Pelt Key"
+ },
+ "Hard Frost Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Lunagaron Frost Jewel 6x Afflicted Shard Key"
+ },
+ "Physique Jewel 2": {
+  "unlock": "None",
+  "key": "Volvidon",
+  "mats": "2x Aquaglow Jewel 3x Volvidon Carapace 1x Fucium Ore"
+ },
+ "Physique Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel 3x Volvidon Cortex 3x Boggi Shard 7x Afflicted Shell Key"
+ },
+ "Earplug Jewel 3": {
+  "unlock": "None",
+  "key": "Magnamalo",
+  "mats": "4x Bloodrun Jewel 4x Magnamalo Shell+ 1x Tigrex Maw 1x Lagombi Ear+"
+ },
+ "Earplug Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "6x Sovereign Jewel 3x Magnamalo Cortex 2x Lagombi Auricle 7x Afflicted Fang Key"
+ },
+ "Sonorous Jewel 1": {
+  "unlock": "None",
+  "key": "Pukei-Pukei",
+  "mats": "1x Aquaglow Jewel 1x Pukei-Pukei Sac+"
+ },
+ "Recovery Jewel 1": {
+  "unlock": "None",
+  "key": "Jyuratodus",
+  "mats": "1x Aquaglow Jewel 2x Jyuratodus Fin+"
+ },
+ "Hard Recovery Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 3x Barroth Chine 2x Gajau Thickhide"
+ },
+ "Charge Jewel 2": {
+  "unlock": "None",
+  "key": "Seething Bazelgeuse",
+  "mats": "5x Sovereign Jewel 2x Distilled Blast Fluid 1x Golm Ploughtail"
+ },
+ "Charge Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 3x Flaming Espinas Cortex 3x Afflicted Dire Blood Key 3x Afflicted Dire Wing"
+ },
+ "Redirection Jewel 3": {
+  "unlock": "MR 5\u2605",
+  "key": "",
+  "mats": "2x Sovereign Jewel 2x Frostborn Hardfang 2x Malzeno Fellwing"
+ },
+ "Redirection Jewel+ 4": {
+  "unlock": "None",
+  "key": "Chaotic Gore Magala",
+  "mats": "6x Sovereign Jewel 1x Contrary Scale"
+ },
+ "Drain Jewel 1": {
+  "unlock": "None",
+  "key": "Barroth",
+  "mats": "1x Aquaglow Jewel 2x Barroth Claw+"
+ },
+ "Hard Drain Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Sovereign Jewel 2x Barroth Hardclaw 7x Afflicted Monster Bone Key"
+ },
+ "Artillery Jewel 2": {
+  "unlock": "None",
+  "key": "Magnamalo",
+  "mats": "4x Bloodrun Jewel 4x Magnamalo Scale+ 2x Pukei-Pukei Sac+ 1x Tetranadon Beak+"
+ },
+ "Artillery Jewel+ 4": {
+  "unlock": "None",
+  "key": "Seething Bazelgeuse",
+  "mats": "6x Sovereign Jewel 2x Distilled Blast Fluid 2x Magnamalo Shard 3x Allfire Stone"
+ },
+ "Friendship Jewel 2": {
+  "unlock": "Hub 6\u2605",
+  "key": "",
+  "mats": "1x Bloodrun Jewel 1x Mizutsune Claw+ 2x Nargacuga Scale+ 2x Lifepowder"
+ },
+ "Hard Friendship Jewel 3": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Arzuros Allbrace 1x Gargwa Finefeather"
+ },
+ "Hard Friendship Jewel+ 4": {
+  "unlock": "MR 5\u2605",
+  "key": "",
+  "mats": "2x Sovereign Jewel 2x Auroracanth Iceclaw 4x Nargacuga Shard 6x Monster Slogbone"
+ },
+ "Evasion Jewel 2": {
+  "unlock": "None",
+  "key": "Rathalos",
+  "mats": "2x Bloodrun Jewel 2x Barioth Claw+ 2x Tobi-Kadachi Pelt+ 1x Rathalos Carapace"
+ },
+ "Evasion Jewel+ 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 3x Tobi-Kadachi Thickfur 1x Fey Wyvern Gem"
+ },
+ "Sniper Jewel 1": {
+  "unlock": "None",
+  "key": "Barioth",
+  "mats": "1x Bloodrun Jewel 2x Mizutsune Scale+ 1x Rathalos Wing"
+ },
+ "Sniper Jewel+ 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 3x Rathian Weave"
+ },
+ "Hard Sniper Jewel 4": {
+  "unlock": "None",
+  "key": "Seething Bazelgeuse",
+  "mats": "3x Sovereign Jewel 2x Flickering Silvershell 1x Rathalos Fellwing"
+ },
+ "Resistor Jewel 2": {
+  "unlock": "Hub 6\u2605",
+  "key": "",
+  "mats": "1x Bloodrun Jewel 1x Freezer Sac 1x Thunder Sac 1x Torrent Sac"
+ },
+ "Resistor Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Adamant Jewel 2x Magnamalo Soulprism+ 1x S. Magala Lightwing 7x Afflicted Blood Key"
+ },
+ "Pep Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Great Baggi Hide+ 2x Baggi Scale+"
+ },
+ "Hard Pep Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 3x Somnacanth Shard 7x Afflicted Dire Bone Key"
+ },
+ "Blaze Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "2x Aquaglow Jewel 2x Rathian Scale+ 1x Inferno Sac"
+ },
+ "Blaze Jewel+ 2": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 3x Conflagrant Sac 2x Awegite"
+ },
+ "Hard Blaze Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Adamant Jewel 2x Pyre-Kadaki Dull Glowgut 7x Afflicted Pelt Key"
+ },
+ "Hard Blaze Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Rathalos Mantle 6x Afflicted Thickhide Key"
+ },
+ "Bladescale Jewel 2": {
+  "unlock": "MR 6\u2605",
+  "key": "",
+  "mats": "3x Adamant Jewel 3x Seregios Airblade+ 1x Archdemon Tailhook"
+ },
+ "Bladescale Jewel+ 4": {
+  "unlock": "None",
+  "key": "Amatsu",
+  "mats": "5x Sovereign Jewel 3x Amatsu Cortex 1x Seregios Lens"
+ },
+ "Capacity Jewel 3": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 3x Ibushi Windsac 3x Nargacuga Fang+ 2x Jyuratodus Fang+"
+ },
+ "Capacity Jewel+ 4": {
+  "unlock": "None",
+  "key": "Amatsu",
+  "mats": "6x Sovereign Jewel 1x Heavenly Dragonsphire 3x Velkhana Fellwing"
+ },
+ "Defense Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "2x Aquaglow Jewel 2x Basarios Carapace 1x Barroth Ridge+"
+ },
+ "Defense Jewel+ 2": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Barroth Chine 3x Massive Monster Bone"
+ },
+ "Hard Defense Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "2x Adamant Jewel Key 3x Monster Slogbone 2x Basarios Cortex"
+ },
+ "Hard Defense Jewel++ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Sovereign Jewel Key 3x Large Elder Dragon Bone 2x Diablos Chine 1x Conqueror's Seal"
+ },
+ "Enduring Jewel 2": {
+  "unlock": "None",
+  "key": "Royal Ludroth",
+  "mats": "1x Aquaglow Jewel 2x Royal Ludroth Scale+"
+ },
+ "Hard Enduring Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Royal Ludroth Shard"
+ },
+ "KO Jewel 2": {
+  "unlock": "None",
+  "key": "Anjanath",
+  "mats": "1x Bloodrun Jewel 2x Anjanath Nosebone+ 1x Barroth Scalp"
+ },
+ "KO Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel 2x Heavy Anjanath Nosebone 1x Basarios Pallium 7x Afflicted Shell Key"
+ },
+ "Tenderizer Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 3x Rakna-Kadaki Spike 3x Almudron Claw+ 1x Narga Medulla"
+ },
+ "Leap Jewel 3": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 3x Bazelgeuse Wing 1x Rathalos Wing 2x Bishaten Horn+"
+ },
+ "Water Res Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Tetranadon Hide+"
+ },
+ "Hard Water Res Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 1x Imperial Beak 3x Spongy Piel"
+ },
+ "Sheath Jewel 2": {
+  "unlock": "None",
+  "key": "Nargacuga",
+  "mats": "2x Bloodrun Jewel 2x Nargacuga Pelt+ 1x Tobi-Kadachi Claw+ 1x Bishaten Talon+"
+ },
+ "Sheath Jewel+ 4": {
+  "unlock": "None",
+  "key": "Gold Rathian",
+  "mats": "4x Sovereign Jewel 2x Gold Rathian Weave 1x Tobi-Kadachi Hardclaw 1x Bishaten Hardclaw"
+ },
+ "Furor Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "4x Lazurite Jewel 2x Tigrex Claw+ 3x Barioth Pelt+ 2x Ibushi Carapace"
+ },
+ "Furor Jewel+ 4": {
+  "unlock": "None",
+  "key": "Velkhana",
+  "mats": "5x Sovereign Jewel 2x Velkhana Crownhorn 2x Archdemon Piercetalon 1x Pyre-Kadaki Spike+"
+ },
+ "Antipara Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 3x Bnahabra Carapace 1x Bnahabra Stinger"
+ },
+ "Hard Antipara Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 3x Pearl Glosshide 7x Afflicted Dire Horn Key"
+ },
+ "Spread Jewel 3": {
+  "unlock": "Check:HRUnlock",
+  "key": "Bazelgeuse",
+  "mats": "5x Lazurite Jewel 3x Bazelgeuse Fuse 2x Bazelgeuse Talon 1x Zinogre Plate"
+ },
+ "Spread Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 2x Gold Rathian Surspike 6x Afflicted Dire Shell Key"
+ },
+ "Shield Jewel 2": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "4x Bloodrun Jewel 3x Narwa Carapace 3x Goss Harag Brace+ 2x Basarios Pleura+"
+ },
+ "Shield Jewel+ 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 3x Basarios Pectus+"
+ },
+ "Throttle Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "4x Lazurite Jewel 3x Anjanath Pelt+ 1x Zinogre Horn+ 1x Wyvern Gem"
+ },
+ "Throttle Jewel+ 4": {
+  "unlock": "None",
+  "key": "Risen Teostra",
+  "mats": "5x Sovereign Jewel 1x Teostra Risegem 3x Gold Rajang Pelt+ 1x Large Elder Dragon Gem"
+ },
+ "Polisher Pro Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 3x Ceanataur Hardclaw 7x Afflicted Dire Scale Key"
+ },
+ "Polisher Pro Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 4x Seregios Carver+ 6x Afflicted Dire Fang Key"
+ },
+ "Bubble Jewel 2": {
+  "unlock": "None",
+  "key": "Mizutsune",
+  "mats": "1x Bloodrun Jewel 2x Bubblefoam+ 2x Torrent Sac"
+ },
+ "Bubble Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Sovereign Jewel 2x Distilled Bubblefoam 1x Fine Black Pearl 7x Afflicted Scale Key"
+ },
+ "Protection Jewel 2": {
+  "unlock": "Hub 6\u2605",
+  "key": "",
+  "mats": "4x Bloodrun Jewel 3x Somnacanth Scale+ 2x Mizutsune Fin+ 1x Wyvern Gem"
+ },
+ "Protection Jewel+ 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Spongy Piel 3x Twisted Stiffbone"
+ },
+ "Foil Jewel 3": {
+  "unlock": "None",
+  "key": "Lucent Nargacuga",
+  "mats": "5x Sovereign Jewel 4x Lucent Narga Dapple 1x Rakna-Kadaki Cortex 1x Tiny Hermitaur Shell"
+ },
+ "Foil Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 2x Rakna-Kadaki Spike+ 2x Flaming Espinas Surspike 6x Afflicted Dire Cortex Key"
+ },
+ "Satiated Jewel 1": {
+  "unlock": "None",
+  "key": "Khezu",
+  "mats": "2x Aquaglow Jewel 2x Suspicious Fang+ 1x Kulu-Ya-Ku Beak+"
+ },
+ "Hard Satiated Jewel 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 2x Mystic Hardfang 1x Colossal Drill Beak"
+ },
+ "Magazine Jewel 2": {
+  "unlock": "None",
+  "key": "Goss Harag",
+  "mats": "4x Bloodrun Jewel 2x Goss Harag Horn+ 2x Bishaten Tailcase+ 1x Beast Gem"
+ },
+ "Magazine Jewel+ 4": {
+  "unlock": "None",
+  "key": "Seething Bazelgeuse",
+  "mats": "6x Sovereign Jewel 2x Scorching Silverwing 1x Magmadron Mantle"
+ },
+ "Handicraft Jewel 3": {
+  "unlock": "None",
+  "key": "Kushala Daora",
+  "mats": "8x Lazurite Jewel 6x Daora Dragon Scale+ 3x Daora Horn+ 1x Purple Magna Orb"
+ },
+ "Handicraft Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 3x Daora Hardclaw 6x Afflicted Dire Claw Key"
+ },
+ "Flamescale Jewel 1": {
+  "unlock": "None",
+  "key": "Risen Teostra",
+  "mats": "2x Sovereign Jewel 1x Teostra Risegem 2x Pyre-Kadaki Dull Glowgut 3x Teostra Cortex"
+ },
+ "Ice Res Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Lagombi Frozenclaw"
+ },
+ "Hard Ice Res Jewel 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 1x Glorious Crest 3x Prized Pelt"
+ },
+ "Muck Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Lagombi Plastron+ 1x Barroth Shell"
+ },
+ "Fortitude Jewel 2": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Arzuros Carapace"
+ },
+ "Bloodening Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 1x Malzeno Bloodstone 4x Afflicted Dire Hardclaw Key"
+ },
+ "Bloodening Jewel+ 4": {
+  "unlock": "None",
+  "key": "Primordial Malzeno",
+  "mats": "6x Sovereign Jewel 1x Rajang Heart 1x Malzeno Beautifang"
+ },
+ "Element Exploit Jewel 2": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 2x Rath Gleam 4x Afflicted Dire Dragon Blood Key"
+ },
+ "Element Exploit Jewel+ 4": {
+  "unlock": "None",
+  "key": "Risen Crimson Glow Valstrax",
+  "mats": "6x Sovereign Jewel 1x Valstrax Risegem 2x Silver Rathalos Fellwing 1x Large Elder Dragon Gem"
+ },
+ "Footing Jewel 2": {
+  "unlock": "None",
+  "key": "Goss Harag",
+  "mats": "2x Bloodrun Jewel 2x Diablos Ridge+ 1x Great Stoutbone 2x Tetra Carapace+"
+ },
+ "Footing Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Adamant Jewel 3x Solid Bone 2x Heavy Tetra Carapace 7x Afflicted Monster Bone Key"
+ },
+ "Slider Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 1x Lagombi Plastron+ 1x Spongy Hide+"
+ },
+ "Stream Jewel 1": {
+  "unlock": "Hub 5\u2605",
+  "key": "",
+  "mats": "2x Aquaglow Jewel 2x Jyuratodus Carapace 1x Torrent Sac"
+ },
+ "Stream Jewel+ 2": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 3x Flood Sac 4x Overgrown Stiffbone"
+ },
+ "Hard Stream Jewel 3": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Adamant Jewel 2x Jyuratodus Cortex 7x Afflicted Pelt Key"
+ },
+ "Hard Stream Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 1x Mizutsune Mantle 6x Afflicted Pure Blood Key"
+ },
+ "Thrift Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "Rajang",
+  "mats": "5x Lazurite Jewel 3x Rajang Fang+ 2x Rakna-Kadaki Glowgut 2x Wyvern Gem"
+ },
+ "Thrift Jewel+ 4": {
+  "unlock": "None",
+  "key": "Primordial Malzeno",
+  "mats": "6x Sovereign Jewel 1x Primordial Bloodstone 3x Amatsu Membrane"
+ },
+ "Mighty Bow Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "2x Sovereign Jewel 3x Afflicted Bone Key 1x Large Elder Dragon Gem"
+ },
+ "Counterattack Jewel 2": {
+  "unlock": "None",
+  "key": "",
+  "mats": "4x Anomaly Jewel 2x Violet Mizu Fin 1x White Synovial Fluid 4x Afflicted Dire Hardhorn Key"
+ },
+ "Counterattack Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 1x Seregios Lens 6x Afflicted Dire Darkblood Key"
+ },
+ "Antidote Jewel 1": {
+  "unlock": "Hub 4\u2605",
+  "key": "",
+  "mats": "1x Aquaglow Jewel 2x Great Wroggi Hide+ 2x Wroggi Scale+"
+ },
+ "Hard Antidote Jewel 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "3x Anomaly Jewel 3x Rathian Shard 7x Afflicted Dire Scale Key"
+ },
+ "Venom Jewel 1": {
+  "unlock": "None",
+  "key": "Pukei-Pukei",
+  "mats": "2x Aquaglow Jewel 2x Pukei-Pukei Scale+ 1x Toxin Sac"
+ },
+ "Hard Venom Jewel 4": {
+  "unlock": "None",
+  "key": "Lucent Nargacuga",
+  "mats": "4x Sovereign Jewel 2x Lucent Narga Tailspear 3x Pukei-Pukei Shard"
+ },
+ "Absorber Jewel 1": {
+  "unlock": "None",
+  "key": "Rakna-Kadaki",
+  "mats": "2x Bloodrun Jewel 2x Rakna-Kadaki Sharpclaw 1x Anjanath Nosebone+"
+ },
+ "Trueshot Jewel 2": {
+  "unlock": "None",
+  "key": "Almudron",
+  "mats": "4x Bloodrun Jewel 2x Almudron Claw+ 2x Somnacanth Fin+ 2x Mizutsune Claw+"
+ },
+ "Trueshot Jewel+ 4": {
+  "unlock": "None",
+  "key": "Seething Bazelgeuse",
+  "mats": "6x Sovereign Jewel 3x Flickering Silvershell 1x Almudron Hardclaw"
+ },
+ "Sleep Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 4x Somnacanth Sedative 2x Coma Sac 3x Elder Dragon Bone"
+ },
+ "Sleep Jewel+ 4": {
+  "unlock": "None",
+  "key": "Flaming Espinas",
+  "mats": "4x Sovereign Jewel 2x Flaming Espinas Surspike 2x Somna Dream Powder"
+ },
+ "Medicine Jewel 2": {
+  "unlock": "None",
+  "key": "Basarios",
+  "mats": "2x Aquaglow Jewel 2x Basarios Pleura+ 1x Ancient Potion"
+ },
+ "Medicine Jewel+ 4": {
+  "unlock": "MR 1\u2605",
+  "key": "",
+  "mats": "6x Lazurite Jewel 2x Large Herbivore Bone 1x Fine Black Pearl"
+ },
+ "Wall Run Jewel 2": {
+  "unlock": "None",
+  "key": "Bishaten",
+  "mats": "2x Aquaglow Jewel 2x Bishaten Talon+ 2x Quality Stomach"
+ },
+ "Hard Wall Run Jewel 4": {
+  "unlock": "MR 2\u2605",
+  "key": "",
+  "mats": "8x Lazurite Jewel 2x Mystic Hardfang 3x Prized Stomach"
+ },
+ "Carver Jewel 1": {
+  "unlock": "None",
+  "key": "Tetranadon",
+  "mats": "1x Aquaglow Jewel 2x Tetra Carapace+"
+ },
+ "Guardian Jewel 3": {
+  "unlock": "None",
+  "key": "Thunder Serpent Narwa",
+  "mats": "5x Bloodrun Jewel 3x Ibushi Hide+ 3x Volvidon Claw+ 2x Diablos Medulla"
+ },
+ "Guardian Jewel+ 4": {
+  "unlock": "None",
+  "key": "",
+  "mats": "5x Anomaly Jewel 5x Flickering Silvershell 3x Afflicted Dire Shard Key 3x Afflicted Dire Slogbone"
+ },
+ "Breath Jewel 3": {
+  "unlock": "None",
+  "key": "Espinas",
+  "mats": "3x Adamant Jewel 1x Espinas Mantle"
+ },
+ "Paralyzer Jewel 2": {
+  "unlock": "Check:HRUnlock",
+  "key": "",
+  "mats": "5x Lazurite Jewel 3x Omniplegia Sac 2x Golden Sludge 3x Elder Dragon Bone"
+ },
+ "Paralyzer Jewel+ 4": {
+  "unlock": "None",
+  "key": "Flaming Espinas",
+  "mats": "4x Sovereign Jewel 2x Flaming Espinas Cortex 2x Boltscale"
+ }
+}

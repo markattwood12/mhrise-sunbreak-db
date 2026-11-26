@@ -1,0 +1,18 @@
+{
+  "_note": "Mark's progress as of 2026-11-26. Update as things change; build requests should start from this.",
+  "weapon_type": "Dual Blades",
+  "master_rank": 70,
+  "anomaly_research_level": 121,
+  "cleared": ["Amatsu", "Violet Mizutsune", "Primordial Malzeno"],
+  "talisman": {"skills": {"Wirebug Whisperer": 3, "Constitution": 2}, "slots": [2]},
+  "owned_armor": ["Onmyo Toukan", "Tempest Robe", "Tempest Hakama"],
+  "decoration_limits": {"Sprinter Jewel+ 4": 1, "Physique Jewel+ 4": 1},
+  "preferred_skills": {
+    "core": {"Weakness Exploit": 3, "Critical Boost": 3, "Critical Eye": 7},
+    "mobility": {"Evade Extender": 3, "Marathon Runner": 3, "Constitution": 5}
+  },
+  "pool_filters": {
+    "armor_exclude_file": "data/progress/excluded_mr70.json",
+    "decoration_exclude_file": "data/progress/excluded_decorations_mr70.json"
+  }
+}

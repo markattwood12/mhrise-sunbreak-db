@@ -1,0 +1,254 @@
+{
+ "Afflicted Bone": [
+  "Arzuros",
+  "Lagombi",
+  "Volvidon"
+ ],
+ "Afflicted Pelt": [
+  "Great Baggi",
+  "Great Izuchi",
+  "Great Wroggi",
+  "Kulu-Ya-Ku"
+ ],
+ "Afflicted Monster Bone": [
+  "Aknosom",
+  "Barroth",
+  "Basarios",
+  "Royal Ludroth"
+ ],
+ "Afflicted Blood": [
+  "Bishaten",
+  "Daimyo Hermitaur",
+  "Khezu",
+  "Tetranadon"
+ ],
+ "Afflicted Scale": [
+  "Anjanath",
+  "Pukei-Pukei",
+  "Rathian",
+  "Tobi-Kadachi"
+ ],
+ "Afflicted Shell": [
+  "Blood Orange Bishaten",
+  "Jyuratodus",
+  "Shogun Ceanataur",
+  "Somnacanth"
+ ],
+ "Afflicted Fang": [
+  "Barioth",
+  "Garangolm",
+  "Magnamalo",
+  "Nargacuga"
+ ],
+ "Afflicted Claw": [
+  "Almudron",
+  "Aurora Somnacanth",
+  "Goss Harag",
+  "Rakna-Kadaki"
+ ],
+ "Afflicted Dire Scale": [
+  "Astalos",
+  "Mizutsune",
+  "Rathalos"
+ ],
+ "Afflicted Dire Bone": [
+  "Lunagaron",
+  "Magma Almudron",
+  "Tigrex"
+ ],
+ "Afflicted Dire Horn": [
+  "Diablos",
+  "Seregios",
+  "Zinogre"
+ ],
+ "Afflicted Dire Shell": [
+  "Bazelgeuse",
+  "Espinas",
+  "Gore Magala"
+ ],
+ "Afflicted Dire Claw": [
+  "Pyre Rakna-Kadaki",
+  "Rajang"
+ ],
+ "Afflicted Dire Fang": [
+  "Furious Rajang",
+  "Scorned Magnamalo"
+ ],
+ "Afflicted Dire Wing": [
+  "Gold Rathian",
+  "Silver Rathalos"
+ ],
+ "Afflicted Dire Blood": [
+  "Chaotic Gore Magala",
+  "Flaming Espinas",
+  "Seething Bazelgeuse"
+ ],
+ "Afflicted Hardbone": [
+  "Arzuros",
+  "Lagombi",
+  "Volvidon"
+ ],
+ "Afflicted Hide+": [
+  "Great Baggi",
+  "Great Izuchi",
+  "Great Wroggi",
+  "Kulu-Ya-Ku"
+ ],
+ "Afflicted Monster Hardbone": [
+  "Aknosom",
+  "Barroth",
+  "Basarios",
+  "Royal Ludroth"
+ ],
+ "Afflicted Dragon Blood": [
+  "Bishaten",
+  "Daimyo Hermitaur",
+  "Khezu",
+  "Tetranadon"
+ ],
+ "Afflicted Scale+": [
+  "Anjanath",
+  "Pukei-Pukei",
+  "Rathian",
+  "Tobi-Kadachi"
+ ],
+ "Afflicted Carapace": [
+  "Blood Orange Bishaten",
+  "Jyuratodus",
+  "Shogun Ceanataur",
+  "Somnacanth"
+ ],
+ "Afflicted Fang+": [
+  "Barioth",
+  "Garangolm",
+  "Magnamalo",
+  "Nargacuga"
+ ],
+ "Afflicted Claw+": [
+  "Almudron",
+  "Aurora Somnacanth",
+  "Goss Harag",
+  "Rakna-Kadaki"
+ ],
+ "Afflicted Dire Scale+": [
+  "Astalos",
+  "Mizutsune",
+  "Rathalos"
+ ],
+ "Afflicted Dire Hardbone": [
+  "Lunagaron",
+  "Magma Almudron",
+  "Tigrex"
+ ],
+ "Afflicted Dire Horn+": [
+  "Diablos",
+  "Seregios",
+  "Zinogre"
+ ],
+ "Afflicted Dire Carapace": [
+  "Bazelgeuse",
+  "Espinas",
+  "Gore Magala"
+ ],
+ "Afflicted Dire Claw+": [
+  "Pyre Rakna-Kadaki",
+  "Rajang"
+ ],
+ "Afflicted Dire Fang+": [
+  "Furious Rajang",
+  "Scorned Magnamalo"
+ ],
+ "Afflicted Dire Wing+": [
+  "Gold Rathian",
+  "Silver Rathalos"
+ ],
+ "Afflicted Dire Dragon Blood": [
+  "Chaotic Gore Magala",
+  "Flaming Espinas",
+  "Seething Bazelgeuse"
+ ],
+ "Afflicted Slogbone": [
+  "Arzuros",
+  "Lagombi",
+  "Volvidon"
+ ],
+ "Afflicted Thickhide": [
+  "Great Baggi",
+  "Great Izuchi",
+  "Great Wroggi",
+  "Kulu-Ya-Ku"
+ ],
+ "Afflicted Monster Slogbone": [
+  "Aknosom",
+  "Barroth",
+  "Basarios",
+  "Royal Ludroth"
+ ],
+ "Afflicted Pure Blood": [
+  "Bishaten",
+  "Daimyo Hermitaur",
+  "Khezu",
+  "Tetranadon"
+ ],
+ "Afflicted Shard": [
+  "Anjanath",
+  "Pukei-Pukei",
+  "Rathian",
+  "Tobi-Kadachi"
+ ],
+ "Afflicted Cortex": [
+  "Blood Orange Bishaten",
+  "Jyuratodus",
+  "Shogun Ceanataur",
+  "Somnacanth"
+ ],
+ "Afflicted Hardfang": [
+  "Barioth",
+  "Garangolm",
+  "Magnamalo",
+  "Nargacuga"
+ ],
+ "Afflicted Hardclaw": [
+  "Almudron",
+  "Aurora Somnacanth",
+  "Goss Harag",
+  "Rakna-Kadaki"
+ ],
+ "Afflicted Dire Shard": [
+  "Astalos",
+  "Mizutsune",
+  "Rathalos"
+ ],
+ "Afflicted Dire Slogbone": [
+  "Lunagaron",
+  "Magma Almudron",
+  "Tigrex"
+ ],
+ "Afflicted Dire Hardhorn": [
+  "Diablos",
+  "Seregios",
+  "Zinogre"
+ ],
+ "Afflicted Dire Cortex": [
+  "Bazelgeuse",
+  "Espinas",
+  "Gore Magala"
+ ],
+ "Afflicted Dire Hardclaw": [
+  "Pyre Rakna-Kadaki",
+  "Rajang"
+ ],
+ "Afflicted Dire Hardfang": [
+  "Furious Rajang",
+  "Scorned Magnamalo"
+ ],
+ "Afflicted Dire Fellwing": [
+  "Gold Rathian",
+  "Silver Rathalos"
+ ],
+ "Afflicted Dire Darkblood": [
+  "Chaotic Gore Magala",
+  "Flaming Espinas",
+  "Seething Bazelgeuse"
+ ]
+}

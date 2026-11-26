@@ -1,0 +1,1367 @@
+id,name,series,part,rank,rarity,base_defense,max_defense,fire,water,ice,thunder,dragon,slots,skills
+1,Kamura Head Scarf,Kamura,head,LR,1,1,67,1,0,0,0,0,[],Divine Blessing 1
+2,Kamura Garb,Kamura,chest,LR,1,1,67,1,0,0,0,0,[],Wirebug Whisperer 1
+3,Kamura Braces,Kamura,arms,LR,1,1,67,1,0,0,0,0,[],Heroics 1
+4,Kamura Obi,Kamura,waist,LR,1,1,67,1,0,0,0,0,[],Critical Eye 1
+5,Kamura Leggings,Kamura,legs,LR,1,1,67,1,0,0,0,0,[],Wall Runner 1
+6,Kamura Head Scarf S,Kamura S,head,HR,4,30,68,2,0,0,0,0,[1],Resuscitate 1; Divine Blessing 1
+7,Kamura Garb S,Kamura S,chest,HR,4,30,68,2,0,0,0,0,[1],Critical Eye 1; Wirebug Whisperer 2; Wall Runner 1
+8,Kamura Braces S,Kamura S,arms,HR,4,30,68,2,0,0,0,0,[2],Critical Eye 2; Heroics 1
+9,Kamura Obi S,Kamura S,waist,HR,4,30,68,2,0,0,0,0,"[1, 1]",Critical Eye 1; Wirebug Whisperer 1
+10,Kamura Leggings S,Kamura S,legs,HR,4,30,68,2,0,0,0,0,[1],Resuscitate 1; Wall Runner 2
+11,Leather Headgear,Leather,head,LR,1,1,67,0,0,0,0,0,[],Hunger Resistance 1
+12,Leather Vest,Leather,chest,LR,1,1,67,0,0,0,0,0,[],Botanist 1
+13,Leather Gloves,Leather,arms,LR,1,1,67,0,0,0,0,0,[],Geologist 1
+14,Leather Belt,Leather,waist,LR,1,1,67,0,0,0,0,0,[],Recovery Up 1
+15,Leather Pants,Leather,legs,LR,1,1,67,0,0,0,0,0,[],Geologist 1
+16,Leather Headgear S,Leather S,head,HR,4,30,68,0,0,0,0,0,"[1, 1]",Geologist 1; Hunger Resistance 1
+17,Leather Vest S,Leather S,chest,HR,4,30,68,0,0,0,0,0,[2],Botanist 1
+18,Leather Gloves S,Leather S,arms,HR,4,30,68,0,0,0,0,0,"[1, 1]",Special Ammo Boost 1; Geologist 1
+19,Leather Belt S,Leather S,waist,HR,4,30,68,0,0,0,0,0,[1],Recovery Up 1; Hunger Resistance 2
+20,Leather Pants S,Leather S,legs,HR,4,30,68,0,0,0,0,0,[2],Geologist 1
+21,Chainmail Headgear,Chainmail,head,LR,1,4,62,0,0,0,1,0,[],Defense Boost 1; Botanist 1
+22,Chainmail Vest,Chainmail,chest,LR,1,4,62,0,0,0,1,0,[],Peak Performance 1; Defense Boost 1
+23,Chainmail Gloves,Chainmail,arms,LR,1,4,62,0,0,0,1,0,[],Botanist 1
+24,Chainmail Belt,Chainmail,waist,LR,1,4,62,0,0,0,1,0,[],Guard 1
+25,Chainmail Pants,Chainmail,legs,LR,1,4,62,0,0,0,1,0,[],Stamina Surge 1
+26,Chainmail Headgear S,Chainmail S,head,HR,4,32,70,0,0,0,1,0,[2],Defense Boost 1; Botanist 1
+27,Chainmail Vest S,Chainmail S,chest,HR,4,32,70,0,0,0,1,0,[1],Defense Boost 1; Flinch Free 2
+28,Chainmail Gloves S,Chainmail S,arms,HR,4,32,70,0,0,0,1,0,"[1, 1]",Defense Boost 2; Botanist 1
+29,Chainmail Belt S,Chainmail S,waist,HR,4,32,70,0,0,0,1,0,"[1, 1]",Guard 1; Botanist 1
+30,Chainmail Pants S,Chainmail S,legs,HR,4,32,70,0,0,0,1,0,"[1, 1]",Stamina Surge 1; Botanist 1
+31,Hunter's Helm,Hunter,head,LR,1,4,62,0,0,0,0,0,[],Item Prolonger 1
+32,Hunter's Mail,Hunter,chest,LR,1,4,62,0,0,0,0,0,[],Attack Boost 1
+33,Hunter's Vambraces,Hunter,arms,LR,1,4,62,0,0,0,0,0,[],Quick Sheathe 1
+34,Hunter's Coil,Hunter,waist,LR,1,4,62,0,0,0,0,0,[],Stun Resistance 1
+35,Hunter's Greaves,Hunter,legs,LR,1,4,62,0,0,0,0,0,[],Attack Boost 1; Stun Resistance 1
+36,Hunter's Helm S,Hunter S,head,HR,4,32,70,0,0,0,0,0,[2],Item Prolonger 1
+37,Hunter's Mail S,Hunter S,chest,HR,4,32,70,0,0,0,0,0,[1],Attack Boost 1; Handicraft 1
+38,Hunter's Vambraces S,Hunter S,arms,HR,4,32,70,0,0,0,0,0,[2],Quick Sheathe 1
+39,Hunter's Coil S,Hunter S,waist,HR,4,32,70,0,0,0,0,0,"[1, 1]",Stun Resistance 2
+40,Hunter's Greaves S,Hunter S,legs,HR,4,32,70,0,0,0,0,0,[2],Attack Boost 2; Stun Resistance 1
+41,Dober Helm,Dober,head,HR,5,52,72,-2,0,0,0,4,"[1, 1]",Attack Boost 1; Dragon Attack 1; Heroics 1
+42,Dober Mail,Dober,chest,HR,5,52,72,-2,0,0,0,4,[1],Dragon Attack 1; Focus 1; Power Prolonger 1; Heroics 1
+43,Dober Vambraces,Dober,arms,HR,5,52,72,-2,0,0,0,4,"[2, 1, 1]",Dragon Attack 1; Power Prolonger 1
+44,Dober Coil,Dober,waist,HR,5,52,72,-2,0,0,0,4,[2],Attack Boost 2; Dragon Attack 1
+45,Dober Greaves,Dober,legs,HR,5,52,72,-2,0,0,0,4,[2],Dragon Attack 1; Focus 1; Heroics 1
+46,Alloy Helm,Alloy,head,LR,2,10,62,-1,0,-1,-1,0,[],Water Attack 1
+47,Alloy Mail,Alloy,chest,LR,2,10,62,-1,0,-1,-1,0,[],Speed Sharpening 1
+48,Alloy Vambraces,Alloy,arms,LR,2,10,62,-1,0,-1,-1,0,[],Critical Eye 1
+49,Alloy Coil,Alloy,waist,LR,2,10,62,-1,0,-1,-1,0,[],Critical Eye 1; Water Attack 1
+50,Alloy Greaves,Alloy,legs,LR,2,10,62,-1,0,-1,-1,0,[],Speed Sharpening 1
+51,Alloy Helm S,Alloy S,head,HR,4,32,70,-1,0,-1,-1,0,[1],Water Attack 1; Protective Polish 1
+52,Alloy Mail S,Alloy S,chest,HR,4,32,70,-1,0,-1,-1,0,[2],Speed Sharpening 2
+53,Alloy Vambraces S,Alloy S,arms,HR,4,32,70,-1,0,-1,-1,0,[1],Critical Eye 2; Water Attack 1
+54,Alloy Coil S,Alloy S,waist,HR,4,32,70,-1,0,-1,-1,0,"[1, 1]",Critical Eye 1; Water Attack 2
+55,Alloy Greaves S,Alloy S,legs,HR,4,32,70,-1,0,-1,-1,0,[2],Critical Eye 1; Speed Sharpening 1
+56,Ingot Helm,Ingot,head,LR,2,18,68,-1,-1,0,1,0,[],Windproof 1
+57,Ingot Mail,Ingot,chest,LR,2,18,68,-1,-1,0,1,0,[],Windproof 1
+58,Ingot Vambraces,Ingot,arms,LR,2,18,68,-1,-1,0,1,0,[],Thunder Attack 2
+59,Ingot Coil,Ingot,waist,LR,2,18,68,-1,-1,0,1,0,[],Power Prolonger 1
+60,Ingot Greaves,Ingot,legs,LR,2,18,68,-1,-1,0,1,0,[],Attack Boost 1; Critical Eye 1
+61,Ingot Helm S,Ingot S,head,HR,4,40,70,-1,-1,0,1,0,"[3, 1]",Windproof 1
+62,Ingot Mail S,Ingot S,chest,HR,4,40,70,-1,-1,0,1,0,"[2, 1]",Windproof 2
+63,Ingot Vambraces S,Ingot S,arms,HR,4,40,70,-1,-1,0,1,0,[1],Thunder Attack 3
+64,Ingot Coil S,Ingot S,waist,HR,4,40,70,-1,-1,0,1,0,[2],Power Prolonger 2
+65,Ingot Greaves S,Ingot S,legs,HR,4,40,70,-1,-1,0,1,0,[1],Attack Boost 2; Critical Eye 2
+66,Damascus Helm,Damascus,head,HR,7,68,88,-1,2,1,-3,-1,[],Earplugs 2; Tremor Resistance 2
+67,Damascus Mail,Damascus,chest,HR,7,68,88,-1,2,1,-3,-1,"[1, 1]",Handicraft 1; Tremor Resistance 1
+68,Damascus Vambraces,Damascus,arms,HR,7,68,88,-1,2,1,-3,-1,"[2, 1]",Earplugs 1
+69,Damascus Coil,Damascus,waist,HR,7,68,88,-1,2,1,-3,-1,[1],Handicraft 1; Earplugs 1
+70,Damascus Greaves,Damascus,legs,HR,7,68,88,-1,2,1,-3,-1,[1],Handicraft 2
+71,Melahoa Hat,Melahoa,head,LR,2,18,68,0,1,0,3,0,[],Paralysis Resistance 1
+72,Melahoa Jacket,Melahoa,chest,LR,2,18,68,0,1,0,3,0,[],Recovery Up 1; Botanist 1
+73,Melahoa Branch,Melahoa,arms,LR,2,18,68,0,1,0,3,0,[],Recovery Up 1; Paralysis Resistance 1
+74,Melahoa Folia,Melahoa,waist,LR,2,18,68,0,1,0,3,0,[],Recovery Speed 1; Botanist 1
+75,Melahoa Roots,Melahoa,legs,LR,2,18,68,0,1,0,3,0,[],Recovery Speed 2
+76,Melahoa Hat S,Melahoa S,head,HR,5,52,72,0,1,0,3,0,"[2, 2]",Paralysis Resistance 2
+77,Melahoa Jacket S,Melahoa S,chest,HR,5,52,72,0,1,0,3,0,"[1, 1]",Recovery Up 1; Botanist 2
+78,Melahoa Branch S,Melahoa S,arms,HR,5,52,72,0,1,0,3,0,"[1, 1]",Recovery Up 1; Paralysis Resistance 1; Botanist 1
+79,Melahoa Folia S,Melahoa S,waist,HR,5,52,72,0,1,0,3,0,[2],Recovery Speed 1; Botanist 1
+80,Melahoa Roots S,Melahoa S,legs,HR,5,52,72,0,1,0,3,0,"[1, 1]",Recovery Up 1; Recovery Speed 2
+81,Makluva Hood,Makluva,head,LR,3,24,68,1,2,0,-2,0,[],Sleep Resistance 1
+82,Makluva Cover,Makluva,chest,LR,3,24,68,1,2,0,-2,0,[],Water Attack 2
+83,Makluva Sleeves,Makluva,arms,LR,3,24,68,1,2,0,-2,0,[],Leap of Faith 1
+84,Makluva Coil,Makluva,waist,LR,3,24,68,1,2,0,-2,0,[],Sleep Resistance 1
+85,Makluva Pants,Makluva,legs,LR,3,24,68,1,2,0,-2,0,[],Speed Eating 1
+86,Makluva Hood S,Makluva S,head,HR,5,52,72,1,2,0,-2,0,"[2, 2]",Sleep Resistance 2
+87,Makluva Cover S,Makluva S,chest,HR,5,52,72,1,2,0,-2,0,[1],Water Attack 3
+88,Makluva Sleeves S,Makluva S,arms,HR,5,52,72,1,2,0,-2,0,[2],Bubbly Dance 1; Leap of Faith 1
+89,Makluva Coil S,Makluva S,waist,HR,5,52,72,1,2,0,-2,0,[3],Sleep Resistance 1
+90,Makluva Pants S,Makluva S,legs,HR,5,52,72,1,2,0,-2,0,"[1, 1]",Speed Eating 1; Bubbly Dance 1
+91,Death Stench Brain,Death Stench,head,LR,2,18,68,3,1,-1,1,0,[],Dragon Resistance 2
+92,Death Stench Muscle,Death Stench,chest,LR,2,18,68,3,1,-1,1,0,[],Rapid Morph 1
+93,Death Stench Grip,Death Stench,arms,LR,2,18,68,3,1,-1,1,0,[],Maximum Might 1
+94,Death Stench Bowels,Death Stench,waist,LR,2,18,68,3,1,-1,1,0,[],Dragon Resistance 1
+95,Death Stench Heel,Death Stench,legs,LR,2,18,68,3,1,-1,1,0,[],Rapid Morph 1
+96,Death Stench Brain S,Death Stench S,head,HR,5,52,72,3,1,-1,1,0,[2],Protective Polish 1
+97,Death Stench Muscle S,Death Stench S,chest,HR,5,52,72,3,1,-1,1,0,[2],Fortify 1; Rapid Morph 1
+98,Death Stench Grip S,Death Stench S,arms,HR,5,52,72,3,1,-1,1,0,[1],Maximum Might 2
+99,Death Stench Bowels S,Death Stench S,waist,HR,5,52,72,3,1,-1,1,0,"[1, 1]",Maximum Might 1; Protective Polish 1
+100,Death Stench Heel S,Death Stench S,legs,HR,5,52,72,3,1,-1,1,0,"[1, 1]",Protective Polish 1; Rapid Morph 1
+101,Mosgharl Vizor,Mosgharl A,head,LR,2,18,68,-3,1,3,0,0,[],Blast Resistance 1
+102,Mosgharl Ribplate,Mosgharl A,chest,LR,2,18,68,-3,1,3,0,0,[],Reload Speed 2
+103,Mosgharl Creeper,Mosgharl A,arms,LR,2,18,68,-3,1,3,0,0,[],Blast Resistance 1
+104,Mosgharl Folia,Mosgharl A,waist,LR,2,18,68,-3,1,3,0,0,[],Fire Attack 2
+105,Mosgharl Roots,Mosgharl A,legs,LR,2,18,68,-3,1,3,0,0,[],Recoil Down 2
+106,Mosgharl Vizor S,Mosgharl S A,head,HR,5,52,72,-3,1,3,0,0,"[2, 2]",Blast Resistance 2
+107,Mosgharl Ribplate S,Mosgharl S A,chest,HR,5,52,72,-3,1,3,0,0,[2],Reload Speed 2
+108,Mosgharl Creeper S,Mosgharl S A,arms,HR,5,52,72,-3,1,3,0,0,"[2, 1, 1]",Blast Resistance 1; Flinch Free 1
+109,Mosgharl Folia S,Mosgharl S A,waist,HR,5,52,72,-3,1,3,0,0,[1],Fire Attack 3
+110,Mosgharl Roots S,Mosgharl S A,legs,HR,5,52,72,-3,1,3,0,0,"[2, 1]",Recoil Down 2
+111,Mosgharl Vizor,Mosgharl B,head,LR,2,18,68,-3,1,3,0,0,[],Blast Resistance 1
+112,Mosgharl Ribplate,Mosgharl B,chest,LR,2,18,68,-3,1,3,0,0,[],Reload Speed 2
+113,Mosgharl Creeper,Mosgharl B,arms,LR,2,18,68,-3,1,3,0,0,[],Blast Resistance 1
+114,Mosgharl Folia,Mosgharl B,waist,LR,2,18,68,-3,1,3,0,0,[],Fire Attack 2
+115,Mosgharl Roots,Mosgharl B,legs,LR,2,18,68,-3,1,3,0,0,[],Recoil Down 2
+116,Mosgharl Vizor S,Mosgharl S B,head,HR,5,52,72,-3,1,3,0,0,"[2, 2]",Blast Resistance 2
+117,Mosgharl Ribplate S,Mosgharl S B,chest,HR,5,52,72,-3,1,3,0,0,[2],Reload Speed 2
+118,Mosgharl Creeper S,Mosgharl S B,arms,HR,5,52,72,-3,1,3,0,0,"[2, 1, 1]",Blast Resistance 1; Flinch Free 1
+119,Mosgharl Folia S,Mosgharl S B,waist,HR,5,52,72,-3,1,3,0,0,[1],Fire Attack 3
+120,Mosgharl Roots S,Mosgharl S B,legs,HR,5,52,72,-3,1,3,0,0,"[2, 1]",Recoil Down 2
+121,Aelucanth Vertex,Aelucanth A,head,LR,3,24,68,-2,0,-2,3,2,[],Critical Element 1
+122,Aelucanth Thorax,Aelucanth A,chest,LR,3,24,68,-2,0,-2,3,2,[],Critical Element 1; Dragon Attack 1
+123,Aelucanth Brachia,Aelucanth A,arms,LR,3,24,68,-2,0,-2,3,2,[],Evade Window 1
+124,Aelucanth Elytra,Aelucanth A,waist,LR,3,24,68,-2,0,-2,3,2,[],Dragon Attack 2
+125,Aelucanth Crura,Aelucanth A,legs,LR,3,24,68,-2,0,-2,3,2,[],Critical Eye 2
+126,Aelucanth Vertex S,Aelucanth S A,head,HR,6,62,82,-2,0,-2,3,2,[1],Critical Element 2
+127,Aelucanth Thorax S,Aelucanth S A,chest,HR,6,62,82,-2,0,-2,3,2,[1],Critical Eye 2; Critical Element 1; Dragon Attack 1
+128,Aelucanth Brachia S,Aelucanth S A,arms,HR,6,62,82,-2,0,-2,3,2,[3],Evade Window 1
+129,Aelucanth Elytra S,Aelucanth S A,waist,HR,6,62,82,-2,0,-2,3,2,[1],Dragon Attack 3
+130,Aelucanth Crura S,Aelucanth S A,legs,HR,6,62,82,-2,0,-2,3,2,"[1, 1]",Critical Eye 2; Dragon Attack 1
+131,Rhopessa Vertex,Rhopessa B,head,LR,3,24,68,-2,0,-2,3,2,[],Critical Element 1
+132,Rhopessa Thorax,Rhopessa B,chest,LR,3,24,68,-2,0,-2,3,2,[],Critical Element 1; Dragon Attack 1
+133,Rhopessa Brachia,Rhopessa B,arms,LR,3,24,68,-2,0,-2,3,2,[],Evade Window 1
+134,Rhopessa Elytra,Rhopessa B,waist,LR,3,24,68,-2,0,-2,3,2,[],Dragon Attack 2
+135,Rhopessa Crura,Rhopessa B,legs,LR,3,24,68,-2,0,-2,3,2,[],Critical Eye 2
+136,Rhopessa Vertex S,Rhopessa S B,head,HR,6,62,82,-2,0,-2,3,2,[1],Critical Element 2
+137,Rhopessa Thorax S,Rhopessa S B,chest,HR,6,62,82,-2,0,-2,3,2,[1],Critical Eye 2; Critical Element 1; Dragon Attack 1
+138,Rhopessa Brachia S,Rhopessa S B,arms,HR,6,62,82,-2,0,-2,3,2,[3],Evade Window 1
+139,Rhopessa Elytra S,Rhopessa S B,waist,HR,6,62,82,-2,0,-2,3,2,[1],Dragon Attack 3
+140,Rhopessa Crura S,Rhopessa S B,legs,HR,6,62,82,-2,0,-2,3,2,"[1, 1]",Critical Eye 2; Dragon Attack 1
+141,Vaik Helm,Vaik,head,LR,2,18,68,0,3,-1,-2,0,[],Ammo Up 1
+142,Vaik Mail,Vaik,chest,LR,2,18,68,0,3,-1,-2,0,[],Steadiness 1
+143,Vaik Braces,Vaik,arms,LR,2,18,68,0,3,-1,-2,0,[],Normal/Rapid Up 1
+144,Vaik Coil,Vaik,waist,LR,2,18,68,0,3,-1,-2,0,[],Steadiness 1
+145,Vaik Greaves,Vaik,legs,LR,2,18,68,0,3,-1,-2,0,[],Ammo Up 1
+146,Vaik Helm S,Vaik S,head,HR,5,52,72,0,3,-1,-2,0,"[2, 1]",Ammo Up 2
+147,Vaik Mail S,Vaik S,chest,HR,5,52,72,0,3,-1,-2,0,"[3, 2, 1]",
+148,Vaik Braces S,Vaik S,arms,HR,5,52,72,0,3,-1,-2,0,"[1, 1]",Normal/Rapid Up 2
+149,Vaik Coil S,Vaik S,waist,HR,5,52,72,0,3,-1,-2,0,[2],Normal/Rapid Up 1
+150,Vaik Greaves S,Vaik S,legs,HR,5,52,72,0,3,-1,-2,0,"[3, 1]",Ammo Up 1
+151,Chaoshroom,Chaos,head,LR,2,12,64,2,-2,0,0,0,[],Mushroomancer 1
+152,Chaos Plate,Chaos,chest,LR,2,12,64,2,-2,0,0,0,[],
+153,Chaos Archbun,Chaos S,head,HR,4,40,70,2,-2,0,0,0,"[1, 1]",Mushroomancer 1
+154,Chaos Archplate,Chaos S,chest,HR,4,40,70,2,-2,0,0,0,[],Mushroomancer 2
+155,Edel Vizor,Edel,head,LR,2,12,64,-1,3,0,-1,0,[],Poison Resistance 1
+156,Edel Ribplate,Edel,chest,LR,2,12,64,-1,3,0,-1,0,[],Recovery Up 1
+157,Edel Creeper,Edel,arms,LR,2,12,64,-1,3,0,-1,0,[],Poison Resistance 1
+158,Edel Folia,Edel,waist,LR,2,12,64,-1,3,0,-1,0,[],Thunder Resistance 1
+159,Edel Roots,Edel,legs,LR,2,12,64,-1,3,0,-1,0,[],Thunder Resistance 1
+160,Edel Vizor S,Edel S,head,HR,4,40,70,-1,3,0,-1,0,"[2, 2]",Poison Resistance 2
+161,Edel Ribplate S,Edel S,chest,HR,4,40,70,-1,3,0,-1,0,"[1, 1]",Recovery Up 2
+162,Edel Creeper S,Edel S,arms,HR,4,40,70,-1,3,0,-1,0,[],Capture Master 1
+163,Edel Folia S,Edel S,waist,HR,4,40,70,-1,3,0,-1,0,[2],Recovery Up 1
+164,Edel Roots S,Edel S,legs,HR,4,40,70,-1,3,0,-1,0,"[3, 1]",Poison Resistance 1
+165,Skalda Vertex,Skalda A,head,LR,2,12,64,3,-1,-1,-1,3,[],Poison Attack 1
+166,Skalda Thorax,Skalda A,chest,LR,2,12,64,3,-1,-1,-1,3,[],Critical Eye 1
+167,Skalda Brachia,Skalda A,arms,LR,2,12,64,3,-1,-1,-1,3,[],Poison Resistance 1
+168,Skalda Elytra,Skalda A,waist,LR,2,12,64,3,-1,-1,-1,3,[],Critical Eye 1
+169,Skalda Crura,Skalda A,legs,LR,2,12,64,3,-1,-1,-1,3,[],Poison Resistance 1
+170,Skalda Vertex S,Skalda S A,head,HR,4,32,70,3,-1,-1,-1,3,[2],Poison Attack 2
+171,Skalda Thorax S,Skalda S A,chest,HR,4,32,70,3,-1,-1,-1,3,[2],Latent Power 1
+172,Skalda Brachia S,Skalda S A,arms,HR,4,32,70,3,-1,-1,-1,3,"[1, 1]",Latent Power 1; Poison Resistance 1
+173,Skalda Elytra S,Skalda S A,waist,HR,4,32,70,3,-1,-1,-1,3,[],Weakness Exploit 2
+174,Skalda Crura S,Skalda S A,legs,HR,4,32,70,3,-1,-1,-1,3,[1],Latent Power 1; Mind's Eye 1; Poison Resistance 1
+175,Spio Vertex,Spio B,head,LR,2,12,64,3,-1,-1,-1,3,[],Poison Attack 1
+176,Spio Thorax,Spio B,chest,LR,2,12,64,3,-1,-1,-1,3,[],Critical Eye 1
+177,Spio Brachia,Spio B,arms,LR,2,12,64,3,-1,-1,-1,3,[],Poison Resistance 1
+178,Spio Elytra,Spio B,waist,LR,2,12,64,3,-1,-1,-1,3,[],Critical Eye 1
+179,Spio Crura,Spio B,legs,LR,2,12,64,3,-1,-1,-1,3,[],Poison Resistance 1
+180,Spio Vertex S,Spio S B,head,HR,4,32,70,3,-1,-1,-1,3,[2],Poison Attack 2
+181,Spio Thorax S,Spio S B,chest,HR,4,32,70,3,-1,-1,-1,3,[2],Latent Power 1
+182,Spio Brachia S,Spio S B,arms,HR,4,32,70,3,-1,-1,-1,3,"[1, 1]",Latent Power 1; Poison Resistance 1
+183,Spio Elytra S,Spio S B,waist,HR,4,32,70,3,-1,-1,-1,3,[],Weakness Exploit 2
+184,Spio Crura S,Spio S B,legs,HR,4,32,70,3,-1,-1,-1,3,[1],Latent Power 1; Mind's Eye 1; Poison Resistance 1
+185,Utsushi Mask (V),Utsushi (Visible) A,head,LR,3,24,68,3,0,0,0,0,[],Speed Eating 1; Free Meal 1
+186,Utsushi Chest (V),Utsushi (Visible) A,chest,LR,3,24,68,3,0,0,0,0,[],Wide-Range 1
+187,Utsushi Braces (V),Utsushi (Visible) A,arms,LR,3,24,68,3,0,0,0,0,[],Wide-Range 1
+188,Utsushi Tassets (V),Utsushi (Visible) A,waist,LR,3,24,68,3,0,0,0,0,[],Speed Eating 1
+189,Utsushi Greaves (V),Utsushi (Visible) A,legs,LR,3,24,68,3,0,0,0,0,[],Wide-Range 1
+190,Utsushi Mask (V) S,Utsushi (Visible) S A,head,HR,5,52,72,3,0,0,0,0,[1],Speed Eating 1; Good Luck 1; Free Meal 1
+191,Utsushi Chest (V) S,Utsushi (Visible) S A,chest,HR,5,52,72,3,0,0,0,0,"[1, 1]",Good Luck 1; Wide-Range 1
+192,Utsushi Braces (V) S,Utsushi (Visible) S A,arms,HR,5,52,72,3,0,0,0,0,[3],Wide-Range 1
+193,Utsushi Tassets (V) S,Utsushi (Visible) S A,waist,HR,5,52,72,3,0,0,0,0,[2],Speed Eating 1; Free Meal 1
+194,Utsushi Greaves (V) S,Utsushi (Visible) S A,legs,HR,5,52,72,3,0,0,0,0,[1],Good Luck 1; Wide-Range 1; Free Meal 1
+195,Channeler's Hair-tie,Channeler B,head,LR,3,24,68,3,0,0,0,0,[],Razor Sharp 1; Spare Shot 1
+196,Channeler's Robe,Channeler B,chest,LR,3,24,68,3,0,0,0,0,[],Razor Sharp 1; Spare Shot 1
+197,Channeler's Hope,Channeler B,arms,LR,3,24,68,3,0,0,0,0,[],Evade Window 1; Wirebug Whisperer 1
+198,Channeler's Obi,Channeler B,waist,LR,3,24,68,3,0,0,0,0,[],Agitator 1
+199,Channeler's Hakama,Channeler B,legs,LR,3,24,68,3,0,0,0,0,[],Agitator 1; Evade Window 1
+200,Channeler's Hair-tie S,Channeler S B,head,HR,5,52,72,3,0,0,0,0,[1],Razor Sharp 2; Spare Shot 2; Wirebug Whisperer 1
+201,Channeler's Robe S,Channeler S B,chest,HR,5,52,72,3,0,0,0,0,[1],Agitator 1; Razor Sharp 1; Spare Shot 1; Evade Window 1
+202,Channeler's Hope S,Channeler S B,arms,HR,5,52,72,3,0,0,0,0,[2],Evade Window 1; Wirebug Whisperer 1
+203,Channeler's Obi S,Channeler S B,waist,HR,5,52,72,3,0,0,0,0,[1],Agitator 2; Wirebug Whisperer 1
+204,Channeler's Hakama S,Channeler S B,legs,HR,5,52,72,3,0,0,0,0,"[1, 1]",Agitator 1; Evade Window 1
+205,Utsushi Mask (H),Utsushi (Hidden) A,head,LR,3,24,68,3,0,0,0,0,[],Razor Sharp 1; Spare Shot 1
+206,Utsushi Chest (H),Utsushi (Hidden) A,chest,LR,3,24,68,3,0,0,0,0,[],Razor Sharp 1; Spare Shot 1
+207,Utsushi Braces (H),Utsushi (Hidden) A,arms,LR,3,24,68,3,0,0,0,0,[],Evade Window 1; Wirebug Whisperer 1
+208,Utsushi Tassets (H),Utsushi (Hidden) A,waist,LR,3,24,68,3,0,0,0,0,[],Agitator 1
+209,Utsushi Greaves (H),Utsushi (Hidden) A,legs,LR,3,24,68,3,0,0,0,0,[],Agitator 1; Evade Window 1
+210,Utsushi Mask (H) S,Utsushi (Hidden) S A,head,HR,5,52,72,3,0,0,0,0,[1],Razor Sharp 2; Spare Shot 2; Wirebug Whisperer 1
+211,Utsushi Chest (H) S,Utsushi (Hidden) S A,chest,HR,5,52,72,3,0,0,0,0,[1],Agitator 1; Razor Sharp 1; Spare Shot 1; Evade Window 1
+212,Utsushi Braces (H) S,Utsushi (Hidden) S A,arms,HR,5,52,72,3,0,0,0,0,[2],Evade Window 1; Wirebug Whisperer 1
+213,Utsushi Tassets (H) S,Utsushi (Hidden) S A,waist,HR,5,52,72,3,0,0,0,0,[1],Agitator 2; Wirebug Whisperer 1
+214,Utsushi Greaves (H) S,Utsushi (Hidden) S A,legs,HR,5,52,72,3,0,0,0,0,"[1, 1]",Agitator 1; Evade Window 1
+215,Medium's Hair-tie,Medium B,head,LR,3,24,68,3,0,0,0,0,[],Speed Eating 1; Free Meal 1
+216,Medium's Robe,Medium B,chest,LR,3,24,68,3,0,0,0,0,[],Wide-Range 1
+217,Medium's Prayer,Medium B,arms,LR,3,24,68,3,0,0,0,0,[],Wide-Range 1
+218,Medium's Obi,Medium B,waist,LR,3,24,68,3,0,0,0,0,[],Speed Eating 1
+219,Medium's Hakama,Medium B,legs,LR,3,24,68,3,0,0,0,0,[],Wide-Range 1
+220,Medium's Hair-tie S,Medium S B,head,HR,5,52,72,3,0,0,0,0,[1],Speed Eating 1; Good Luck 1; Free Meal 1
+221,Medium's Robe S,Medium S B,chest,HR,5,52,72,3,0,0,0,0,"[1, 1]",Good Luck 1; Wide-Range 1
+222,Medium's Prayer S,Medium S B,arms,HR,5,52,72,3,0,0,0,0,[3],Wide-Range 1
+223,Medium's Obi S,Medium S B,waist,HR,5,52,72,3,0,0,0,0,[2],Speed Eating 1; Free Meal 1
+224,Medium's Hakama S,Medium S B,legs,HR,5,52,72,3,0,0,0,0,[1],Good Luck 1; Wide-Range 1; Free Meal 1
+225,S. Studded Hat,Shell-Studded,head,LR,2,12,64,0,2,-1,1,0,[],Water Resistance 1
+226,S. Studded Vest,Shell-Studded,chest,LR,2,12,64,0,2,-1,1,0,[],Reload Speed 1
+227,S. Studded Gloves,Shell-Studded,arms,LR,2,12,64,0,2,-1,1,0,[],Recoil Down 1
+228,S. Studded Sash,Shell-Studded,waist,LR,2,12,64,0,2,-1,1,0,[],Ballistics 1
+229,S. Studded Sandals,Shell-Studded,legs,LR,2,12,64,0,2,-1,1,0,[],Spread Up 1
+230,S. Studded Hat S,Shell-Studded S,head,HR,5,52,72,0,2,-1,1,0,"[2, 1]",Ballistics 2
+231,S. Studded Vest S,Shell-Studded S,chest,HR,5,52,72,0,2,-1,1,0,"[1, 1]",Normal/Rapid Up 1; Pierce Up 1
+232,S. Studded Gloves S,Shell-Studded S,arms,HR,5,52,72,0,2,-1,1,0,"[1, 1]",Normal/Rapid Up 1; Spread Up 1
+233,S. Studded Sash S,Shell-Studded S,waist,HR,5,52,72,0,2,-1,1,0,"[3, 1]",Ballistics 1
+234,S. Studded Sandals S,Shell-Studded S,legs,HR,5,52,72,0,2,-1,1,0,"[1, 1]",Pierce Up 1; Spread Up 1
+235,Jelly Hat,Jelly,head,LR,3,24,68,1,3,2,0,0,[],Divine Blessing 1
+236,Jelly Vest,Jelly,chest,LR,3,24,68,1,3,2,0,0,[],Blast Attack 1
+237,Jelly Gloves,Jelly,arms,LR,3,24,68,1,3,2,0,0,[],Divine Blessing 1
+238,Jelly Coil,Jelly,waist,LR,3,24,68,1,3,2,0,0,[],Partbreaker 1
+239,Jelly Boots,Jelly,legs,LR,3,24,68,1,3,2,0,0,[],Blast Attack 1
+240,Jelly Hat S,Jelly S,head,HR,6,62,82,1,3,2,0,0,[3],Divine Blessing 1; Partbreaker 1
+241,Jelly Vest S,Jelly S,chest,HR,6,62,82,1,3,2,0,0,"[2, 1]",Blast Attack 2
+242,Jelly Gloves S,Jelly S,arms,HR,6,62,82,1,3,2,0,0,"[1, 1]",Divine Blessing 2
+243,Jelly Coil S,Jelly S,waist,HR,6,62,82,1,3,2,0,0,"[2, 1]",Partbreaker 2
+244,Jelly Boots S,Jelly S,legs,HR,6,62,82,1,3,2,0,0,"[3, 1]",Blast Attack 1
+245,Bishaten Helm,Bishaten,head,LR,2,22,72,-2,2,-4,2,2,[],Stun Resistance 1; Item Prolonger 1
+246,Bishaten Mail,Bishaten,chest,LR,2,22,72,-2,2,-4,2,2,[],Wide-Range 1
+247,Bishaten Vambraces,Bishaten,arms,LR,2,22,72,-2,2,-4,2,2,[],Stun Resistance 1
+248,Bishaten Coil,Bishaten,waist,LR,2,22,72,-2,2,-4,2,2,[],Item Prolonger 1
+249,Bishaten Greaves,Bishaten,legs,LR,2,22,72,-2,2,-4,2,2,[],Maximum Might 1
+250,Bishaten Helm S,Bishaten S,head,HR,5,52,82,-2,2,-4,2,2,[1],Stun Resistance 1; Item Prolonger 1; Wide-Range 1
+251,Bishaten Mail S,Bishaten S,chest,HR,5,52,82,-2,2,-4,2,2,[3],Wide-Range 1
+252,Bishaten Vambraces S,Bishaten S,arms,HR,5,52,82,-2,2,-4,2,2,[3],Stun Resistance 1; Item Prolonger 1
+253,Bishaten Coil S,Bishaten S,waist,HR,5,52,82,-2,2,-4,2,2,"[1, 1]",Maximum Might 1; Item Prolonger 1
+254,Bishaten Greaves S,Bishaten S,legs,HR,5,52,82,-2,2,-4,2,2,"[2, 1, 1]",Maximum Might 1
+255,Aknosom Helm,Aknosom,head,LR,2,16,68,3,-3,0,-1,0,[],Fire Attack 1
+256,Aknosom Mail,Aknosom,chest,LR,2,16,68,3,-3,0,-1,0,[],Quick Sheathe 1
+257,Aknosom Braces,Aknosom,arms,LR,2,16,68,3,-3,0,-1,0,[],Fire Attack 1
+258,Aknosom Coil,Aknosom,waist,LR,2,16,68,3,-3,0,-1,0,[],Recovery Speed 1
+259,Aknosom Greaves,Aknosom,legs,LR,2,16,68,3,-3,0,-1,0,[],Fire Attack 1
+260,Aknosom Helm S,Aknosom S,head,HR,4,38,76,3,-3,0,-1,0,[2],Fire Attack 1; Quick Sheathe 1
+261,Aknosom Mail S,Aknosom S,chest,HR,4,38,76,3,-3,0,-1,0,[1],Peak Performance 1; Quick Sheathe 1
+262,Aknosom Braces S,Aknosom S,arms,HR,4,38,76,3,-3,0,-1,0,"[1, 1]",Peak Performance 1; Fire Attack 1
+263,Aknosom Coil S,Aknosom S,waist,HR,4,38,76,3,-3,0,-1,0,"[3, 1]",Quick Sheathe 1
+264,Aknosom Greaves S,Aknosom S,legs,HR,4,38,76,3,-3,0,-1,0,[1],Peak Performance 1; Fire Attack 2
+265,Tetranadon Helm,Tetranadon,head,LR,2,18,70,-1,4,1,-2,0,[],Speed Eating 1
+266,Tetranadon Mail,Tetranadon,chest,LR,2,18,70,-1,4,1,-2,0,[],Normal/Rapid Up 1
+267,Tetranadon Braces,Tetranadon,arms,LR,2,18,70,-1,4,1,-2,0,[],Special Ammo Boost 1
+268,Tetranadon Coil,Tetranadon,waist,LR,2,18,70,-1,4,1,-2,0,[],Heroics 1
+269,Tetranadon Greaves,Tetranadon,legs,LR,2,18,70,-1,4,1,-2,0,[],Hunger Resistance 1
+270,Tetranadon Helm S,Tetranadon S,head,HR,4,40,78,-1,4,1,-2,0,[1],Normal/Rapid Up 1; Speed Eating 1
+271,Tetranadon Mail S,Tetranadon S,chest,HR,4,40,78,-1,4,1,-2,0,[1],Normal/Rapid Up 1; Evade Extender 1
+272,Tetranadon Braces S,Tetranadon S,arms,HR,4,40,78,-1,4,1,-2,0,"[1, 1]",Special Ammo Boost 1; Heroics 1
+273,Tetranadon Coil S,Tetranadon S,waist,HR,4,40,78,-1,4,1,-2,0,[2],Heroics 2
+274,Tetranadon Greaves S,Tetranadon S,legs,HR,4,40,78,-1,4,1,-2,0,[1],Normal/Rapid Up 1; Hunger Resistance 1
+275,Somnacanth Helm,Somnacanth,head,LR,2,22,72,-1,2,0,-3,1,[],Sleep Attack 1
+276,Somnacanth Mail,Somnacanth,chest,LR,2,22,72,-1,2,0,-3,1,[],Item Prolonger 1
+277,Somnacanth Braces,Somnacanth,arms,LR,2,22,72,-1,2,0,-3,1,[],Divine Blessing 1; Bombardier 1
+278,Somnacanth Coil,Somnacanth,waist,LR,2,22,72,-1,2,0,-3,1,[],Bombardier 1
+279,Somnacanth Greaves,Somnacanth,legs,LR,2,22,72,-1,2,0,-3,1,[],Divine Blessing 1
+280,Somnacanth Helm S,Somnacanth S,head,HR,5,58,78,-1,2,0,-3,1,"[2, 1]",Sleep Attack 1
+281,Somnacanth Mail S,Somnacanth S,chest,HR,5,58,78,-1,2,0,-3,1,"[1, 1]",Sleep Attack 1; Item Prolonger 1
+282,Somnacanth Braces S,Somnacanth S,arms,HR,5,58,78,-1,2,0,-3,1,[2],Divine Blessing 1; Bombardier 2
+283,Somnacanth Coil S,Somnacanth S,waist,HR,5,58,78,-1,2,0,-3,1,[3],Sleep Attack 1; Bombardier 1
+284,Somnacanth Greaves S,Somnacanth S,legs,HR,5,58,78,-1,2,0,-3,1,"[1, 1]",Divine Blessing 2
+285,Rakna Helm,Rakna-Kadaki A,head,HR,6,66,86,4,-2,-3,-1,1,"[1, 1]",Spread Up 1; Reload Speed 1
+286,Rakna Mail,Rakna-Kadaki A,chest,HR,6,66,86,4,-2,-3,-1,1,"[2, 1]",Spread Up 1; Reload Speed 1
+287,Rakna Armguards,Rakna-Kadaki A,arms,HR,6,66,86,4,-2,-3,-1,1,[2],Constitution 2; Stamina Surge 1
+288,Rakna Coil,Rakna-Kadaki A,waist,HR,6,66,86,4,-2,-3,-1,1,"[2, 2]",Spread Up 1
+289,Rakna Greaves,Rakna-Kadaki A,legs,HR,6,66,86,4,-2,-3,-1,1,[1],Constitution 2; Stamina Surge 2
+290,Rakna Helm,Rakna-Kadaki B,head,HR,6,66,86,4,-2,-3,-1,1,"[1, 1]",Spread Up 1; Reload Speed 1
+291,Rakna Mail,Rakna-Kadaki B,chest,HR,6,66,86,4,-2,-3,-1,1,"[2, 1]",Spread Up 1; Reload Speed 1
+292,Rakna Armguards,Rakna-Kadaki B,arms,HR,6,66,86,4,-2,-3,-1,1,[2],Constitution 2; Stamina Surge 1
+293,Rakna Coil,Rakna-Kadaki B,waist,HR,6,66,86,4,-2,-3,-1,1,"[2, 2]",Spread Up 1
+294,Rakna Greaves,Rakna-Kadaki B,legs,HR,6,66,86,4,-2,-3,-1,1,[1],Constitution 2; Stamina Surge 2
+295,Goss Harag Helm,Goss Harag,head,LR,3,30,72,-4,1,4,-1,0,[],Agitator 1
+296,Goss Harag Mail,Goss Harag,chest,LR,3,30,72,-4,1,4,-1,0,[],Critical Draw 1
+297,Goss Harag Braces,Goss Harag,arms,LR,3,30,72,-4,1,4,-1,0,[],Critical Draw 1; Punishing Draw 1
+298,Goss Harag Coil,Goss Harag,waist,LR,3,30,72,-4,1,4,-1,0,[],Resentment 1; Punishing Draw 1
+299,Goss Harag Greaves,Goss Harag,legs,LR,3,30,72,-4,1,4,-1,0,[],Agitator 1
+300,Goss Harag Helm S,Goss Harag S,head,HR,6,64,84,-4,1,4,-1,0,"[1, 1]",Agitator 1; Critical Draw 1
+301,Goss Harag Mail S,Goss Harag S,chest,HR,6,64,84,-4,1,4,-1,0,"[2, 1]",Resentment 1; Critical Draw 1
+302,Goss Harag Braces S,Goss Harag S,arms,HR,6,64,84,-4,1,4,-1,0,[2],Critical Draw 1; Punishing Draw 1
+303,Goss Harag Coil S,Goss Harag S,waist,HR,6,64,84,-4,1,4,-1,0,"[2, 1]",Resentment 1; Punishing Draw 1
+304,Goss Harag Greaves S,Goss Harag S,legs,HR,6,64,84,-4,1,4,-1,0,[1],Agitator 3; Punishing Draw 1
+305,Almudron Helm,Almudron,head,LR,3,30,72,-4,3,-2,3,-2,[],Rapid Morph 1
+306,Almudron Mail,Almudron,chest,LR,3,30,72,-4,3,-2,3,-2,[],Razor Sharp 1
+307,Almudron Vambraces,Almudron,arms,LR,3,30,72,-4,3,-2,3,-2,[],Evade Window 1; Rapid Morph 1
+308,Almudron Coil,Almudron,waist,LR,3,30,72,-4,3,-2,3,-2,[],Power Prolonger 1
+309,Almudron Greaves,Almudron,legs,LR,3,30,72,-4,3,-2,3,-2,[],Razor Sharp 1
+310,Almudron Helm S,Almudron S,head,HR,6,64,84,-4,3,-2,3,-2,"[2, 2]",Rapid Morph 2
+311,Almudron Mail S,Almudron S,chest,HR,6,64,84,-4,3,-2,3,-2,[1],Razor Sharp 2; Power Prolonger 1
+312,Almudron Vambraces S,Almudron S,arms,HR,6,64,84,-4,3,-2,3,-2,"[1, 1]",Evade Window 2; Rapid Morph 1
+313,Almudron Coil S,Almudron S,waist,HR,6,64,84,-4,3,-2,3,-2,"[2, 1]",Power Prolonger 1; Evade Window 1
+314,Almudron Greaves S,Almudron S,legs,HR,6,64,84,-4,3,-2,3,-2,"[3, 1]",Razor Sharp 1
+315,Ibushi's Helm,Ibushi,head,HR,7,66,86,-1,0,0,0,-2,[],Focus 1; Evade Extender 1; Wind Alignment 1
+316,Ibushi's Breastplate,Ibushi,chest,HR,7,66,86,-1,0,0,0,-2,[],Guard 1; Flinch Free 1; Wind Alignment 1
+317,Ibushi's Pauldrons,Ibushi,arms,HR,7,66,86,-1,0,0,0,-2,[],Constitution 1; Stamina Surge 1; Wind Alignment 1
+318,Ibushi's Fauld,Ibushi,waist,HR,7,66,86,-1,0,0,0,-2,[],Power Prolonger 1; Evade Window 1; Wind Alignment 1
+319,Ibushi's Foot,Ibushi,legs,HR,7,66,86,-1,0,0,0,-2,[],Guard Up 1; Slugger 1; Wind Alignment 1
+320,Narwa's Helm,Narwa,head,HR,7,76,96,2,1,-3,4,-4,[],Offensive Guard 1; Rapid Morph 1; Thunder Alignment 1
+321,Narwa's Breastplate,Narwa,chest,HR,7,76,96,2,1,-3,4,-4,[],Constitution 1; Critical Draw 1; Thunder Alignment 1
+322,Narwa's Pauldrons,Narwa,arms,HR,7,76,96,2,1,-3,4,-4,[],Guard 1; Partbreaker 1; Thunder Alignment 1
+323,Narwa's Fauld,Narwa,waist,HR,7,76,96,2,1,-3,4,-4,[],Guard 1; Artillery 1; Thunder Alignment 1
+324,Narwa's Foot,Narwa,legs,HR,7,76,96,2,1,-3,4,-4,[],Marathon Runner 1; Evade Window 1; Thunder Alignment 1
+325,Izuchi Helm,Izuchi,head,LR,1,10,68,2,-1,0,-2,0,[],Critical Eye 1
+326,Izuchi Mail,Izuchi,chest,LR,1,10,68,2,-1,0,-2,0,[],Critical Eye 1; Recovery Speed 1
+327,Izuchi Braces,Izuchi,arms,LR,1,10,68,2,-1,0,-2,0,[],Constitution 1
+328,Izuchi Coil,Izuchi,waist,LR,1,10,68,2,-1,0,-2,0,[],Critical Eye 1
+329,Izuchi Greaves,Izuchi,legs,LR,1,10,68,2,-1,0,-2,0,[],Recovery Speed 1
+330,Izuchi Helm S,Izuchi S,head,HR,4,36,74,2,-1,0,-2,0,"[1, 1]",Critical Eye 1
+331,Izuchi Mail S,Izuchi S,chest,HR,4,36,74,2,-1,0,-2,0,[1],Critical Eye 2; Recovery Speed 1
+332,Izuchi Braces S,Izuchi S,arms,HR,4,36,74,2,-1,0,-2,0,"[1, 1]",Constitution 2
+333,Izuchi Coil S,Izuchi S,waist,HR,4,36,74,2,-1,0,-2,0,"[1, 1]",Critical Eye 2
+334,Izuchi Greaves S,Izuchi S,legs,HR,4,36,74,2,-1,0,-2,0,"[1, 1]",Constitution 1; Recovery Speed 1
+335,Kushala Glare,Kushala Daora,head,HR,7,74,94,-1,2,3,-2,-3,[1],Handicraft 2; Normal/Rapid Up 2
+336,Kushala Cista,Kushala Daora,chest,HR,7,74,94,-1,2,3,-2,-3,[2],Recovery Speed 1; Diversion 1; Kushala Blessing 1
+337,Kushala Grip,Kushala Daora,arms,HR,7,74,94,-1,2,3,-2,-3,[1],Agitator 2; Recovery Speed 1; Kushala Blessing 1
+338,Kushala Cocoon,Kushala Daora,waist,HR,7,74,94,-1,2,3,-2,-3,[1],Handicraft 1; Pierce Up 1; Recovery Speed 1; Kushala Blessing 1
+339,Kushala Crus,Kushala Daora,legs,HR,7,74,94,-1,2,3,-2,-3,[1],Handicraft 1; Pierce Up 1; Kushala Blessing 1
+340,Mizuha Cap,Mizuha,head,HR,7,74,94,-5,1,3,0,-3,[1],Mind's Eye 2; Ballistics 2; Evade Window 2
+341,Mizuha Guards,Mizuha,chest,HR,7,74,94,-5,1,3,0,-3,[1],Poison Attack 1; Mind's Eye 1; Ballistics 1; Chameleos Blessing 1
+342,Mizuha Sleeves,Mizuha,arms,HR,7,74,94,-5,1,3,0,-3,[1],Poison Attack 1; Evade Window 1; Chameleos Blessing 1
+343,Mizuha Sash,Mizuha,waist,HR,7,74,94,-5,1,3,0,-3,[1],Peak Performance 2; Poison Attack 1; Chameleos Blessing 1
+344,Mizuha Gaiters,Mizuha,legs,HR,7,74,94,-5,1,3,0,-3,[2],Evade Window 1; Chameleos Blessing 1
+345,Kaiser Crown,Kaiser,head,HR,7,74,94,4,-4,-1,1,-3,[1],Critical Eye 3; Critical Boost 1
+346,Kaiser Mail,Kaiser,chest,HR,7,74,94,4,-4,-1,1,-3,[1],Critical Eye 1; Master's Touch 1; Teostra Blessing 1
+347,Kaiser Vambraces,Kaiser,arms,HR,7,74,94,4,-4,-1,1,-3,[2],Critical Eye 1; Critical Boost 1; Teostra Blessing 1
+348,Kaiser Coil,Kaiser,waist,HR,7,74,94,4,-4,-1,1,-3,[3],Critical Eye 1; Teostra Blessing 1
+349,Kaiser Greaves,Kaiser,legs,HR,7,74,94,4,-4,-1,1,-3,[1],Master's Touch 1; Teostra Blessing 1
+350,Gargwa Mask,Gargwa Mask,head,LR,2,14,64,-3,-2,1,-2,0,[],Leap of Faith 1
+351,Gargwa Mask S,Gargwa Mask S,head,HR,6,54,74,-3,-2,1,-2,0,[],Good Luck 1; Leap of Faith 1
+352,Slagtoth Hood,Slagtoth,head,LR,2,14,66,-2,2,-1,0,1,[],Free Meal 1
+353,Slagtoth Cloak,Slagtoth,chest,LR,2,14,66,-2,2,-1,0,1,[],Free Meal 1
+354,Slagtoth Hood S,Slagtoth S,head,HR,4,42,72,-2,2,-1,0,1,[3],Free Meal 1; Diversion 1
+355,Slagtoth Cloak S,Slagtoth S,chest,HR,4,42,72,-2,2,-1,0,1,"[2, 1]",Free Meal 2
+356,Rhenoplos Helm,Rhenoplos,head,LR,2,14,66,2,0,-2,0,0,[],Pierce Up 1
+357,Rhenoplos Mail,Rhenoplos,chest,LR,2,14,66,2,0,-2,0,0,[],Artillery 1; Stun Resistance 1
+358,Rhenoplos Braces,Rhenoplos,arms,LR,2,14,66,2,0,-2,0,0,[],Artillery 1
+359,Rhenoplos Coil,Rhenoplos,waist,LR,2,14,66,2,0,-2,0,0,[],Tremor Resistance 1
+360,Rhenoplos Greaves,Rhenoplos,legs,LR,2,14,66,2,0,-2,0,0,[],Tremor Resistance 1
+361,Rhenoplos Helm S,Rhenoplos S,head,HR,4,42,72,2,0,-2,0,0,[1],Pierce Up 2; Stun Resistance 1
+362,Rhenoplos Mail S,Rhenoplos S,chest,HR,4,42,72,2,0,-2,0,0,"[2, 1]",Artillery 1; Stun Resistance 2
+363,Rhenoplos Braces S,Rhenoplos S,arms,HR,4,42,72,2,0,-2,0,0,"[2, 1]",Artillery 2
+364,Rhenoplos Coil S,Rhenoplos S,waist,HR,4,42,72,2,0,-2,0,0,"[3, 1]",Tremor Resistance 2
+365,Rhenoplos Greaves S,Rhenoplos S,legs,HR,4,42,72,2,0,-2,0,0,"[1, 1]",Pierce Up 1; Tremor Resistance 1
+366,Jaggi Gauntlets,Jaggi,arms,LR,2,14,66,0,0,1,0,0,[],Attack Boost 1
+367,Jaggi Shinguards,Jaggi,legs,LR,2,14,66,0,0,1,0,0,[],Master Mounter 1
+368,Jaggi Gauntlets S,Jaggi S,arms,HR,4,42,72,0,0,1,0,0,"[1, 1]",Attack Boost 2
+369,Jaggi Shinguards S,Jaggi S,legs,HR,4,42,72,0,0,1,0,0,"[2, 1]",Master Mounter 1
+370,Bnahabra Hat,Bnahabra,head,LR,2,14,66,-2,0,0,0,2,[],Recoil Down 1
+371,Bnahabra Suit,Bnahabra,chest,LR,2,14,66,-2,0,0,0,2,[],Paralysis Attack 1
+372,Bnahabra Gloves,Bnahabra,arms,LR,2,14,66,-2,0,0,0,2,[],Evade Window 1
+373,Bnahabra Coil,Bnahabra,waist,LR,2,14,66,-2,0,0,0,2,[],Paralysis Attack 1
+374,Bnahabra Boots,Bnahabra,legs,LR,2,14,66,-2,0,0,0,2,[],Recoil Down 1
+375,Bnahabra Hat S,Bnahabra S,head,HR,4,34,72,-2,0,0,0,2,[2],Poison Attack 1; Recoil Down 2
+376,Bnahabra Suit S,Bnahabra S,chest,HR,4,34,72,-2,0,0,0,2,"[1, 1]",Paralysis Attack 1; Evade Window 1
+377,Bnahabra Gloves S,Bnahabra S,arms,HR,4,34,72,-2,0,0,0,2,[1],Poison Attack 2; Evade Window 1
+378,Bnahabra Coil S,Bnahabra S,waist,HR,4,34,72,-2,0,0,0,2,"[1, 1]",Paralysis Attack 1; Evade Window 1
+379,Bnahabra Boots S,Bnahabra S,legs,HR,4,34,72,-2,0,0,0,2,"[2, 1]",Paralysis Attack 1; Recoil Down 1
+380,Bullfango Mask,Bullfango Mask,head,LR,2,14,64,0,4,0,-2,0,[],Bludgeoner 1
+381,Bullfango Mask S,Bullfango Mask S,head,HR,4,36,66,0,4,0,-2,0,[1],Bludgeoner 2
+382,Remobra Headgear,Remobra,head,LR,2,18,68,1,1,1,1,2,[],Windproof 2
+383,Remobra Suit,Remobra,chest,LR,2,18,68,1,1,1,1,2,[],Item Prolonger 1
+384,Remobra Gloves,Remobra,arms,LR,2,18,68,1,1,1,1,2,[],Critical Element 1; Windproof 1
+385,Remobra Belt,Remobra,waist,LR,2,18,68,1,1,1,1,2,[],Critical Element 1
+386,Remobra Feet,Remobra,legs,LR,2,18,68,1,1,1,1,2,[],Divine Blessing 1
+387,Remobra Headgear S,Remobra S,head,HR,5,52,72,1,1,1,1,3,[2],Windproof 2
+388,Remobra Suit S,Remobra S,chest,HR,5,52,72,1,1,1,1,3,"[1, 1]",Critical Boost 1
+389,Remobra Gloves S,Remobra S,arms,HR,5,52,72,1,1,1,1,3,[2],Critical Element 1; Windproof 1
+390,Remobra Belt S,Remobra S,waist,HR,5,52,72,1,1,1,1,3,"[1, 1]",Critical Element 2
+391,Remobra Feet S,Remobra S,legs,HR,5,52,72,1,1,1,1,3,"[1, 1]",Weakness Exploit 1
+392,Droth Mail,Droth,chest,LR,2,14,66,-2,4,0,-1,0,[],Water Resistance 1
+393,Droth Coil,Droth,waist,LR,2,14,66,-2,4,0,-1,0,[],Diversion 1
+394,Droth Greaves,Droth,legs,LR,2,14,66,-2,4,0,-1,0,[],Water Resistance 2
+395,Droth Mail S,Droth S,chest,HR,4,42,72,-2,4,0,-1,0,"[2, 1]",Water Attack 2
+396,Droth Coil S,Droth S,waist,HR,4,42,72,-2,4,0,-1,0,"[3, 1]",Diversion 1
+397,Droth Greaves S,Droth S,legs,HR,4,42,72,-2,4,0,-1,0,[2],Water Attack 3
+398,Uroktor Torso,Uroktor,chest,LR,2,18,68,4,-2,-1,0,0,[],Fire Resistance 2
+399,Uroktor Coil,Uroktor,waist,LR,2,18,68,4,-2,-1,0,0,[],Fire Resistance 1
+400,Uroktor Torso S,Uroktor S,chest,HR,5,52,72,4,-2,-1,0,0,[2],Fire Attack 3
+401,Uroktor Coil S,Uroktor S,waist,HR,5,52,72,4,-2,-1,0,0,"[2, 1]",Fire Attack 2
+402,Wroggi Helm,Wroggi,head,LR,2,16,68,2,-2,-4,1,0,[],Evade Extender 1
+403,Wroggi Mail,Wroggi,chest,LR,2,16,68,2,-2,-4,1,0,[],Poison Attack 1
+404,Wroggi Vambraces,Wroggi,arms,LR,2,16,68,2,-2,-4,1,0,[],Ammo Up 1
+405,Wroggi Coil,Wroggi,waist,LR,2,16,68,2,-2,-4,1,0,[],Poison Attack 1
+406,Wroggi Greaves,Wroggi,legs,LR,2,16,68,2,-2,-4,1,0,[],Evade Extender 1
+407,Wroggi Helm S,Wroggi S,head,HR,4,38,76,2,-2,-4,1,0,[1],Rapid Fire Up 1; Evade Extender 1
+408,Wroggi Mail S,Wroggi S,chest,HR,4,38,76,2,-2,-4,1,0,[1],Poison Attack 1; Rapid Fire Up 1
+409,Wroggi Vambraces S,Wroggi S,arms,HR,4,38,76,2,-2,-4,1,0,[3],Ammo Up 1
+410,Wroggi Coil S,Wroggi S,waist,HR,4,38,76,2,-2,-4,1,0,[1],Poison Attack 2; Ammo Up 1
+411,Wroggi Greaves S,Wroggi S,legs,HR,4,38,76,2,-2,-4,1,0,"[1, 1]",Ammo Up 1; Evade Extender 1
+412,Baggi Helm,Baggi,head,LR,1,10,68,-4,-1,2,-1,1,[],Ice Attack 1
+413,Baggi Mail,Baggi,chest,LR,1,10,68,-4,-1,2,-1,1,[],Attack Boost 1
+414,Baggi Vambraces,Baggi,arms,LR,1,10,68,-4,-1,2,-1,1,[],Ice Attack 1; Sleep Resistance 1
+415,Baggi Coil,Baggi,waist,LR,1,10,68,-4,-1,2,-1,1,[],Sleep Resistance 1
+416,Baggi Greaves,Baggi,legs,LR,1,10,68,-4,-1,2,-1,1,[],Attack Boost 1
+417,Baggi Helm S,Baggi S,head,HR,4,36,74,-4,-1,2,-1,1,"[2, 1]",Ice Attack 2
+418,Baggi Mail S,Baggi S,chest,HR,4,36,74,-4,-1,2,-1,1,[1],Attack Boost 1; Ice Attack 1
+419,Baggi Vambraces S,Baggi S,arms,HR,4,36,74,-4,-1,2,-1,1,"[1, 1]",Ice Attack 1; Sleep Resistance 2
+420,Baggi Coil S,Baggi S,waist,HR,4,36,74,-4,-1,2,-1,1,[1],Attack Boost 2; Sleep Resistance 1
+421,Baggi Greaves S,Baggi S,legs,HR,4,36,74,-4,-1,2,-1,1,"[2, 1]",Attack Boost 1
+422,Arzuros Helm,Arzuros,head,LR,1,10,68,-2,0,0,-2,0,[],Fortify 1
+423,Arzuros Mail,Arzuros,chest,LR,1,10,68,-2,0,0,-2,0,[],Counterstrike 1
+424,Arzuros Vambraces,Arzuros,arms,LR,1,10,68,-2,0,0,-2,0,[],Defense Boost 1
+425,Arzuros Coil,Arzuros,waist,LR,1,10,68,-2,0,0,-2,0,[],Defense Boost 1
+426,Arzuros Greaves,Arzuros,legs,LR,1,10,68,-2,0,0,-2,0,[],Diversion 1
+427,Arzuros Helm S,Arzuros S,head,HR,4,36,74,-2,0,0,-2,0,"[1, 1]",Defense Boost 1; Fortify 1
+428,Arzuros Mail S,Arzuros S,chest,HR,4,36,74,-2,0,0,-2,0,[2],Counterstrike 1
+429,Arzuros Vambraces S,Arzuros S,arms,HR,4,36,74,-2,0,0,-2,0,[1],Defense Boost 2; Counterstrike 1
+430,Arzuros Coil S,Arzuros S,waist,HR,4,36,74,-2,0,0,-2,0,"[1, 1]",Defense Boost 1; Counterstrike 1
+431,Arzuros Greaves S,Arzuros S,legs,HR,4,36,74,-2,0,0,-2,0,"[3, 2, 1]",
+432,Volvidon Helm,Volvidon,head,LR,2,20,70,2,-3,-1,0,1,[],Paralysis Attack 1
+433,Volvidon Mail,Volvidon,chest,LR,2,20,70,2,-3,-1,0,1,[],Rapid Morph 1
+434,Volvidon Vambraces,Volvidon,arms,LR,2,20,70,2,-3,-1,0,1,[],Evade Extender 1
+435,Volvidon Coil,Volvidon,waist,LR,2,20,70,2,-3,-1,0,1,[],Rapid Morph 1
+436,Volvidon Greaves,Volvidon,legs,LR,2,20,70,2,-3,-1,0,1,[],Evade Extender 1
+437,Volvidon Helm S,Volvidon S,head,HR,4,50,80,2,-3,-1,0,1,"[1, 1]",Paralysis Attack 2; Bludgeoner 1
+438,Volvidon Mail S,Volvidon S,chest,HR,4,50,80,2,-3,-1,0,1,[2],Jump Master 1; Rapid Morph 1
+439,Volvidon Vambraces S,Volvidon S,arms,HR,4,50,80,2,-3,-1,0,1,"[1, 1, 1]",Paralysis Attack 1; Evade Extender 1
+440,Volvidon Coil S,Volvidon S,waist,HR,4,50,80,2,-3,-1,0,1,"[1, 1]",Bludgeoner 1; Rapid Morph 1
+441,Volvidon Greaves S,Volvidon S,legs,HR,4,50,80,2,-3,-1,0,1,"[1, 1]",Evade Extender 2; Rapid Morph 1
+442,Ludroth Helm,Royal Ludroth,head,LR,2,18,70,-3,4,0,-1,0,[],Water Attack 1
+443,Ludroth Mail,Royal Ludroth,chest,LR,2,18,70,-3,4,0,-1,0,[],Stamina Surge 1
+444,Ludroth Braces,Royal Ludroth,arms,LR,2,18,70,-3,4,0,-1,0,[],Marathon Runner 1
+445,Ludroth Coil,Royal Ludroth,waist,LR,2,18,70,-3,4,0,-1,0,[],Water Attack 2
+446,Ludroth Greaves,Royal Ludroth,legs,LR,2,18,70,-3,4,0,-1,0,[],Power Prolonger 1
+447,Ludroth Helm S,Royal Ludroth S,head,HR,4,48,78,-3,4,0,-1,0,"[1, 1]",Peak Performance 1; Marathon Runner 1
+448,Ludroth Mail S,Royal Ludroth S,chest,HR,4,48,78,-3,4,0,-1,0,[2],Stamina Surge 2
+449,Ludroth Braces S,Royal Ludroth S,arms,HR,4,48,78,-3,4,0,-1,0,"[2, 1, 1]",Marathon Runner 1
+450,Ludroth Coil S,Royal Ludroth S,waist,HR,4,48,78,-3,4,0,-1,0,[1],Peak Performance 2; Marathon Runner 1
+451,Ludroth Greaves S,Royal Ludroth S,legs,HR,4,48,78,-3,4,0,-1,0,[3],Power Prolonger 2
+452,Barroth Helm,Barroth,head,LR,2,18,70,-3,-1,-1,3,0,[],Attack Boost 1
+453,Barroth Mail,Barroth,chest,LR,2,18,70,-3,-1,-1,3,0,[],Attack Boost 1; Defense Boost 1
+454,Barroth Vambraces,Barroth,arms,LR,2,18,70,-3,-1,-1,3,0,[],Affinity Sliding 1
+455,Barroth Coil,Barroth,waist,LR,2,18,70,-3,-1,-1,3,0,[],Guard 1
+456,Barroth Greaves,Barroth,legs,LR,2,18,70,-3,-1,-1,3,0,[],Guard 1
+457,Barroth Helm S,Barroth S,head,HR,4,50,80,-3,-1,-1,3,0,"[2, 1]",Attack Boost 1; Offensive Guard 1; Defense Boost 1
+458,Barroth Mail S,Barroth S,chest,HR,4,50,80,-3,-1,-1,3,0,[2],Attack Boost 1; Defense Boost 2
+459,Barroth Vambraces S,Barroth S,arms,HR,4,50,80,-3,-1,-1,3,0,"[1, 1]",Attack Boost 2; Affinity Sliding 1
+460,Barroth Coil S,Barroth S,waist,HR,4,50,80,-3,-1,-1,3,0,[1],Guard 2; Defense Boost 1
+461,Barroth Greaves S,Barroth S,legs,HR,4,50,80,-3,-1,-1,3,0,"[2, 1]",Guard 1; Offensive Guard 1; Defense Boost 1
+462,Khezu Helm,Khezu,head,LR,2,16,68,-4,1,2,4,1,[],Recovery Up 1
+463,Khezu Mail,Khezu,chest,LR,2,16,68,-4,1,2,4,1,[],Wall Runner 1
+464,Khezu Vambraces,Khezu,arms,LR,2,16,68,-4,1,2,4,1,[],Thunder Attack 1; Recovery Speed 1; Wall Runner 1
+465,Khezu Coil,Khezu,waist,LR,2,16,68,-4,1,2,4,1,[],Focus 1; Slugger 1
+466,Khezu Greaves,Khezu,legs,LR,2,16,68,-4,1,2,4,1,[],Recovery Speed 1
+467,Khezu Helm S,Khezu S,head,HR,4,38,76,-4,1,2,4,1,[1],Focus 1; Recovery Up 1
+468,Khezu Mail S,Khezu S,chest,HR,4,38,76,-4,1,2,4,1,"[1, 1]",Recovery Up 1; Wall Runner 1
+469,Khezu Vambraces S,Khezu S,arms,HR,4,38,76,-4,1,2,4,1,"[1, 1]",Thunder Attack 2; Recovery Speed 1; Wall Runner 1
+470,Khezu Coil S,Khezu S,waist,HR,4,38,76,-4,1,2,4,1,"[1, 1]",Focus 1; Slugger 1
+471,Khezu Greaves S,Khezu S,legs,HR,4,38,76,-4,1,2,4,1,"[1, 1]",Focus 1; Slugger 1; Recovery Speed 1
+472,Nargacuga Helm,Nargacuga,head,LR,3,26,70,-2,1,1,-3,1,[],Evade Window 1
+473,Nargacuga Mail,Nargacuga,chest,LR,3,26,70,-2,1,1,-3,1,[],Critical Eye 1
+474,Nargacuga Braces,Nargacuga,arms,LR,3,26,70,-2,1,1,-3,1,[],Evade Window 1; Evade Extender 1
+475,Nargacuga Coil,Nargacuga,waist,LR,3,26,70,-2,1,1,-3,1,[],Evade Extender 1
+476,Nargacuga Greaves,Nargacuga,legs,LR,3,26,70,-2,1,1,-3,1,[],Critical Eye 1; Evade Window 1
+477,Nargacuga Helm S,Nargacuga S,head,HR,6,60,80,-2,1,1,-3,1,[3],Evade Window 1
+478,Nargacuga Mail S,Nargacuga S,chest,HR,6,60,80,-2,1,1,-3,1,"[1, 1]",Critical Eye 2; Evade Window 1
+479,Nargacuga Braces S,Nargacuga S,arms,HR,6,60,80,-2,1,1,-3,1,"[1, 1]",Evade Window 1; Evade Extender 1
+480,Nargacuga Coil S,Nargacuga S,waist,HR,6,60,80,-2,1,1,-3,1,[2],Critical Eye 1; Evade Extender 2
+481,Nargacuga Greaves S,Nargacuga S,legs,HR,6,60,80,-2,1,1,-3,1,[1],Critical Eye 1; Evade Window 2
+482,Barioth Helm,Barioth,head,LR,2,20,70,-5,0,3,-1,0,[],Critical Draw 1
+483,Barioth Mail,Barioth,chest,LR,2,20,70,-5,0,3,-1,0,[],Quick Sheathe 1
+484,Barioth Vambraces,Barioth,arms,LR,2,20,70,-5,0,3,-1,0,[],Critical Eye 1
+485,Barioth Coil,Barioth,waist,LR,2,20,70,-5,0,3,-1,0,[],Critical Eye 2
+486,Barioth Greaves,Barioth,legs,LR,2,20,70,-5,0,3,-1,0,[],Quick Sheathe 1
+487,Barioth Helm S,Barioth S,head,HR,5,58,78,-3,0,3,-1,0,[1],Critical Draw 2
+488,Barioth Mail S,Barioth S,chest,HR,5,58,78,-3,0,3,-1,0,"[2, 1, 1]",Maximum Might 1; Quick Sheathe 1
+489,Barioth Vambraces S,Barioth S,arms,HR,5,58,78,-3,0,3,-1,0,[2],Critical Eye 1; Maximum Might 1; Quick Sheathe 1
+490,Barioth Coil S,Barioth S,waist,HR,5,58,78,-3,0,3,-1,0,[1],Critical Eye 2; Critical Draw 1
+491,Barioth Greaves S,Barioth S,legs,HR,5,58,78,-3,0,3,-1,0,"[3, 1]",Quick Sheathe 1
+492,Rathian Helm,Rathian,head,LR,2,22,72,3,0,0,-2,-3,[],Blight Resistance 1
+493,Rathian Mail,Rathian,chest,LR,2,22,72,3,0,0,-2,-3,[],Recovery Up 1
+494,Rathian Braces,Rathian,arms,LR,2,22,72,3,0,0,-2,-3,[],Blight Resistance 1
+495,Rathian Coil,Rathian,waist,LR,2,22,72,3,0,0,-2,-3,[],Recovery Up 1; Wide-Range 1
+496,Rathian Greaves,Rathian,legs,LR,2,22,72,3,0,0,-2,-3,[],Free Meal 1
+497,Rathian Helm S,Rathian S,head,HR,5,52,82,3,0,0,-2,-3,"[2, 1]",Blight Resistance 1
+498,Rathian Mail S,Rathian S,chest,HR,5,52,82,3,0,0,-2,-3,"[3, 1, 1]",Recovery Up 1; Botanist 1
+499,Rathian Braces S,Rathian S,arms,HR,5,52,82,3,0,0,-2,-3,"[1, 1]",Blight Resistance 1; Wide-Range 1
+500,Rathian Coil S,Rathian S,waist,HR,5,52,82,3,0,0,-2,-3,[2],Recovery Up 2; Wide-Range 1
+501,Rathian Greaves S,Rathian S,legs,HR,5,52,82,3,0,0,-2,-3,[2],Blight Resistance 1; Free Meal 1
+502,Rathalos Helm,Rathalos,head,LR,3,28,72,4,0,0,-2,-4,[],Attack Boost 1; Fire Attack 1
+503,Rathalos Mail,Rathalos,chest,LR,3,28,72,4,0,0,-2,-4,[],Windproof 1; Partbreaker 1
+504,Rathalos Braces,Rathalos,arms,LR,3,28,72,4,0,0,-2,-4,[],Attack Boost 1
+505,Rathalos Coil,Rathalos,waist,LR,3,28,72,4,0,0,-2,-4,[],Attack Boost 1; Windproof 1
+506,Rathalos Greaves,Rathalos,legs,LR,3,28,72,4,0,0,-2,-4,[],Attack Boost 1; Fire Attack 1
+507,Rathalos Helm S,Rathalos S,head,HR,6,62,82,3,1,1,-2,-3,"[1, 1]",Attack Boost 1; Partbreaker 1
+508,Rathalos Mail S,Rathalos S,chest,HR,6,62,82,3,1,1,-2,-3,[1],Attack Boost 1; Windproof 1; Partbreaker 1
+509,Rathalos Braces S,Rathalos S,arms,HR,6,62,82,3,1,1,-2,-3,[2],Attack Boost 2
+510,Rathalos Coil S,Rathalos S,waist,HR,6,62,82,3,1,1,-2,-3,[2],Attack Boost 2; Windproof 1
+511,Rathalos Greaves S,Rathalos S,legs,HR,6,62,82,3,1,1,-2,-3,"[1, 1]",Attack Boost 1; Partbreaker 1
+512,Tigrex Helm,Tigrex,head,LR,3,30,72,2,0,0,-3,-2,[],Speed Eating 1; Earplugs 1
+513,Tigrex Mail,Tigrex,chest,LR,3,30,72,2,0,0,-3,-2,[],Bludgeoner 1; Earplugs 1
+514,Tigrex Braces,Tigrex,arms,LR,3,30,72,2,0,0,-3,-2,[],Bludgeoner 2
+515,Tigrex Coil,Tigrex,waist,LR,3,30,72,2,0,0,-3,-2,[],Earplugs 1
+516,Tigrex Greaves,Tigrex,legs,LR,3,30,72,2,0,0,-3,-2,[],Speed Eating 1
+517,Tigrex Helm S,Tigrex S,head,HR,6,64,84,2,0,0,-3,-2,"[2, 1]",Speed Eating 1; Earplugs 1
+518,Tigrex Mail S,Tigrex S,chest,HR,6,64,84,2,0,0,-3,-2,"[1, 1]",Bludgeoner 1; Earplugs 2
+519,Tigrex Braces S,Tigrex S,arms,HR,6,64,84,2,0,0,-3,-2,[3],Mind's Eye 1; Bludgeoner 2
+520,Tigrex Coil S,Tigrex S,waist,HR,6,64,84,2,0,0,-3,-2,"[2, 1]",Earplugs 2
+521,Tigrex Greaves S,Tigrex S,legs,HR,6,64,84,2,0,0,-3,-2,[1],Mind's Eye 1; Speed Eating 2
+522,Diablos Helm,Diablos,head,LR,3,30,72,3,-1,-3,-1,-1,[],Stamina Surge 1; Guard 1
+523,Diablos Mail,Diablos,chest,LR,3,30,72,3,-1,-3,-1,-1,[],Guard 1
+524,Diablos Vambraces,Diablos,arms,LR,3,30,72,3,-1,-3,-1,-1,[],Offensive Guard 1
+525,Diablos Coil,Diablos,waist,LR,3,30,72,3,-1,-3,-1,-1,[],Stamina Surge 1
+526,Diablos Greaves,Diablos,legs,LR,3,30,72,3,-1,-3,-1,-1,[],Guard 1; Offensive Guard 1
+527,Diablos Helm S,Diablos S,head,HR,6,64,84,3,-1,-3,-1,-1,[2],Stamina Surge 1; Guard 1
+528,Diablos Mail S,Diablos S,chest,HR,6,64,84,3,-1,-3,-1,-1,[1],Guard 2; Offensive Guard 1
+529,Diablos Vambraces S,Diablos S,arms,HR,6,64,84,3,-1,-3,-1,-1,"[2, 1]",Offensive Guard 1
+530,Diablos Coil S,Diablos S,waist,HR,6,64,84,3,-1,-3,-1,-1,"[1, 1]",Stamina Surge 1; Guard 1
+531,Diablos Greaves S,Diablos S,legs,HR,6,64,84,3,-1,-3,-1,-1,[2],Guard 1; Offensive Guard 1
+532,Basarios Helm,Basarios,head,LR,2,22,72,0,-2,1,1,-3,[],Defense Boost 2
+533,Basarios Mail,Basarios,chest,LR,2,22,72,0,-2,1,1,-3,[],Guard 1
+534,Basarios Vambraces,Basarios,arms,LR,2,22,72,0,-2,1,1,-3,[],Guard 1; Speed Sharpening 1
+535,Basarios Coil,Basarios,waist,LR,2,22,72,0,-2,1,1,-3,[],Defense Boost 1; Speed Sharpening 1
+536,Basarios Greaves,Basarios,legs,LR,2,22,72,0,-2,1,1,-3,[],Load Shells 1; Defense Boost 1
+537,Basarios Helm S,Basarios S,head,HR,5,52,82,0,-2,1,1,-3,"[2, 1]",Load Shells 1; Defense Boost 2
+538,Basarios Mail S,Basarios S,chest,HR,5,52,82,0,-2,1,1,-3,"[1, 1]",Guard 1; Load Shells 1
+539,Basarios Vambraces S,Basarios S,arms,HR,5,52,82,0,-2,1,1,-3,"[1, 1]",Guard 2; Speed Sharpening 1
+540,Basarios Coil S,Basarios S,waist,HR,5,52,82,0,-2,1,1,-3,[2],Defense Boost 2; Speed Sharpening 2
+541,Basarios Greaves S,Basarios S,legs,HR,5,52,82,0,-2,1,1,-3,[3],Load Shells 1; Defense Boost 1
+542,Zinogre Helm,Zinogre,head,LR,3,28,72,0,-1,-4,4,1,[],Critical Eye 1; Latent Power 1
+543,Zinogre Mail,Zinogre,chest,LR,3,28,72,0,-1,-4,4,1,[],Critical Eye 1; Latent Power 1
+544,Zinogre Braces,Zinogre,arms,LR,3,28,72,0,-1,-4,4,1,[],Constitution 1
+545,Zinogre Coil,Zinogre,waist,LR,3,28,72,0,-1,-4,4,1,[],Latent Power 1
+546,Zinogre Greaves,Zinogre,legs,LR,3,28,72,0,-1,-4,4,1,[],Constitution 2
+547,Zinogre Helm S,Zinogre S,head,HR,6,62,82,0,-1,-4,4,1,[1],Weakness Exploit 1; Latent Power 1
+548,Zinogre Mail S,Zinogre S,chest,HR,6,62,82,0,-1,-4,4,1,[1],Weakness Exploit 1; Latent Power 1
+549,Zinogre Braces S,Zinogre S,arms,HR,6,62,82,0,-1,-4,4,1,[2],Latent Power 1; Constitution 1
+550,Zinogre Coil S,Zinogre S,waist,HR,6,62,82,0,-1,-4,4,1,"[3, 1]",Latent Power 1
+551,Zinogre Greaves S,Zinogre S,legs,HR,6,62,82,0,-1,-4,4,1,[1],Latent Power 1; Constitution 2
+552,Golden Headdress,Golden,head,HR,7,70,90,2,1,-5,3,2,"[2, 1]",Maximum Might 1; Heroics 2
+553,Golden Haori,Golden,chest,HR,7,70,90,2,1,-5,3,2,[2],Latent Power 1; Maximum Might 1; Heroics 1
+554,Golden Kote,Golden,arms,HR,7,70,90,2,1,-5,3,2,"[3, 1]",Latent Power 1; Heroics 1
+555,Golden Obi,Golden,waist,HR,7,70,90,2,1,-5,3,2,[1],Critical Boost 1; Maximum Might 1; Heroics 1
+556,Golden Hakama,Golden,legs,HR,7,70,90,2,1,-5,3,2,"[1, 1]",Critical Boost 2; Latent Power 1
+557,Valstrax Helm,Crimson Valstrax,head,HR,7,80,100,-2,-2,-2,-2,3,"[2, 1]",Weakness Exploit 1; Dragonheart 1
+558,Valstrax Mail,Crimson Valstrax,chest,HR,7,80,100,-2,-2,-2,-2,3,"[3, 1]",Resuscitate 2; Dragonheart 1
+559,Valstrax Braces,Crimson Valstrax,arms,HR,7,80,100,-2,-2,-2,-2,3,[2],Weakness Exploit 2; Dragonheart 1
+560,Valstrax Coil,Crimson Valstrax,waist,HR,7,80,100,-2,-2,-2,-2,3,[2],Resentment 2; Resuscitate 1; Dragonheart 1
+561,Valstrax Greaves,Crimson Valstrax,legs,HR,7,80,100,-2,-2,-2,-2,3,"[3, 1]",Resentment 1; Dragonheart 1
+562,Kulu-Ya-Ku Helm,Kulu-Ya-Ku,head,LR,2,16,68,0,-3,1,0,0,[],Maximum Might 1
+563,Kulu-Ya-Ku Mail,Kulu-Ya-Ku,chest,LR,2,16,68,0,-3,1,0,0,[],Horn Maestro 1
+564,Kulu-Ya-Ku Braces,Kulu-Ya-Ku,arms,LR,2,16,68,0,-3,1,0,0,[],Slugger 1
+565,Kulu-Ya-Ku Coil,Kulu-Ya-Ku,waist,LR,2,16,68,0,-3,1,0,0,[],Stamina Thief 1
+566,Kulu-Ya-Ku Greaves,Kulu-Ya-Ku,legs,LR,2,16,68,0,-3,1,0,0,[],Critical Eye 1; Stun Resistance 1
+567,Kulu-Ya-Ku Helm S,Kulu-Ya-Ku S,head,HR,4,38,76,0,-3,1,0,0,"[1, 1]",Maximum Might 1
+568,Kulu-Ya-Ku Mail S,Kulu-Ya-Ku S,chest,HR,4,38,76,0,-3,1,0,0,[2],Slugger 2; Horn Maestro 1
+569,Kulu-Ya-Ku Braces S,Kulu-Ya-Ku S,arms,HR,4,38,76,0,-3,1,0,0,[2],Slugger 1; Stamina Thief 2
+570,Kulu-Ya-Ku Coil S,Kulu-Ya-Ku S,waist,HR,4,38,76,0,-3,1,0,0,"[1, 1]",Maximum Might 1; Stamina Thief 1
+571,Kulu-Ya-Ku Greaves S,Kulu-Ya-Ku S,legs,HR,4,38,76,0,-3,1,0,0,[1],Critical Eye 2; Stun Resistance 1
+572,Pukei-Pukei Helm,Pukei-Pukei,head,LR,2,20,70,0,3,0,-3,1,[],Special Ammo Boost 1
+573,Pukei-Pukei Mail,Pukei-Pukei,chest,LR,2,20,70,0,3,0,-3,1,[],Constitution 1
+574,Pukei-Pukei Braces,Pukei-Pukei,arms,LR,2,20,70,0,3,0,-3,1,[],Spare Shot 1
+575,Pukei-Pukei Coil,Pukei-Pukei,waist,LR,2,20,70,0,3,0,-3,1,[],Poison Attack 2
+576,Pukei Greaves,Pukei-Pukei,legs,LR,2,20,70,0,3,0,-3,1,[],Constitution 1
+577,Pukei-Pukei Helm S,Pukei-Pukei S,head,HR,5,50,80,0,3,0,-3,1,[2],Spare Shot 1; Special Ammo Boost 1
+578,Pukei-Pukei Mail S,Pukei-Pukei S,chest,HR,5,50,80,0,3,0,-3,1,[1],Constitution 2; Special Ammo Boost 1
+579,Pukei-Pukei Braces S,Pukei-Pukei S,arms,HR,5,50,80,0,3,0,-3,1,[2],Spare Shot 1; Ballistics 1
+580,Pukei-Pukei Coil S,Pukei-Pukei S,waist,HR,5,50,80,0,3,0,-3,1,"[2, 1]",Poison Attack 2; Spare Shot 1
+581,Pukei Greaves S,Pukei-Pukei S,legs,HR,5,50,80,0,3,0,-3,1,"[1, 1, 1]",Ballistics 1; Constitution 1
+582,Jyuratodus Helm,Jyuratodus,head,HR,5,48,78,-1,2,0,-3,0,"[2, 1]",Offensive Guard 1; Evade Extender 1
+583,Jyuratodus Mail,Jyuratodus,chest,HR,5,48,78,-1,2,0,-3,0,"[1, 1, 1]",Power Prolonger 2; Evade Extender 1
+584,Jyuratodus Vambraces,Jyuratodus,arms,HR,5,48,78,-1,2,0,-3,0,"[3, 2, 1]",
+585,Jyuratodus Coil,Jyuratodus,waist,HR,5,48,78,-1,2,0,-3,0,"[1, 1]",Power Prolonger 1; Guard Up 1; Offensive Guard 1
+586,Jyuratodus Greaves,Jyuratodus,legs,HR,5,48,78,-1,2,0,-3,0,"[2, 1, 1]",Guard Up 2
+587,Kadachi Helm,Tobi-Kadachi,head,LR,2,20,70,0,-3,0,3,0,[],Jump Master 1
+588,Tobi-Kadachi Mail,Tobi-Kadachi,chest,LR,2,20,70,0,-3,0,3,0,[],Critical Eye 1
+589,Tobi-Kadachi Braces,Tobi-Kadachi,arms,LR,2,20,70,0,-3,0,3,0,[],Constitution 1
+590,Tobi-Kadachi Coil,Tobi-Kadachi,waist,LR,2,20,70,0,-3,0,3,0,[],Thunder Attack 2
+591,Kadachi Greaves,Tobi-Kadachi,legs,LR,2,20,70,0,-3,0,3,0,[],Critical Eye 1; Constitution 1
+592,Kadachi Helm S,Tobi-Kadachi S,head,HR,5,58,78,0,-3,0,3,0,"[1, 1]",Critical Eye 1; Constitution 1; Jump Master 1
+593,Tobi-Kadachi Mail S,Tobi-Kadachi S,chest,HR,5,58,78,0,-3,0,3,0,[3],Critical Eye 1; Mind's Eye 1
+594,Kadachi Braces S,Tobi-Kadachi S,arms,HR,5,58,78,0,-3,0,3,0,[2],Constitution 3
+595,Tobi-Kadachi Coil S,Tobi-Kadachi S,waist,HR,5,58,78,0,-3,0,3,0,"[1, 1]",Mind's Eye 2
+596,Kadachi Greaves S,Tobi-Kadachi S,legs,HR,5,58,78,0,-3,0,3,0,"[2, 1]",Critical Eye 2; Constitution 1
+597,Anjanath Helm,Anjanath,head,LR,3,26,70,3,-3,-1,-1,0,[],Focus 1; Slugger 1
+598,Anjanath Mail,Anjanath,chest,LR,3,26,70,3,-3,-1,-1,0,[],Focus 1; Marathon Runner 1
+599,Anjanath Vambraces,Anjanath,arms,LR,3,26,70,3,-3,-1,-1,0,[],Attack Boost 1; Slugger 1
+600,Anjanath Coil,Anjanath,waist,LR,3,26,70,3,-3,-1,-1,0,[],Attack Boost 2
+601,Anjanath Greaves,Anjanath,legs,LR,3,26,70,3,-3,-1,-1,0,[],Marathon Runner 1
+602,Anjanath Helm S,Anjanath S,head,HR,6,60,80,3,-3,-1,-1,0,[2],Focus 1; Slugger 1
+603,Anjanath Mail S,Anjanath S,chest,HR,6,60,80,3,-3,-1,-1,0,"[1, 1]",Focus 2; Marathon Runner 1
+604,Anjanath Vambraces S,Anjanath S,arms,HR,6,60,80,3,-3,-1,-1,0,[1],Attack Boost 2; Slugger 2
+605,Anjanath Coil S,Anjanath S,waist,HR,6,60,80,3,-3,-1,-1,0,"[2, 1, 1]",Attack Boost 2
+606,Anjanath Greaves S,Anjanath S,legs,HR,6,60,80,3,-3,-1,-1,0,[2],Marathon Runner 2
+607,Bazelgeuse Helm,Bazelgeuse,head,HR,7,72,92,3,1,-2,-4,-2,[2],Guard 1; Artillery 1
+608,Bazelgeuse Mail,Bazelgeuse,chest,HR,7,72,92,3,1,-2,-4,-2,"[1, 1]",Agitator 1; Guard Up 2
+609,Bazelgeuse Braces,Bazelgeuse,arms,HR,7,72,92,3,1,-2,-4,-2,"[2, 2]",Guard Up 1; Load Shells 1
+610,Bazelgeuse Coil,Bazelgeuse,waist,HR,7,72,92,3,1,-2,-4,-2,"[2, 2]",Guard 1; Load Shells 1
+611,Bazelgeuse Greaves,Bazelgeuse,legs,HR,7,72,92,3,1,-2,-4,-2,[3],Guard 1; Artillery 2
+612,Chrome Metal Coil,Chrome Metal,waist,HR,5,46,66,-2,-2,-2,-2,-2,"[3, 2, 1]",
+613,Chrome Metal Boots,Chrome Metal,legs,HR,5,46,66,-2,-2,-2,-2,-2,[3],Flinch Free 2
+614,Skull Visage,Skull,head,LR,3,28,70,-3,-3,-3,-3,4,[],Fortify 1
+615,Flame Seal,Flame Seal,head,HR,7,56,76,3,0,0,0,0,[],Critical Eye 4
+616,Black Leather Legs,Black Leather Event,legs,HR,6,60,80,2,2,2,2,2,[3],Wirebug Whisperer 2
+617,Shadow Shades,Shadow Shades Event,head,HR,7,56,76,0,0,0,0,0,[],Stun Resistance 1; Good Luck 2
+618,Jaggi Mask,Jaggi Mask,head,LR,2,14,64,0,0,0,0,0,[],Affinity Sliding 1
+619,Jaggi Mask S,Jaggi Mask S,head,HR,4,36,66,0,0,0,0,0,[2],Affinity Sliding 1
+620,Cunning Specs,Cunning Specs Event,head,HR,6,60,80,2,2,2,2,2,"[2, 2]",Geologist 2
+621,Mighty Bow Feather,Mighty Bow Feather,head,HR,6,56,76,0,0,0,0,0,[],Bow Charge Plus 1
+622,Sinister Helm,Sinister,head,LR,3,28,72,3,-3,1,-2,1,[],Resentment 1; Counterstrike 1
+623,Sinister Garb,Sinister,chest,LR,3,28,72,3,-3,1,-2,1,[],Resentment 1; Hellfire Cloak 1
+624,Sinister Gauntlets,Sinister,arms,LR,3,28,72,3,-3,1,-2,1,[],Hellfire Cloak 1
+625,Sinister Tassets,Sinister,waist,LR,3,28,72,3,-3,1,-2,1,[],Counterstrike 2; Hellfire Cloak 1
+626,Sinister Greaves,Sinister,legs,LR,3,28,72,3,-3,1,-2,1,[],Resentment 1
+627,Sinister Helm S,Sinister S,head,HR,6,64,84,3,-3,1,-2,1,[2],Resentment 1; Handicraft 1; Flinch Free 1
+628,Sinister Garb S,Sinister S,chest,HR,6,64,84,3,-3,1,-2,1,[2],Resentment 1; Hellfire Cloak 1
+629,Sinister Gauntlets S,Sinister S,arms,HR,6,64,84,3,-3,1,-2,1,[2],Handicraft 2; Hellfire Cloak 1
+630,Sinister Tassets S,Sinister S,waist,HR,6,64,84,3,-3,1,-2,1,[3],Hellfire Cloak 1
+631,Sinister Greaves S,Sinister S,legs,HR,6,64,84,3,-3,1,-2,1,"[1, 1]",Resentment 1; Flinch Free 1; Hellfire Cloak 1
+632,Lagombi Helm,Lagombi,head,LR,1,10,68,-3,1,4,0,0,[],Critical Eye 1
+633,Lagombi Mail,Lagombi,chest,LR,1,10,68,-3,1,4,0,0,[],Affinity Sliding 1
+634,Lagombi Vambraces,Lagombi,arms,LR,1,10,68,-3,1,4,0,0,[],Ice Attack 1
+635,Lagombi Coil,Lagombi,waist,LR,1,10,68,-3,1,4,0,0,[],Constitution 1
+636,Lagombi Greaves,Lagombi,legs,LR,1,10,68,-3,1,4,0,0,[],Critical Eye 1
+637,Lagombi Helm S,Lagombi S,head,HR,4,36,74,-3,1,3,0,0,[3],Critical Eye 1; Ice Attack 2
+638,Lagombi Mail S,Lagombi S,chest,HR,4,36,74,-3,1,3,0,0,"[1, 1]",Constitution 1; Affinity Sliding 1
+639,Lagombi Vambraces S,Lagombi S,arms,HR,4,36,74,-3,1,3,0,0,"[2, 1]",Critical Eye 2; Ice Attack 1
+640,Lagombi Coil S,Lagombi S,waist,HR,4,36,74,-3,1,3,0,0,[2],Constitution 2
+641,Lagombi Greaves S,Lagombi S,legs,HR,4,36,74,-3,1,3,0,0,"[1, 1]",Critical Eye 1; Jump Master 1
+642,Bone Helm,Bone,head,LR,2,10,62,0,0,-1,0,0,[],Partbreaker 1
+643,Bone Mail,Bone,chest,LR,2,10,62,0,0,-1,0,0,[],Stamina Thief 1
+644,Bone Vambraces,Bone,arms,LR,2,10,62,0,0,-1,0,0,[],Stamina Thief 1
+645,Bone Coil,Bone,waist,LR,2,10,62,0,0,-1,0,0,[],Focus 1
+646,Bone Greaves,Bone,legs,LR,2,10,62,0,0,-1,0,0,[],Muck Resistance 1
+647,Bone Helm S,Bone S,head,HR,4,32,70,0,0,-1,0,0,[1],Stamina Thief 1; Partbreaker 1
+648,Bone Mail S,Bone S,chest,HR,4,32,70,0,0,-1,0,0,[1],Marathon Runner 1; Stamina Thief 1
+649,Bone Vambraces S,Bone S,arms,HR,4,32,70,0,0,-1,0,0,"[1, 1]",Stamina Thief 1; Muck Resistance 1
+650,Bone Coil S,Bone S,waist,HR,4,32,70,0,0,-1,0,0,"[2, 1]",Focus 1
+651,Bone Greaves S,Bone S,legs,HR,4,32,70,0,0,-1,0,0,[2],Focus 1; Muck Resistance 2
+652,Mizutsune Helm,Mizutsune,head,LR,3,26,70,0,2,1,-3,-1,[],Water Attack 1
+653,Mizutsune Mail,Mizutsune,chest,LR,3,26,70,0,2,1,-3,-1,[],Water Attack 1; Bubbly Dance 1
+654,Mizutsune Braces,Mizutsune,arms,LR,3,26,70,0,2,1,-3,-1,[],Water Attack 1; Free Meal 1
+655,Mizutsune Coil,Mizutsune,waist,LR,3,26,70,0,2,1,-3,-1,[],Free Meal 1
+656,Mizutsune Greaves,Mizutsune,legs,LR,3,26,70,0,2,1,-3,-1,[],Bubbly Dance 1
+657,Mizutsune Helm S,Mizutsune S,head,HR,6,60,80,0,2,1,-3,-1,"[2, 1]",Resuscitate 1
+658,Mizutsune Mail S,Mizutsune S,chest,HR,6,60,80,0,2,1,-3,-1,[1],Resuscitate 1; Bubbly Dance 1
+659,Mizutsune Braces S,Mizutsune S,arms,HR,6,60,80,0,2,1,-3,-1,[2],Resuscitate 1; Free Meal 1
+660,Mizutsune Coil S,Mizutsune S,waist,HR,6,60,80,0,2,1,-3,-1,"[2, 1]",Bubbly Dance 1; Free Meal 1
+661,Mizutsune Greaves S,Mizutsune S,legs,HR,6,60,80,0,2,1,-3,-1,"[3, 1, 1]",Bubbly Dance 1
+662,Brigade Lobos,Brigade,head,LR,3,26,70,1,0,0,2,2,[],Botanist 2
+663,Brigade Suit,Brigade,chest,LR,3,26,70,1,0,0,2,2,[],Blight Resistance 1
+664,Brigade Vambraces,Brigade,arms,LR,3,26,70,1,0,0,2,2,[],Geologist 2
+665,Brigade Coil,Brigade,waist,LR,3,26,70,1,0,0,2,2,[],Blight Resistance 1
+666,Brigade Boots,Brigade,legs,LR,3,26,70,1,0,0,2,2,[],Wide-Range 1
+667,Feather of Mastery,Feather of Mastery,head,HR,7,56,76,0,0,0,0,0,[],Carving Master 1
+668,Skull Visage S,Skull S,head,HR,5,50,70,-3,-3,-3,-3,4,"[3, 2]",Fortify 1
+669,Brigade Lobos S,Brigade S,head,HR,6,62,82,1,0,0,2,2,"[3, 1]",Botanist 2
+670,Brigade Suit S,Brigade S,chest,HR,6,62,82,1,0,0,2,2,[1],Geologist 1; Capture Master 1
+671,Brigade Vambraces S,Brigade S,arms,HR,6,62,82,1,0,0,2,2,"[3, 1]",Geologist 2
+672,Brigade Coil S,Brigade S,waist,HR,6,62,82,1,0,0,2,2,"[3, 1]",Good Luck 1
+673,Brigade Boots S,Brigade S,legs,HR,6,62,82,1,0,0,2,2,"[1, 1, 1]",Botanist 2; Carving Pro 1
+706,Azure Age Hair,Azure Age Event,head,HR,7,72,92,2,2,0,0,2,"[2, 1]",Water Attack 2; Constitution 2
+707,Azure Age Haori,Azure Age Event,chest,HR,7,72,92,2,2,0,0,2,[2],Weakness Exploit 1; Constitution 2
+708,Azure Age Sleeve,Azure Age Event,arms,HR,7,72,92,2,2,0,0,2,[1],Weakness Exploit 1; Critical Element 2; Constitution 1
+709,Azure Age Obi,Azure Age Event,waist,HR,7,72,92,2,2,0,0,2,"[3, 1]",Critical Element 1; Water Attack 2; Quick Sheathe 1
+710,Azure Age Geta,Azure Age Event,legs,HR,7,72,92,2,2,0,0,2,"[2, 1]",Focus 1; Quick Sheathe 2
+718,Guild Cross Circlet,Guild Cross Event,head,LR,3,24,24,0,0,0,0,0,[],Botanist 1; Hunger Resistance 1
+719,Guild Cross Suit,Guild Cross Event,chest,LR,3,24,24,0,0,0,0,0,[],Marathon Runner 1; Geologist 1
+720,Guild Cross Vambraces,Guild Cross Event,arms,LR,3,24,24,0,0,0,0,0,[],Geologist 1; Wall Runner 1
+721,Guild Cross Coil,Guild Cross Event,waist,LR,3,24,24,0,0,0,0,0,[],Botanist 1; Wirebug Whisperer 1
+722,Guild Cross Boots,Guild Cross Event,legs,LR,3,24,24,0,0,0,0,0,[],Geologist 1; Carving Pro 1
+760,Black Belt Helm,Black Belt Event,head,LR,3,30,36,1,1,1,1,1,[],Attack Boost 1; Earplugs 1
+761,Black Belt Mail,Black Belt Event,chest,LR,3,30,36,1,1,1,1,1,[],Attack Boost 1; Earplugs 1
+762,Black Belt Braces,Black Belt Event,arms,LR,3,30,36,1,1,1,1,1,[],Attack Boost 1; Recovery Up 1
+763,Black Belt Tassets,Black Belt Event,waist,LR,3,30,36,1,1,1,1,1,[],Constitution 1; Earplugs 1
+764,Black Belt Greaves,Black Belt Event,legs,LR,3,30,36,1,1,1,1,1,[],Attack Boost 1; Flinch Free 1
+771,Kamura Legacy Head Scarf,Kamura Legacy,head,MR,8,80,152,2,0,0,0,0,[2],Resuscitate 1; Divine Blessing 2
+772,Kamura Legacy Garb,Kamura Legacy,chest,MR,8,80,152,2,0,0,0,0,"[1, 1]",Critical Eye 1; Wirebug Whisperer 2; Wall Runner 1
+773,Kamura Legacy Braces,Kamura Legacy,arms,MR,8,80,152,2,0,0,0,0,[1],Critical Eye 2; Divine Blessing 1; Heroics 1
+774,Kamura Legacy Obi,Kamura Legacy,waist,MR,8,80,152,2,0,0,0,0,"[4, 1]",Critical Eye 1; Wirebug Whisperer 1
+775,Kamura Legacy Leggings,Kamura Legacy,legs,MR,8,80,152,2,0,0,0,0,[2],Resuscitate 1; Affinity Sliding 1; Wall Runner 2
+776,Leather Headgear X,Leather X,head,MR,8,80,152,0,0,0,0,0,"[4, 1]",Geologist 1; Carving Pro 1; Hunger Resistance 1
+777,Leather Vest X,Leather X,chest,MR,8,80,152,0,0,0,0,0,[4],Recovery Up 1; Botanist 2
+778,Leather Gloves X,Leather X,arms,MR,8,80,152,0,0,0,0,0,"[4, 1]",Special Ammo Boost 1; Geologist 1
+779,Leather Belt X,Leather X,waist,MR,8,80,152,0,0,0,0,0,"[2, 1]",Recovery Up 2; Hunger Resistance 2
+780,Leather Trousers X,Leather X,legs,MR,8,80,152,0,0,0,0,0,"[4, 1]",Botanist 2; Geologist 1
+781,Chainmail Headgear X,Chainmail X,head,MR,8,82,154,0,0,0,1,0,[4],Stamina Surge 1; Defense Boost 2
+782,Chainmail Vest X,Chainmail X,chest,MR,8,82,154,0,0,0,1,0,[4],Guard 1; Defense Boost 1; Flinch Free 2
+783,Chainmail Gloves X,Chainmail X,arms,MR,8,82,154,0,0,0,1,0,"[4, 1]",Stamina Surge 1; Defense Boost 2
+784,Chainmail Belt X,Chainmail X,waist,MR,8,82,154,0,0,0,1,0,"[1, 1, 1]",Guard 2; Defense Boost 2; Flinch Free 1
+785,Chainmail Pants X,Chainmail X,legs,MR,8,82,154,0,0,0,1,0,"[1, 1, 1]",Stamina Surge 1; Guard 2
+786,Hunter's Helm X,Hunter X,head,MR,8,82,154,0,0,0,0,0,[2],Attack Boost 2; Item Prolonger 1
+787,Hunter's Mail X,Hunter X,chest,MR,8,82,154,0,0,0,0,0,[1],Attack Boost 1; Handicraft 1; Item Prolonger 1
+788,Hunter's Vambraces X,Hunter X,arms,MR,8,82,154,0,0,0,0,0,[2],Handicraft 1; Quick Sheathe 1; Ammo Up 1
+789,Hunter's Coil X,Hunter X,waist,MR,8,82,154,0,0,0,0,0,"[1, 1]",Handicraft 1; Stun Resistance 2; Item Prolonger 1
+790,Hunter's Greaves X,Hunter X,legs,MR,8,82,154,0,0,0,0,0,[2],Attack Boost 2; Quick Sheathe 1; Stun Resistance 1
+791,Dober Helm X,Dober X,head,MR,8,104,164,-2,0,0,0,4,"[2, 1]",Attack Boost 1; Dragon Attack 1; Marathon Runner 1; Heroics 1
+792,Dober Mail X,Dober X,chest,MR,8,104,164,-2,0,0,0,4,[1],Dragon Attack 1; Focus 1; Power Prolonger 1; Heroics 2
+793,Dober Vambraces X,Dober X,arms,MR,8,104,164,-2,0,0,0,4,"[3, 1, 1]",Dragon Attack 1; Power Prolonger 2; Recoil Down 2
+794,Dober Coil X,Dober X,waist,MR,8,104,164,-2,0,0,0,4,[2],Attack Boost 2; Dragon Attack 1; Marathon Runner 2
+795,Dober Greaves X,Dober X,legs,MR,8,104,164,-2,0,0,0,4,[2],Dragon Attack 1; Focus 2; Heroics 2
+796,Alloy Helm X,Alloy X,head,MR,8,82,154,-1,0,-1,-1,0,[4],Water Attack 1; Protective Polish 1; Speed Sharpening 1
+797,Alloy Mail X,Alloy X,chest,MR,8,82,154,-1,0,-1,-1,0,[3],Protective Polish 2; Speed Sharpening 2
+798,Alloy Vambraces X,Alloy X,arms,MR,8,82,154,-1,0,-1,-1,0,"[2, 1]",Critical Eye 2; Water Attack 1
+799,Alloy Coil X,Alloy X,waist,MR,8,82,154,-1,0,-1,-1,0,"[3, 1]",Critical Eye 1; Water Attack 3
+800,Alloy Greaves X,Alloy X,legs,MR,8,82,154,-1,0,-1,-1,0,[4],Critical Eye 2
+801,Ingot Helm X,Ingot X,head,MR,8,94,158,-1,-1,0,1,0,"[4, 1]",Attack Boost 2; Windproof 1
+802,Ingot Mail X,Ingot X,chest,MR,8,94,158,-1,-1,0,1,0,"[3, 1]",Critical Eye 2; Windproof 2
+803,Ingot Vambraces X,Ingot X,arms,MR,8,94,158,-1,-1,0,1,0,"[4, 2]",Thunder Attack 3
+804,Ingot Coil X,Ingot X,waist,MR,8,94,158,-1,-1,0,1,0,[3],Attack Boost 1; Power Prolonger 2
+805,Ingot Greaves X,Ingot X,legs,MR,8,94,158,-1,-1,0,1,0,"[1, 1]",Attack Boost 2; Critical Eye 2
+806,Damascus Helm X,Damascus X,head,MR,9,114,172,-1,2,1,-3,-1,[1],Earplugs 2; Tremor Resistance 2
+807,Damascus Mail X,Damascus X,chest,MR,9,114,172,-1,2,1,-3,-1,"[2, 1]",Handicraft 2; Pierce Up 2; Tremor Resistance 1
+808,Damascus Vambraces X,Damascus X,arms,MR,9,114,172,-1,2,1,-3,-1,"[2, 1]",Earplugs 2; Blight Resistance 1
+809,Damascus Coil X,Damascus X,waist,MR,9,114,172,-1,2,1,-3,-1,[2],Handicraft 1; Pierce Up 1; Earplugs 1; Blight Resistance 1
+810,Damascus Greaves X,Damascus X,legs,MR,9,114,172,-1,2,1,-3,-1,[3],Handicraft 2; Ammo Up 2; Blight Resistance 1
+811,Melahoa Hat X,Melahoa X,head,MR,8,92,156,0,1,0,3,0,"[4, 2]",Divine Blessing 2; Paralysis Resistance 2
+812,Melahoa Jacket X,Melahoa X,chest,MR,8,92,156,0,1,0,3,0,"[4, 1]",Divine Blessing 1; Recovery Up 1; Botanist 2
+813,Melahoa Branch X,Melahoa X,arms,MR,8,92,156,0,1,0,3,0,"[4, 2]",Recovery Up 1; Paralysis Resistance 1; Botanist 1
+814,Melahoa Folia X,Melahoa X,waist,MR,8,92,156,0,1,0,3,0,"[4, 2]",Stamina Surge 1; Recovery Speed 1; Botanist 1
+815,Melahoa Roots X,Melahoa X,legs,MR,8,92,156,0,1,0,3,0,"[4, 1]",Stamina Surge 1; Recovery Up 1; Recovery Speed 2
+816,Makluva Hood X,Makluva X,head,MR,8,104,164,1,2,0,-2,0,"[2, 2]",Stamina Surge 1; Speed Eating 1; Sleep Resistance 2
+817,Makluva Cover X,Makluva X,chest,MR,8,104,164,1,2,0,-2,0,"[2, 1]",Water Attack 3; Stamina Surge 1; Speed Eating 1
+818,Makluva Sleeves X,Makluva X,arms,MR,8,104,164,1,2,0,-2,0,"[2, 2]",Resuscitate 1; Bubbly Dance 1; Leap of Faith 1
+819,Makluva Coil X,Makluva X,waist,MR,8,104,164,1,2,0,-2,0,"[3, 2]",Resuscitate 1; Water Attack 2; Sleep Resistance 1
+820,Makluva Pants X,Makluva X,legs,MR,8,104,164,1,2,0,-2,0,"[1, 1]",Resuscitate 1; Speed Eating 1; Bubbly Dance 2
+821,Death Stench Brain X,Death Stench X,head,MR,8,110,170,3,1,-1,1,0,[3],Attack Boost 1; Protective Polish 1; Speed Sharpening 2
+822,Death Stench Muscle X,Death Stench X,chest,MR,8,110,170,3,1,-1,1,0,[2],Speed Sharpening 1; Fortify 1; Rapid Morph 2
+823,Death Stench Grip X,Death Stench X,arms,MR,8,110,170,3,1,-1,1,0,[2],Attack Boost 1; Maximum Might 2
+824,Death Stench Bowels X,Death Stench X,waist,MR,8,110,170,3,1,-1,1,0,"[2, 1]",Attack Boost 1; Maximum Might 1; Protective Polish 1
+825,Death Stench Heel X,Death Stench X,legs,MR,8,110,170,3,1,-1,1,0,"[2, 1]",Attack Boost 1; Protective Polish 1; Rapid Morph 1
+826,Mosgharl Vizor X A,Mosgharl X A,head,MR,8,100,160,-3,1,3,0,0,"[3, 2]",Critical Element 1; Fire Attack 2; Blast Resistance 2
+827,Mosgharl Ribplate X A,Mosgharl X A,chest,MR,8,100,160,-3,1,3,0,0,"[4, 1]",Steadiness 1; Tune-Up 1
+828,Mosgharl Creeper X A,Mosgharl X A,arms,MR,8,100,160,-3,1,3,0,0,"[4, 1, 1]",Critical Element 1; Blast Resistance 1; Flinch Free 2
+829,Mosgharl Folia X A,Mosgharl X A,waist,MR,8,100,160,-3,1,3,0,0,[4],Critical Element 1; Fire Attack 3; Flinch Free 1
+830,Mosgharl Roots X A,Mosgharl X A,legs,MR,8,100,160,-3,1,3,0,0,"[2, 2]",Steadiness 2; Tune-Up 1
+831,Mosgharl Vizor X B,Mosgharl X B,head,MR,8,100,160,-3,1,3,0,0,"[3, 2]",Critical Element 1; Fire Attack 2; Blast Resistance 2
+832,Mosgharl Ribplate X B,Mosgharl X B,chest,MR,8,100,160,-3,1,3,0,0,"[4, 1]",Steadiness 1; Tune-Up 1
+833,Mosgharl Creeper X B,Mosgharl X B,arms,MR,8,100,160,-3,1,3,0,0,"[4, 1, 1]",Critical Element 1; Blast Resistance 1; Flinch Free 2
+834,Mosgharl Folia X B,Mosgharl X B,waist,MR,8,100,160,-3,1,3,0,0,[4],Critical Element 1; Fire Attack 3; Flinch Free 1
+835,Mosgharl Roots X B,Mosgharl X B,legs,MR,8,100,160,-3,1,3,0,0,"[2, 2]",Steadiness 2; Tune-Up 1
+836,Aelucanth Vertex X A,Aelucanth X A,head,MR,8,110,170,-2,0,-2,3,2,[2],Critical Element 2; Evade Window 2
+837,Aelucanth Thorax X A,Aelucanth X A,chest,MR,8,110,170,-2,0,-2,3,2,"[1, 1]",Critical Eye 3; Critical Element 1; Dragon Attack 1
+838,Aelucanth Brachia X A,Aelucanth X A,arms,MR,8,110,170,-2,0,-2,3,2,[3],Critical Eye 1; Evade Window 2
+839,Aelucanth Elytra X A,Aelucanth X A,waist,MR,8,110,170,-2,0,-2,3,2,[4],Critical Eye 1; Dragon Attack 3
+840,Aelucanth Crura X A,Aelucanth X A,legs,MR,8,110,170,-2,0,-2,3,2,"[2, 1]",Critical Eye 2; Dragon Attack 1; Evade Window 1
+841,Rhopessa Vertex X B,Rhopessa X B,head,MR,8,110,170,-2,0,-2,3,2,[2],Critical Element 2; Evade Window 2
+842,Rhopessa Thorax X B,Rhopessa X B,chest,MR,8,110,170,-2,0,-2,3,2,"[1, 1]",Critical Eye 3; Critical Element 1; Dragon Attack 1
+843,Rhopessa Brachia X B,Rhopessa X B,arms,MR,8,110,170,-2,0,-2,3,2,[3],Critical Eye 1; Evade Window 2
+844,Rhopessa Elytra X B,Rhopessa X B,waist,MR,8,110,170,-2,0,-2,3,2,[4],Critical Eye 1; Dragon Attack 3
+845,Rhopessa Crura X B,Rhopessa X B,legs,MR,8,110,170,-2,0,-2,3,2,"[2, 1]",Critical Eye 2; Dragon Attack 1; Evade Window 1
+846,Vaik Helm X,Vaik X,head,MR,8,100,160,0,3,-1,-2,0,"[3, 1]",Ammo Up 2; Recovery Speed 1
+847,Vaik Mail X,Vaik X,chest,MR,8,100,160,0,3,-1,-2,0,"[3, 2, 1]",Hunger Resistance 1
+848,Vaik Braces X,Vaik X,arms,MR,8,100,160,0,3,-1,-2,0,"[2, 1]",Razor Sharp 2; Normal/Rapid Up 2; Hunger Resistance 1
+849,Vaik Coil X,Vaik X,waist,MR,8,100,160,0,3,-1,-2,0,[4],Razor Sharp 1; Normal/Rapid Up 1; Recovery Speed 2
+850,Vaik Greaves X,Vaik X,legs,MR,8,100,160,0,3,-1,-2,0,"[4, 1]",Ammo Up 1; Hunger Resistance 1
+851,Grand Chaoshroom,Grand Chaos,head,MR,8,98,162,2,-2,0,0,0,"[3, 1, 1]",Speed Eating 1; Mushroomancer 1
+852,Grand Chaos Plate,Grand Chaos,chest,MR,8,98,162,2,-2,0,0,0,"[2, 1]",Horn Maestro 1; Mushroomancer 2
+853,Edel Vizor X,Edel X,head,MR,8,96,160,-1,3,0,-1,0,"[4, 2]",Speed Eating 1; Poison Resistance 2
+854,Edel Ribplate X,Edel X,chest,MR,8,96,160,-1,3,0,-1,0,"[3, 1]",Recovery Up 2; Wide-Range 1
+855,Edel Creeper X,Edel X,arms,MR,8,96,160,-1,3,0,-1,0,"[2, 1]",Capture Master 1; Wide-Range 3
+856,Edel Folia X,Edel X,waist,MR,8,96,160,-1,3,0,-1,0,"[4, 2]",Recovery Up 1; Wide-Range 1
+857,Edel Roots X,Edel X,legs,MR,8,96,160,-1,3,0,-1,0,"[4, 1]",Speed Eating 2; Poison Resistance 1
+858,Skalda Vertex X A,Skalda X A,head,MR,8,98,162,3,-1,-1,-1,3,[4],Latent Power 1; Poison Attack 3
+859,Skalda Thorax X A,Skalda X A,chest,MR,8,98,162,3,-1,-1,-1,3,[3],Latent Power 2; Mind's Eye 1
+860,Skalda Brachia X A,Skalda X A,arms,MR,8,98,162,3,-1,-1,-1,3,"[4, 1, 1]",Latent Power 1; Poison Resistance 1
+861,Skalda Elytra X A,Skalda X A,waist,MR,8,98,162,3,-1,-1,-1,3,[1],Weakness Exploit 2; Poison Resistance 1
+862,Skalda Crura X A,Skalda X A,legs,MR,8,98,162,3,-1,-1,-1,3,[2],Latent Power 1; Mind's Eye 2; Poison Resistance 1
+863,Spio Vertex X B,Spio X B,head,MR,8,98,162,3,-1,-1,-1,3,[4],Latent Power 1; Poison Attack 3
+864,Spio Thorax X B,Spio X B,chest,MR,8,98,162,3,-1,-1,-1,3,[3],Latent Power 2; Mind's Eye 1
+865,Spio Brachia X B,Spio X B,arms,MR,8,98,162,3,-1,-1,-1,3,"[4, 1, 1]",Latent Power 1; Poison Resistance 1
+866,Spio Elytra X B,Spio X B,waist,MR,8,98,162,3,-1,-1,-1,3,[1],Weakness Exploit 2; Poison Resistance 1
+867,Spio Crura X B,Spio X B,legs,MR,8,98,162,3,-1,-1,-1,3,[2],Latent Power 1; Mind's Eye 2; Poison Resistance 1
+868,Utsushi True Mask (V) A,Utsushi True (Visible) A,head,MR,9,110,170,3,0,0,0,0,[2],Speed Eating 2; Good Luck 1; Free Meal 1
+869,Utsushi True Chest (V) A,Utsushi True (Visible) A,chest,MR,9,110,170,3,0,0,0,0,"[2, 1]",Recovery Up 1; Good Luck 1; Wide-Range 1
+870,Utsushi True Braces (V) A,Utsushi True (Visible) A,arms,MR,9,110,170,3,0,0,0,0,[4],Recovery Up 1; Wide-Range 2
+871,Utsushi True Tassets (V) A,Utsushi True (Visible) A,waist,MR,9,110,170,3,0,0,0,0,[4],Recovery Up 1; Speed Eating 1; Free Meal 1
+872,Utsushi True Greaves (V) A,Utsushi True (Visible) A,legs,MR,9,110,170,3,0,0,0,0,[2],Good Luck 1; Wide-Range 2; Free Meal 1
+873,Channeler's Hair Tie (Spring) B,Channeler (Spring) B,head,MR,9,110,170,3,0,0,0,0,[1],Attack Boost 2; Razor Sharp 2; Spare Shot 2; Wirebug Whisperer 1
+874,Channeler's Robe (Spring) B,Channeler (Spring) B,chest,MR,9,110,170,3,0,0,0,0,[1],Agitator 1; Razor Sharp 1; Spare Shot 1; Evade Window 3
+875,Channeler's Hope (Spring) B,Channeler (Spring) B,arms,MR,9,110,170,3,0,0,0,0,[2],Attack Boost 2; Evade Window 1; Wirebug Whisperer 1
+876,Channeler's Obi (Spring) B,Channeler (Spring) B,waist,MR,9,110,170,3,0,0,0,0,[2],Attack Boost 1; Agitator 2; Wirebug Whisperer 1
+877,Channeler's Hakama (Spring) B,Channeler (Spring) B,legs,MR,9,110,170,3,0,0,0,0,"[1, 1, 1]",Attack Boost 2; Agitator 1; Evade Window 1
+878,Utsushi True Mask (H) A,Utsushi True (Hidden) A,head,MR,9,110,170,3,0,0,0,0,[1],Attack Boost 2; Razor Sharp 2; Spare Shot 2; Wirebug Whisperer 1
+879,Utsushi True Chest (H) A,Utsushi True (Hidden) A,chest,MR,9,110,170,3,0,0,0,0,[1],Agitator 1; Razor Sharp 1; Spare Shot 1; Evade Window 3
+880,Utsushi True Braces (H) A,Utsushi True (Hidden) A,arms,MR,9,110,170,3,0,0,0,0,[2],Attack Boost 2; Evade Window 1; Wirebug Whisperer 1
+881,Utsushi True Tassets (H) A,Utsushi True (Hidden) A,waist,MR,9,110,170,3,0,0,0,0,[2],Attack Boost 1; Agitator 2; Wirebug Whisperer 1
+882,Utsushi True Greaves (H) A,Utsushi True (Hidden) A,legs,MR,9,110,170,3,0,0,0,0,"[1, 1, 1]",Attack Boost 2; Agitator 1; Evade Window 1
+883,Medium's Hair Tie (Light) B,Medium (Light) B,head,MR,9,110,170,3,0,0,0,0,[2],Speed Eating 2; Good Luck 1; Free Meal 1
+884,Medium's Robe (Light) B,Medium (Light) B,chest,MR,9,110,170,3,0,0,0,0,"[2, 1]",Recovery Up 1; Good Luck 1; Wide-Range 1
+885,Medium's Prayer (Light) B,Medium (Light) B,arms,MR,9,110,170,3,0,0,0,0,[4],Recovery Up 1; Wide-Range 2
+886,Medium's Obi (Light) B,Medium (Light) B,waist,MR,9,110,170,3,0,0,0,0,[4],Recovery Up 1; Speed Eating 1; Free Meal 1
+887,Medium's Hakama (Light) B,Medium (Light) B,legs,MR,9,110,170,3,0,0,0,0,[2],Good Luck 1; Wide-Range 2; Free Meal 1
+888,S. Studded Hat X,Shell-Studded X,head,MR,8,96,160,0,2,-1,1,0,"[2, 1]",Ballistics 2; Steadiness 2; Tune-Up 1
+889,S. Studded Vest X,Shell-Studded X,chest,MR,8,96,160,0,2,-1,1,0,"[1, 1]",Normal/Rapid Up 1; Pierce Up 1; Tune-Up 1
+890,S. Studded Gloves X,Shell-Studded X,arms,MR,8,96,160,0,2,-1,1,0,"[1, 1]",Normal/Rapid Up 1; Spread Up 2
+891,S. Studded Sash X,Shell-Studded X,waist,MR,8,96,160,0,2,-1,1,0,"[4, 1]",Ballistics 1; Normal/Rapid Up 1
+892,S. Studded Sandals X,Shell-Studded X,legs,MR,8,96,160,0,2,-1,1,0,"[1, 1]",Pierce Up 2; Spread Up 1
+893,Jelly Hat X,Jelly X,head,MR,9,114,172,1,3,2,0,0,"[4, 1]",Focus 1; Divine Blessing 1; Partbreaker 1
+894,Jelly Vest X,Jelly X,chest,MR,9,114,172,1,3,2,0,0,"[2, 2]",Blast Attack 2; Focus 1; Slugger 1
+895,Jelly Gloves X,Jelly X,arms,MR,9,114,172,1,3,2,0,0,"[3, 1]",Focus 1; Slugger 1; Divine Blessing 2
+896,Jelly Coil X,Jelly X,waist,MR,9,114,172,1,3,2,0,0,"[3, 1]",Partbreaker 2; Charge Master 2
+897,Jelly Boots X,Jelly X,legs,MR,9,114,172,1,3,2,0,0,"[4, 1]",Blast Attack 1; Slugger 1; Charge Master 1
+898,Bishaten Helm X,Bishaten X,head,MR,8,96,160,-2,2,-4,2,2,"[2, 1]",Stun Resistance 2; Item Prolonger 1; Wide-Range 2
+899,Bishaten Mail X,Bishaten X,chest,MR,8,96,160,-2,2,-4,2,2,[4],Wide-Range 3
+900,Bishaten Vambraces X,Bishaten X,arms,MR,8,96,160,-2,2,-4,2,2,[4],Speed Eating 1; Stun Resistance 1; Item Prolonger 1
+901,Bishaten Coil X,Bishaten X,waist,MR,8,96,160,-2,2,-4,2,2,"[1, 1]",Maximum Might 2; Speed Eating 1; Item Prolonger 1
+902,Bishaten Greaves X,Bishaten X,legs,MR,8,96,160,-2,2,-4,2,2,"[2, 1, 1]",Maximum Might 1; Master's Touch 1; Spare Shot 1; Speed Eating 1
+903,Aknosom Helm X,Aknosom X,head,MR,8,88,160,3,-3,0,-1,0,[2],Fire Attack 1; Critical Draw 1; Quick Sheathe 1
+904,Aknosom Mail X,Aknosom X,chest,MR,8,88,160,3,-3,0,-1,0,"[1, 1]",Peak Performance 1; Critical Draw 1; Quick Sheathe 1
+905,Aknosom Braces X,Aknosom X,arms,MR,8,88,160,3,-3,0,-1,0,"[2, 1, 1]",Peak Performance 1; Critical Element 1; Fire Attack 2
+906,Aknosom Coil X,Aknosom X,waist,MR,8,88,160,3,-3,0,-1,0,"[4, 1]",Critical Element 1; Quick Sheathe 1
+907,Aknosom Greaves X,Aknosom X,legs,MR,8,88,160,3,-3,0,-1,0,"[1, 1]",Peak Performance 1; Fire Attack 2; Critical Draw 1
+908,Tetranadon Helm X,Tetranadon X,head,MR,8,90,162,-1,4,1,-2,0,[1],Normal/Rapid Up 2; Speed Eating 1
+909,Tetranadon Mail X,Tetranadon X,chest,MR,8,90,162,-1,4,1,-2,0,[2],Normal/Rapid Up 1; Speed Eating 1; Evade Extender 1
+910,Tetranadon Braces X,Tetranadon X,arms,MR,8,90,162,-1,4,1,-2,0,"[1, 1]",Special Ammo Boost 2; Heroics 2; Hunger Resistance 1
+911,Tetranadon Coil X,Tetranadon X,waist,MR,8,90,162,-1,4,1,-2,0,[2],Evade Extender 2; Heroics 2
+912,Tetranadon Greaves x,Tetranadon X,legs,MR,8,90,162,-1,4,1,-2,0,[4],Speed Eating 1; Heroics 1; Hunger Resistance 2
+913,Somnacanth Helm X,Somnacanth X,head,MR,8,96,160,-1,2,0,-3,1,"[2, 2]",Sleep Attack 1; Spare Shot 1; Sleep Resistance 2
+914,Somnacanth Mail X,Somnacanth X,chest,MR,8,96,160,-1,2,0,-3,1,"[3, 1, 1]",Sleep Attack 1; Ammo Up 1
+915,Somnacanth Braces X,Somnacanth X,arms,MR,8,96,160,-1,2,0,-3,1,[2],Handicraft 1; Spare Shot 2; Divine Blessing 1; Bombardier 2
+916,Somnacanth Coil X,Somnacanth X,waist,MR,8,96,160,-1,2,0,-3,1,[4],Sleep Attack 1; Ammo Up 1; Bombardier 1
+917,Somnacanth Greaves X,Somnacanth X,legs,MR,8,96,160,-1,2,0,-3,1,"[4, 1]",Divine Blessing 2; Sleep Resistance 1
+918,Rakna Helm X A,Rakna-Kadaki X A,head,MR,8,108,168,4,-2,-3,-1,0,"[3, 1]",Spread Up 1; Reload Speed 1; Tune-Up 1
+919,Rakna Mail X A,Rakna-Kadaki X A,chest,MR,8,108,168,4,-2,-3,-1,0,"[3, 1]",Spare Shot 1; Spread Up 1; Reload Speed 2
+920,Rakna Armguards X A,Rakna-Kadaki X A,arms,MR,8,108,168,4,-2,-3,-1,0,[4],Constitution 2; Stamina Surge 1
+921,Rakna Coil X A,Rakna-Kadaki X A,waist,MR,8,108,168,4,-2,-3,-1,0,"[2, 2]",Spare Shot 1; Spread Up 1; Tune-Up 1
+922,Rakna Greaves X A,Rakna-Kadaki X A,legs,MR,8,108,168,4,-2,-3,-1,0,"[1, 1]",Constitution 3; Stamina Surge 2
+923,Rakna Helm X B,Rakna-Kadaki X B,head,MR,8,108,168,4,-2,-3,-1,0,"[3, 1]",Spread Up 1; Reload Speed 1; Tune-Up 1
+924,Rakna Mail X B,Rakna-Kadaki X B,chest,MR,8,108,168,4,-2,-3,-1,0,"[3, 1]",Spare Shot 1; Spread Up 1; Reload Speed 2
+925,Rakna Armguards X B,Rakna-Kadaki X B,arms,MR,8,108,168,4,-2,-3,-1,0,[4],Constitution 2; Stamina Surge 1
+926,Rakna Coil X B,Rakna-Kadaki X B,waist,MR,8,108,168,4,-2,-3,-1,0,"[2, 2]",Spare Shot 1; Spread Up 1; Tune-Up 1
+927,Rakna Greaves X B,Rakna-Kadaki X B,legs,MR,8,108,168,4,-2,-3,-1,0,"[1, 1]",Constitution 3; Stamina Surge 2
+928,Goss Harag Helm X,Goss Harag X,head,MR,8,106,166,-4,1,4,-1,0,"[2, 1]",Agitator 2; Critical Draw 1; Quick Sheathe 1
+929,Goss Harag Mail X,Goss Harag X,chest,MR,8,106,166,-4,1,4,-1,0,"[2, 1]",Resentment 3; Critical Draw 1
+930,Goss Harag Braces X,Goss Harag X,arms,MR,8,106,166,-4,1,4,-1,0,[4],Critical Draw 1; Punishing Draw 1; Quick Sheathe 1
+931,Goss Harag Coil X,Goss Harag X,waist,MR,8,106,166,-4,1,4,-1,0,"[2, 1, 1]",Resentment 2; Punishing Draw 1; Quick Sheathe 1
+932,Goss Harag Greaves X,Goss Harag X,legs,MR,8,106,166,-4,1,4,-1,0,[3],Agitator 3; Ballistics 1; Punishing Draw 1
+933,Almudron Helm X,Almudron X,head,MR,8,108,168,-4,3,-2,3,-2,"[2, 2]",Power Prolonger 1; Rapid Morph 2
+934,Almudron Mail X,Almudron X,chest,MR,8,108,168,-4,3,-2,3,-2,[4],Razor Sharp 2; Power Prolonger 1
+935,Almudron Vambraces X,Almudron X,arms,MR,8,108,168,-4,3,-2,3,-2,"[4, 1]",Evade Window 2; Rapid Morph 1
+936,Almudron Coil X,Almudron X,waist,MR,8,108,168,-4,3,-2,3,-2,"[4, 1]",Spare Shot 1; Power Prolonger 1; Evade Window 2
+937,Almudron Greaves X,Almudron X,legs,MR,8,108,168,-4,3,-2,3,-2,"[4, 2]",Razor Sharp 1; Spare Shot 1; Evade Window 1
+938,Ibushi's Pure Helm,Ibushi - Pure,head,MR,10,122,178,-1,0,0,0,-2,[2],Focus 1; Evade Extender 1; Wind Alignment 1; Stormsoul 1
+939,Ibushi's Pure Breastplate,Ibushi - Pure,chest,MR,10,122,178,-1,0,0,0,-2,[2],Guard 1; Flinch Free 1; Wind Alignment 1; Stormsoul 1
+940,Ibushi's Pure Pauldrons,Ibushi - Pure,arms,MR,10,122,178,-1,0,0,0,-2,[2],Constitution 1; Stamina Surge 1; Wind Alignment 1; Stormsoul 1
+941,Ibushi's Pure Fauld,Ibushi - Pure,waist,MR,10,122,178,-1,0,0,0,-2,[2],Power Prolonger 1; Evade Window 1; Wind Alignment 1; Stormsoul 1
+942,Ibushi's Pure Foot,Ibushi - Pure,legs,MR,10,122,178,-1,0,0,0,-2,[2],Guard Up 1; Slugger 1; Wind Alignment 1; Stormsoul 1
+943,Narwa's Pure Helm,Narwa - Pure,head,MR,10,122,178,2,1,-3,4,-4,[2],Offensive Guard 1; Rapid Morph 1; Thunder Alignment 1; Stormsoul 1
+944,Narwa's Pure Breastplate,Narwa - Pure,chest,MR,10,122,178,2,1,-3,4,-4,[2],Constitution 1; Critical Draw 1; Thunder Alignment 1; Stormsoul 1
+945,Narwa's Pure Pauldrons,Narwa - Pure,arms,MR,10,122,178,2,1,-3,4,-4,[2],Guard 1; Partbreaker 1; Thunder Alignment 1; Stormsoul 1
+946,Narwa's Pure Fauld,Narwa - Pure,waist,MR,10,122,178,2,1,-3,4,-4,[2],Guard 1; Artillery 1; Thunder Alignment 1; Stormsoul 1
+947,Narwa's Pure Foot,Narwa - Pure,legs,MR,10,122,178,2,1,-3,4,-4,[2],Marathon Runner 1; Evade Window 1; Thunder Alignment 1; Stormsoul 1
+948,Izuchi Helm X,Izuchi X,head,MR,8,86,158,2,-1,0,-2,0,"[1, 1]",Critical Eye 1; Evade Window 2
+949,Izuchi Mail X,Izuchi X,chest,MR,8,86,158,2,-1,0,-2,0,[1],Critical Eye 2; Recovery Speed 2; Evade Window 1
+950,Izuchi Braces X,Izuchi X,arms,MR,8,86,158,2,-1,0,-2,0,"[1, 1]",Constitution 2; Evade Window 1
+951,Izuchi Coil X,Izuchi X,waist,MR,8,86,158,2,-1,0,-2,0,"[1, 1]",Critical Eye 2; Constitution 1
+952,Izuchi Greaves X,Izuchi X,legs,MR,8,86,158,2,-1,0,-2,0,"[1, 1]",Constitution 2; Recovery Speed 1; Evade Window 1
+953,Kushala Glare X,Kushala X,head,MR,9,120,178,-1,2,3,-2,-3,[4],Handicraft 2; Normal/Rapid Up 2
+954,Kushala Cista X,Kushala X,chest,MR,9,120,178,-1,2,3,-2,-3,"[2, 2]",Handicraft 2; Ammo Up 2; Recovery Speed 3
+955,Kushala Grip X,Kushala X,arms,MR,9,120,178,-1,2,3,-2,-3,[1],Agitator 2; Kushala Blessing 2
+956,Kushala Cocoon X,Kushala X,waist,MR,9,120,178,-1,2,3,-2,-3,[2],Agitator 3; Kushala Blessing 1
+957,Kushala Crus X,Kushala X,legs,MR,9,120,178,-1,2,3,-2,-3,"[4, 1]",Handicraft 1; Normal/Rapid Up 1; Kushala Blessing 1
+958,Grand Mizuha Mask,Grand Mizuha,head,MR,9,120,178,-5,1,3,0,-3,[4],Mind's Eye 2; Ballistics 2; Foray 1
+959,Grand Mizuha Guards,Grand Mizuha,chest,MR,9,120,178,-5,1,3,0,-3,"[2, 1, 1]",Mind's Eye 1; Ballistics 1; Evade Window 3
+960,Grand Mizuha Sleeves,Grand Mizuha,arms,MR,9,120,178,-5,1,3,0,-3,"[2, 2]",Poison Attack 2; Evade Window 2; Chameleos Blessing 1
+961,Grand Mizuha Sash,Grand Mizuha,waist,MR,9,120,178,-5,1,3,0,-3,"[1, 1, 1]",Peak Performance 2; Chameleos Blessing 1; Foray 1
+962,Grand Mizuha Leg Wrap,Grand Mizuha,legs,MR,9,120,178,-5,1,3,0,-3,[2],Peak Performance 1; Poison Attack 1; Chameleos Blessing 2
+963,Kaiser Crown X,Kaiser X,head,MR,9,120,178,4,-4,-1,1,-3,"[1, 1, 1]",Critical Eye 3; Critical Boost 1
+964,Kaiser Mail X,Kaiser X,chest,MR,9,120,178,4,-4,-1,1,-3,"[1, 1]",Critical Eye 2; Master's Touch 2; Ballistics 2
+965,Kaiser Vambraces X,Kaiser X,arms,MR,9,120,178,4,-4,-1,1,-3,[3],Critical Eye 1; Critical Boost 1; Teostra Blessing 1
+966,Kaiser Coil X,Kaiser X,waist,MR,9,120,178,4,-4,-1,1,-3,[3],Critical Eye 1; Teostra Blessing 2
+967,Kaiser Greaves X,Kaiser X,legs,MR,9,120,178,4,-4,-1,1,-3,"[2, 1]",Critical Boost 1; Master's Touch 1; Teostra Blessing 1
+968,Gargwa Mask X,Gargwa Mask X,head,MR,8,86,158,-3,-2,1,-2,0,[4],Good Luck 2; Leap of Faith 1
+969,Slagtoth Hood X,Slagtoth X,head,MR,8,92,156,-2,2,-1,0,1,"[3, 2]",Speed Eating 2; Free Meal 1; Diversion 1
+970,Slagtoth Cloak X,Slagtoth X,chest,MR,8,92,156,-2,2,-1,0,1,"[4, 1]",Item Prolonger 2; Free Meal 2
+971,Rhenoplos Helm X,Rhenoplos X,head,MR,8,90,162,2,0,-2,0,0,[2],Pierce Up 2; Stun Resistance 1; Muck Resistance 1
+972,Rhenoplos Mail X,Rhenoplos X,chest,MR,8,90,162,2,0,-2,0,0,"[4, 1]",Artillery 1; Stun Resistance 2
+973,Rhenoplos Braces X,Rhenoplos X,arms,MR,8,90,162,2,0,-2,0,0,"[2, 2]",Artillery 2; Load Shells 1; Special Ammo Boost 1
+974,Rhenoplos Coil X,Rhenoplos X,waist,MR,8,90,162,2,0,-2,0,0,[4],Load Shells 1; Special Ammo Boost 1; Tremor Resistance 2
+975,Rhenoplos Greaves X,Rhenoplos X,legs,MR,8,90,162,2,0,-2,0,0,[4],Pierce Up 1; Tremor Resistance 1
+976,Jaggi Gauntlets X,Jaggi X,arms,MR,8,90,162,0,0,1,0,0,"[1, 1]",Attack Boost 3
+977,Jaggi Shinguards X,Jaggi X,legs,MR,8,90,162,0,0,1,0,0,"[2, 1]",Master Mounter 1; Wall Runner 2
+978,Bnahabra Hat X,Bnahabra X,head,MR,8,84,156,-2,0,0,0,2,"[4, 1]",Poison Attack 1; Recoil Down 2
+979,Bnahabra Suit X,Bnahabra X,chest,MR,8,84,156,-2,0,0,0,2,"[3, 1]",Paralysis Attack 1; Evade Window 2
+980,Bnahabra Gloves X,Bnahabra X,arms,MR,8,84,156,-2,0,0,0,2,[4],Poison Attack 2; Evade Window 2
+981,Bnahabra Coil X,Bnahabra X,waist,MR,8,84,156,-2,0,0,0,2,"[3, 1]",Paralysis Attack 2; Evade Window 1
+982,Bnahabra Boots X,Bnahabra X,legs,MR,8,84,156,-2,0,0,0,2,"[4, 1]",Recoil Down 1; Steadiness 2
+983,Bullfango Mask X,Bullfango Mask X,head,MR,8,86,158,0,4,0,-2,0,[3],Agitator 3; Diversion 1
+984,Remobra Headgear X,Remobra X,head,MR,9,112,172,1,1,1,1,3,"[4, 2, 1]",Poison Attack 1; Windproof 1
+985,Remobra Suit X,Remobra X,chest,MR,9,112,172,1,1,1,1,3,"[3, 1, 1]",Critical Boost 1; Poison Attack 2
+986,Remobra Gloves X,Remobra X,arms,MR,9,112,172,1,1,1,1,3,"[4, 1, 1]",Critical Element 1; Windproof 2
+987,Remobra Belt X,Remobra X,waist,MR,9,112,172,1,1,1,1,3,"[2, 2]",Critical Element 2; Poison Resistance 1
+988,Remobra Feet X,Remobra X,legs,MR,9,112,172,1,1,1,1,3,"[4, 1]",Weakness Exploit 1; Poison Resistance 2
+989,Droth Mail X,Droth X,chest,MR,8,90,162,-2,4,0,-1,0,"[4, 2]",Water Attack 2
+990,Droth Coil X,Droth X,waist,MR,8,90,162,-2,4,0,-1,0,"[4, 1]",Resentment 1; Diversion 1
+991,Droth Greaves X,Droth X,legs,MR,8,90,162,-2,4,0,-1,0,"[4, 1]",Water Attack 3
+992,Uroktor Torso X,Uroktor X,chest,MR,9,112,172,4,-2,-1,0,0,"[2, 1, 1]",Guard Up 2; Special Ammo Boost 2; Evade Window 1
+993,Uroktor Coil X,Uroktor X,waist,MR,9,112,172,4,-2,-1,0,0,[3],Guard Up 1; Special Ammo Boost 1; Evade Window 1
+994,Wroggi Helm X,Wroggi X,head,MR,8,88,160,2,-2,-4,1,0,[1],Rapid Fire Up 2; Evade Extender 1
+995,Wroggi Mail X,Wroggi X,chest,MR,8,88,160,2,-2,-4,1,0,[4],Poison Attack 1; Rapid Fire Up 1; Poison Resistance 1
+996,Wroggi Vambraces X,Wroggi X,arms,MR,8,88,160,2,-2,-4,1,0,[4],Mind's Eye 2; Ammo Up 1; Poison Resistance 2
+997,Wroggi Coil X,Wroggi X,waist,MR,8,88,160,2,-2,-4,1,0,[1],Poison Attack 2; Ammo Up 2
+998,Wroggi Greaves X,Wroggi X,legs,MR,8,88,160,2,-2,-4,1,0,[4],Evade Extender 2
+999,Baggi Helm X,Baggi X,head,MR,8,86,158,-4,-1,2,-1,1,"[4, 1]",Sleep Attack 1; Ice Resistance 1
+1000,Baggi Mail X,Baggi X,chest,MR,8,86,158,-4,-1,2,-1,1,[4],Attack Boost 1; Sleep Attack 1
+1001,Baggi Vambraces X,Baggi X,arms,MR,8,86,158,-4,-1,2,-1,1,"[4, 1]",Sleep Attack 1; Sleep Resistance 2
+1002,Baggi Coil X,Baggi X,waist,MR,8,86,158,-4,-1,2,-1,1,[3],Attack Boost 2; Sleep Resistance 1
+1003,Baggi Greaves X,Baggi X,legs,MR,8,86,158,-4,-1,2,-1,1,"[2, 1]",Attack Boost 2; Ice Resistance 2
+1004,Arzuros Helm X,Arzuros X,head,MR,8,86,158,-2,0,0,-2,0,"[1, 1, 1]",Defense Boost 3; Speed Eating 1; Fortify 1
+1005,Arzuros Mail X,Arzuros X,chest,MR,8,86,158,-2,0,0,-2,0,[4],Resentment 1; Counterstrike 1
+1006,Arzuros Vambraces X,Arzuros X,arms,MR,8,86,158,-2,0,0,-2,0,"[1, 1]",Resentment 2; Defense Boost 1; Counterstrike 1
+1007,Arzuros Coil X,Arzuros X,waist,MR,8,86,158,-2,0,0,-2,0,"[2, 1]",Defense Boost 3; Speed Eating 1; Counterstrike 1
+1008,Arzuros Greaves X,Arzuros X,legs,MR,8,86,158,-2,0,0,-2,0,"[3, 2, 1]",Speed Eating 1
+1009,Volvidon Helm X,Volvidon X,head,MR,8,94,166,2,-3,-1,0,1,"[1, 1, 1]",Paralysis Attack 2; Earplugs 1
+1010,Volvidon Mail X,Volvidon X,chest,MR,8,94,166,2,-3,-1,0,1,[2],Earplugs 1; Jump Master 1; Rapid Morph 1
+1011,Volvidon Vambraces X,Volvidon X,arms,MR,8,94,166,2,-3,-1,0,1,"[1, 1, 1]",Paralysis Attack 1; Earplugs 1; Evade Extender 1
+1012,Volvidon Coil X,Volvidon X,waist,MR,8,94,166,2,-3,-1,0,1,[2],Earplugs 2
+1013,Volvidon Greaves X,Volvidon X,legs,MR,8,94,166,2,-3,-1,0,1,[1],Evade Extender 2; Rapid Morph 2
+1014,Ludroth Helm X,Royal Ludroth X,head,MR,8,92,164,-3,4,0,-1,0,"[2, 1]",Peak Performance 1; Focus 1; Marathon Runner 1
+1015,Ludroth Mail X,Royal Ludroth X,chest,MR,8,92,164,-3,4,0,-1,0,[4],Focus 1; Stamina Surge 2
+1016,Ludroth Braces X,Royal Ludroth X,arms,MR,8,92,164,-3,4,0,-1,0,"[2, 2, 1]",Spare Shot 1; Power Prolonger 1; Marathon Runner 1
+1017,Ludroth Coil X,Royal Ludroth X,waist,MR,8,92,164,-3,4,0,-1,0,[2],Peak Performance 2; Marathon Runner 1
+1018,Ludroth Greaves X,Royal Ludroth X,legs,MR,8,92,164,-3,4,0,-1,0,[3],Focus 1; Power Prolonger 2
+1019,Barroth Helm X,Barroth X,head,MR,8,94,166,-3,-1,-1,3,0,"[4, 1]",Attack Boost 1; Offensive Guard 1; Spread Up 1; Defense Boost 1
+1020,Barroth Mail X,Barroth X,chest,MR,8,94,166,-3,-1,-1,3,0,[4],Attack Boost 2; Defense Boost 2; Muck Resistance 2
+1021,Barroth Vambraces X,Barroth X,arms,MR,8,94,166,-3,-1,-1,3,0,"[2, 1]",Attack Boost 2; Offensive Guard 1; Affinity Sliding 1; Spread Up 1
+1022,Barroth Coil X,Barroth X,waist,MR,8,94,166,-3,-1,-1,3,0,[3],Guard 3; Defense Boost 1
+1023,Barroth Greaves X,Barroth X,legs,MR,8,94,166,-3,-1,-1,3,0,"[2, 1]",Guard 2; Offensive Guard 1; Defense Boost 1
+1024,Khezu Helm X,Khezu X,head,MR,8,96,160,-4,1,2,4,1,[4],Thunder Attack 2; Focus 1; Recovery Up 1
+1025,Khezu Mail X,Khezu X,chest,MR,8,96,160,-4,1,2,4,1,"[1, 1, 1]",Recovery Up 2; Wall Runner 2
+1026,Khezu Vambraces X,Khezu X,arms,MR,8,96,160,-4,1,2,4,1,"[4, 1]",Thunder Attack 3; Recovery Speed 1; Wall Runner 1
+1027,Khezu Coil X,Khezu X,waist,MR,8,96,160,-4,1,2,4,1,"[4, 1, 1]",Focus 1; Slugger 1
+1028,Khezu Greaves X,Khezu X,legs,MR,8,96,160,-4,1,2,4,1,"[2, 1]",Focus 1; Slugger 2; Recovery Speed 2
+1029,Nargacuga Helm X,Nargacuga X,head,MR,8,108,168,-2,1,1,-3,1,[3],Constitution 2; Evade Window 1; Flinch Free 1
+1030,Nargacuga Mail X,Nargacuga X,chest,MR,8,108,168,-2,1,1,-3,1,"[3, 1]",Critical Eye 2; Evade Window 1; Flinch Free 1
+1031,Nargacuga Braces X,Nargacuga X,arms,MR,8,108,168,-2,1,1,-3,1,"[2, 1]",Constitution 2; Evade Window 1; Evade Extender 1
+1032,Nargacuga Coil X,Nargacuga X,waist,MR,8,108,168,-2,1,1,-3,1,[2],Critical Eye 2; Evade Extender 2; Flinch Free 1
+1033,Nargacuga Greaves X,Nargacuga X,legs,MR,8,108,168,-2,1,1,-3,1,[1],Critical Eye 2; Constitution 1; Evade Window 2
+1034,Barioth Helm X,Barioth X,head,MR,8,108,168,-5,0,3,-1,0,"[1, 1]",Ice Attack 2; Critical Draw 2; Partbreaker 1
+1035,Barioth Mail X,Barioth X,chest,MR,8,108,168,-5,0,3,-1,0,"[2, 2, 1]",Maximum Might 2; Quick Sheathe 1
+1036,Barioth Vambraces X,Barioth X,arms,MR,8,108,168,-5,0,3,-1,0,"[2, 1]",Critical Eye 2; Maximum Might 1; Quick Sheathe 1
+1037,Barioth Coil X,Barioth X,waist,MR,8,108,168,-5,0,3,-1,0,[1],Critical Eye 3; Critical Draw 1; Partbreaker 1
+1038,Barioth Greaves X,Barioth X,legs,MR,8,108,168,-5,0,3,-1,0,"[4, 1]",Ice Attack 2; Quick Sheathe 1; Partbreaker 1
+1039,Rathian Helm X,Rathian X,head,MR,8,96,160,3,0,0,-2,-3,"[4, 1]",Agitator 1; Blight Resistance 1; Poison Resistance 1
+1040,Rathian Mail X,Rathian X,chest,MR,8,96,160,3,0,0,-2,-3,"[4, 1, 1]",Recovery Up 1; Poison Resistance 2; Free Meal 1
+1041,Rathian Braces X,Rathian X,arms,MR,8,96,160,3,0,0,-2,-3,"[2, 1]",Blight Resistance 1; Wide-Range 2; Free Meal 1
+1042,Rathian Coil X,Rathian X,waist,MR,8,96,160,3,0,0,-2,-3,[2],Agitator 1; Recovery Up 2; Wide-Range 1
+1043,Rathian Greaves X,Rathian X,legs,MR,8,96,160,3,0,0,-2,-3,[4],Agitator 1; Blight Resistance 1; Free Meal 1
+1044,Rathalos Helm X,Rathalos X,head,MR,9,114,174,3,1,1,-2,-3,[4],Attack Boost 1; Critical Boost 1; Partbreaker 1
+1045,Rathalos Mail X,Rathalos X,chest,MR,9,114,174,3,1,1,-2,-3,[3],Attack Boost 1; Earplugs 1; Partbreaker 1
+1046,Rathalos Braces X,Rathalos X,arms,MR,9,114,174,3,1,1,-2,-3,[2],Attack Boost 2; Earplugs 2
+1047,Rathalos Coil X,Rathalos X,waist,MR,9,114,174,3,1,1,-2,-3,[2],Attack Boost 2; Critical Boost 1; Windproof 3
+1048,Rathalos Greaves X,Rathalos X,legs,MR,9,114,174,3,1,1,-2,-3,"[1, 1]",Attack Boost 1; Earplugs 2; Partbreaker 1
+1049,Tigrex Helm X,Tigrex X,head,MR,9,118,178,2,0,0,-3,-2,"[4, 1]",Speed Eating 1; Earplugs 1
+1050,Tigrex Mail X,Tigrex X,chest,MR,9,118,178,2,0,0,-3,-2,"[2, 1]",Peak Performance 1; Earplugs 2
+1051,Tigrex Braces X,Tigrex X,arms,MR,9,118,178,2,0,0,-3,-2,[4],Peak Performance 1; Mind's Eye 1; Normal/Rapid Up 1; Stun Resistance 3
+1052,Tigrex Coil X,Tigrex X,waist,MR,9,118,178,2,0,0,-3,-2,"[2, 1]",Peak Performance 1; Earplugs 2
+1053,Tigrex Greaves X,Tigrex X,legs,MR,9,118,178,2,0,0,-3,-2,[3],Mind's Eye 2; Normal/Rapid Up 1; Speed Eating 2
+1054,Diablos Helm X,Diablos X,head,MR,9,118,178,3,-1,-3,-1,-1,[3],Guard 3; Tremor Resistance 1
+1055,Diablos Mail X,Diablos X,chest,MR,9,118,178,3,-1,-3,-1,-1,[3],Guard 2; Offensive Guard 1
+1056,Diablos Vambraces X,Diablos X,arms,MR,9,118,178,3,-1,-3,-1,-1,"[2, 1]",Stamina Surge 1; Offensive Guard 2; Pierce Up 2
+1057,Diablos Coil X,Diablos X,waist,MR,9,118,178,3,-1,-3,-1,-1,"[4, 1]",Stamina Surge 2; Heroics 1
+1058,Diablos Greaves X,Diablos X,legs,MR,9,118,178,3,-1,-3,-1,-1,[3],Tremor Resistance 2; Heroics 2
+1059,Basarios Helm X,Basarios X,head,MR,8,100,164,0,-2,1,1,-3,"[2, 1]",Artillery 2; Load Shells 1; Defense Boost 2
+1060,Basarios Mail X,Basarios X,chest,MR,8,100,164,0,-2,1,1,-3,"[1, 1]",Latent Power 1; Guard 2; Load Shells 1
+1061,Basarios Vambraces X,Basarios X,arms,MR,8,100,164,0,-2,1,1,-3,"[2, 1]",Guard 3; Speed Sharpening 1
+1062,Basarios Coil X,Basarios X,waist,MR,8,100,164,0,-2,1,1,-3,[4],Latent Power 1; Reload Speed 1; Defense Boost 3; Speed Sharpening 2
+1063,Basarios Greaves X,Basarios X,legs,MR,8,100,164,0,-2,1,1,-3,[3],Latent Power 2; Load Shells 1; Reload Speed 1; Defense Boost 2
+1064,Zinogre Helm X,Zinogre X,head,MR,9,116,176,0,-1,-4,4,1,[3],Weakness Exploit 1; Latent Power 1; Critical Element 1
+1065,Zinogre Mail X,Zinogre X,chest,MR,9,116,176,0,-1,-4,4,1,"[1, 1, 1]",Weakness Exploit 2; Latent Power 1; Thunder Attack 2
+1066,Zinogre Braces X,Zinogre X,arms,MR,9,116,176,0,-1,-4,4,1,[2],Latent Power 1; Critical Element 1; Constitution 2
+1067,Zinogre Coil X,Zinogre X,waist,MR,9,116,176,0,-1,-4,4,1,"[3, 1]",Latent Power 1; Critical Element 1; Thunder Attack 3
+1068,Zinogre Greaves X,Zinogre X,legs,MR,9,116,176,0,-1,-4,4,1,[1],Latent Power 1; Constitution 3; Wirebug Whisperer 1
+1069,Grand God's Peer Mask,Grand God's Peer,head,MR,9,116,174,2,1,-5,3,2,"[4, 1]",Maximum Might 1; Heroics 2
+1070,Grand God's Peer Robe,Grand God's Peer,chest,MR,9,116,174,2,1,-5,3,2,[3],Latent Power 2; Maximum Might 1; Heroics 1
+1071,Grand God's Peer Arms,Grand God's Peer,arms,MR,9,116,174,2,1,-5,3,2,"[4, 1]",Latent Power 2; Heroics 1
+1072,Grand God's Peer Belt,Grand God's Peer,waist,MR,9,116,174,2,1,-5,3,2,[4],Critical Boost 1; Maximum Might 1; Heroics 1
+1073,Grand God's Peer Feet,Grand God's Peer,legs,MR,9,116,174,2,1,-5,3,2,"[1, 1, 1]",Critical Boost 2; Latent Power 1; Flinch Free 2
+1074,Valstrax Helm - Eclipse,Crimson Valstrax - Eclipse,head,MR,10,124,180,-2,-2,-2,-2,3,"[4, 1, 1]",Weakness Exploit 1; Dragonheart 1
+1075,Valstrax Mail - Eclipse,Crimson Valstrax - Eclipse,chest,MR,10,124,180,-2,-2,-2,-2,3,"[4, 1]",Resuscitate 2; Dragonheart 1
+1076,Valstrax Braces - Eclipse,Crimson Valstrax - Eclipse,arms,MR,10,124,180,-2,-2,-2,-2,3,[4],Weakness Exploit 2; Dragonheart 1
+1077,Valstrax Coil - Eclipse,Crimson Valstrax - Eclipse,waist,MR,10,124,180,-2,-2,-2,-2,3,"[2, 1]",Resentment 2; Resuscitate 1; Dragonheart 1
+1078,Valstrax Greaves - Eclipse,Crimson Valstrax - Eclipse,legs,MR,10,124,180,-2,-2,-2,-2,3,"[3, 1]",Resentment 3; Dragonheart 1
+1079,Kulu-Ya-Ku Helm X,Kulu-Ya-Ku X,head,MR,8,86,158,0,-3,1,0,0,"[1, 1]",Maximum Might 2; Quick Sheathe 1; Stun Resistance 1
+1080,Kulu-Ya-Ku Mail X,Kulu-Ya-Ku X,chest,MR,8,86,158,0,-3,1,0,0,"[2, 1]",Quick Sheathe 1; Slugger 2
+1081,Kulu-Ya-Ku Braces X,Kulu-Ya-Ku X,arms,MR,8,86,158,0,-3,1,0,0,"[2, 1]",Quick Sheathe 1; Slugger 1; Stamina Thief 2
+1082,Kulu-Ya-Ku Coil X,Kulu-Ya-Ku X,waist,MR,8,86,158,0,-3,1,0,0,"[4, 1]",Maximum Might 1; Stamina Thief 1
+1083,Kulu-Ya-Ku Greaves X,Kulu-Ya-Ku X,legs,MR,8,86,158,0,-3,1,0,0,[3],Critical Eye 2; Stun Resistance 2
+1084,Pukei-Pukei Helm X,Pukei-Pukei X,head,MR,8,96,160,0,3,0,-3,1,[4],Poison Attack 1; Spare Shot 1; Special Ammo Boost 1
+1085,Pukei-Pukei Mail X,Pukei-Pukei X,chest,MR,8,96,160,0,3,0,-3,1,[2],Constitution 3; Special Ammo Boost 1; Speed Sharpening 2
+1086,Pukei-Pukei Braces X,Pukei-Pukei X,arms,MR,8,96,160,0,3,0,-3,1,[3],Spare Shot 1; Ballistics 2
+1087,Pukei-Pukei Coil X,Pukei-Pukei X,waist,MR,8,96,160,0,3,0,-3,1,"[4, 2]",Poison Attack 2; Spare Shot 1
+1088,Pukei Greaves X,Pukei-Pukei X,legs,MR,8,96,160,0,3,0,-3,1,"[2, 1, 1]",Ballistics 1; Constitution 2
+1089,Jyuratodus Helm X,Jyuratodus X,head,MR,8,96,160,-1,2,0,-3,0,"[2, 1]",Resentment 1; Offensive Guard 1; Evade Extender 2
+1090,Jyuratodus Mail X,Jyuratodus X,chest,MR,8,96,160,-1,2,0,-3,0,"[1, 1, 1]",Resentment 1; Power Prolonger 2; Evade Extender 1; Tune-Up 1
+1091,Jyuratodus Vambraces X,Jyuratodus X,arms,MR,8,96,160,-1,2,0,-3,0,"[3, 2, 1]",Resentment 2
+1092,Jyuratodus Coil X,Jyuratodus X,waist,MR,8,96,160,-1,2,0,-3,0,"[1, 1]",Power Prolonger 1; Guard Up 1; Offensive Guard 2
+1093,Jyuratodus Greaves X,Jyuratodus X,legs,MR,8,96,160,-1,2,0,-3,0,"[4, 1, 1]",Resentment 1; Guard Up 2
+1094,Kadachi Helm X,Tobi-Kadachi X,head,MR,8,96,160,0,-3,0,3,0,"[1, 1]",Critical Eye 3; Constitution 1; Jump Master 1
+1095,Tobi-Kadachi Mail X,Tobi-Kadachi X,chest,MR,8,96,160,0,-3,0,3,0,[4],Critical Eye 1; Critical Element 1; Mind's Eye 1
+1096,Kadachi Braces X,Tobi-Kadachi X,arms,MR,8,96,160,0,-3,0,3,0,[3],Constitution 3; Fortify 1
+1097,Tobi-Kadachi Coil X,Tobi-Kadachi X,waist,MR,8,96,160,0,-3,0,3,0,"[4, 1]",Critical Element 1; Mind's Eye 2; Pierce Up 1
+1098,Kadachi Greaves X,Tobi-Kadachi X,legs,MR,8,96,160,0,-3,0,3,0,"[2, 1]",Critical Eye 2; Critical Element 1; Constitution 1
+1099,Anjanath Helm X,Anjanath X,head,MR,8,98,162,3,-3,-1,-1,0,[3],Attack Boost 1; Focus 1; Slugger 1
+1100,Anjanath Mail X,Anjanath X,chest,MR,8,98,162,3,-3,-1,-1,0,"[1, 1]",Agitator 1; Focus 2; Marathon Runner 1
+1101,Anjanath Vambraces X,Anjanath X,arms,MR,8,98,162,3,-3,-1,-1,0,[1],Attack Boost 2; Agitator 1; Slugger 2
+1102,Anjanath Coil X,Anjanath X,waist,MR,8,98,162,3,-3,-1,-1,0,"[4, 1, 1]",Attack Boost 2
+1103,Anjanath Greaves X,Anjanath X,legs,MR,8,98,162,3,-3,-1,-1,0,[3],Agitator 2; Marathon Runner 2
+1104,Bazelgeuse Helm X,Bazelgeuse X,head,MR,9,118,176,3,1,-2,-4,-2,[3],Razor Sharp 1; Guard 2; Artillery 1
+1105,Bazelgeuse Mail X,Bazelgeuse X,chest,MR,9,118,176,3,1,-2,-4,-2,"[1, 1]",Agitator 2; Razor Sharp 1; Guard Up 2
+1106,Bazelgeuse Braces X,Bazelgeuse X,arms,MR,9,118,176,3,1,-2,-4,-2,"[2, 2]",Agitator 2; Guard 1; Guard Up 1
+1107,Bazelgeuse Coil X,Bazelgeuse X,waist,MR,9,118,176,3,1,-2,-4,-2,"[2, 2]",Razor Sharp 1; Guard 1; Load Shells 2
+1108,Bazelgeuse Greaves X,Bazelgeuse X,legs,MR,9,118,176,3,1,-2,-4,-2,[3],Agitator 1; Guard 1; Artillery 2
+1109,Chrome Metal Coil X,Chrome Metal X,waist,MR,9,110,170,-2,-2,-2,-2,-2,"[3, 2, 1]",Flinch Free 1
+1110,Chrome Metal Boots X,Chrome Metal X,legs,MR,9,110,170,-2,-2,-2,-2,-2,[4],Flinch Free 2
+1111,Skull Visage X,Skull X,head,MR,8,104,164,-3,-3,-3,-3,4,[4],Handicraft 1; Fortify 1
+1112,Jaggi Mask X,Jaggi Mask X,head,MR,8,86,158,0,0,0,0,0,"[3, 1]",Marathon Runner 2; Affinity Sliding 1
+1113,Sinister Demon Helm,Sinister Demon,head,MR,8,110,170,3,-3,1,-2,1,[2],Resentment 2; Handicraft 1; Flinch Free 2
+1114,Sinister Demon Garb,Sinister Demon,chest,MR,8,110,170,3,-3,1,-2,1,[2],Resentment 1; Earplugs 1; Hellfire Cloak 1
+1115,Sinister Demon Gauntlets,Sinister Demon,arms,MR,8,110,170,3,-3,1,-2,1,[2],Handicraft 2; Ammo Up 2; Hellfire Cloak 1
+1116,Sinister Demon Tassets,Sinister Demon,waist,MR,8,110,170,3,-3,1,-2,1,[4],Earplugs 1; Hellfire Cloak 1
+1117,Sinister Demon Greaves,Sinister Demon,legs,MR,8,110,170,3,-3,1,-2,1,"[2, 1]",Resentment 2; Flinch Free 1; Hellfire Cloak 1
+1118,Lagombi Helm X,Lagombi X,head,MR,8,86,158,-3,1,3,0,0,[3],Critical Eye 1; Master's Touch 1; Ice Attack 2; Reload Speed 1
+1119,Lagombi Mail X,Lagombi X,chest,MR,8,86,158,-3,1,3,0,0,"[1, 1]",Master's Touch 1; Constitution 2; Affinity Sliding 1; Reload Speed 1
+1120,Lagombi Vambraces X,Lagombi X,arms,MR,8,86,158,-3,1,3,0,0,"[2, 1]",Critical Eye 2; Ice Attack 3
+1121,Lagombi Coil X,Lagombi X,waist,MR,8,86,158,-3,1,3,0,0,[2],Constitution 3
+1122,Lagombi Greaves X,Lagombi X,legs,MR,8,86,158,-3,1,3,0,0,[3],Critical Eye 1; Master's Touch 1; Reload Speed 1; Jump Master 1
+1123,Bone Helm X,Bone X,head,MR,8,82,154,0,0,-1,0,0,[4],Stamina Thief 1; Partbreaker 1
+1124,Bone Mail X,Bone X,chest,MR,8,82,154,0,0,-1,0,0,[3],Marathon Runner 2; Stamina Thief 1
+1125,Bone Vambraces X,Bone X,arms,MR,8,82,154,0,0,-1,0,0,"[1, 1]",Marathon Runner 1; Punishing Draw 2; Stamina Thief 1
+1126,Bone Coil X,Bone X,waist,MR,8,82,154,0,0,-1,0,0,"[2, 1]",Focus 1; Partbreaker 2
+1127,Bone Greaves X,Bone X,legs,MR,8,82,154,0,0,-1,0,0,[2],Focus 1; Punishing Draw 1; Muck Resistance 2
+1128,Mizutsune Helm X,Mizutsune X,head,MR,9,114,174,0,2,1,-3,-1,"[2, 1]",Resuscitate 1; Constitution 1; Evade Window 2
+1129,Mizutsune Mail X,Mizutsune X,chest,MR,9,114,174,0,2,1,-3,-1,[2],Resuscitate 1; Constitution 2; Bubbly Dance 1
+1130,Mizutsune Braces X,Mizutsune X,arms,MR,9,114,174,0,2,1,-3,-1,"[4, 1, 1]",Resuscitate 1; Free Meal 2
+1131,Mizutsune Coil X,Mizutsune X,waist,MR,9,114,174,0,2,1,-3,-1,"[4, 1]",Constitution 1; Bubbly Dance 1; Free Meal 1
+1132,Mizutsune Greaves X,Mizutsune X,legs,MR,9,114,174,0,2,1,-3,-1,"[3, 1, 1]",Constitution 1; Bubbly Dance 1; Evade Window 1
+1133,Brigade Lobos X,Brigade X,head,MR,8,106,166,1,0,0,2,2,"[3, 2]",Divine Blessing 2; Botanist 2
+1134,Brigade Suit X,Brigade X,chest,MR,8,106,166,1,0,0,2,2,"[3, 2]",Marathon Runner 1; Geologist 1; Capture Master 1
+1135,Brigade Vambraces X,Brigade X,arms,MR,8,106,166,1,0,0,2,2,"[3, 3]",Divine Blessing 1; Geologist 2; Spiribird's Call 1
+1136,Brigade Coil X,Brigade X,waist,MR,8,106,166,1,0,0,2,2,"[3, 1]",Good Luck 2
+1137,Brigade Boots X,Brigade X,legs,MR,8,106,166,1,0,0,2,2,"[2, 2, 1]",Marathon Runner 2; Botanist 2; Carving Pro 1
+1138,Hermitaur Helm,Hermitaur,head,MR,8,94,166,-5,1,-1,-3,2,[1],Quick Sheathe 2; Tremor Resistance 2
+1139,Hermitaur Mail,Hermitaur,chest,MR,8,94,166,-5,1,-1,-3,2,[1],Guard 3; Load Shells 1; Normal/Rapid Up 1; Ammo Up 1
+1140,Hermitaur Braces,Hermitaur,arms,MR,8,94,166,-5,1,-1,-3,2,[2],Guard 2; Guard Up 1; Normal/Rapid Up 2
+1141,Hermitaur Coil,Hermitaur,waist,MR,8,94,166,-5,1,-1,-3,2,"[2, 2]",Handicraft 1; Quick Sheathe 1; Tune-Up 1
+1142,Hermitaur Greaves,Hermitaur,legs,MR,8,94,166,-5,1,-1,-3,2,[4],Handicraft 1; Tremor Resistance 1; Tune-Up 1
+1143,Ceanataur Helm,Ceanataur,head,MR,8,108,168,-3,1,-1,-4,2,"[2, 2]",Peak Performance 2; Critical Eye 1
+1144,Ceanataur Mail,Ceanataur,chest,MR,8,108,168,-3,1,-1,-4,2,[2],Critical Eye 1; Marathon Runner 2; Grinder (S) 1
+1145,Ceanataur Braces,Ceanataur,arms,MR,8,108,168,-3,1,-1,-4,2,[2],Peak Performance 1; Critical Eye 2; Pierce Up 1; Grinder (S) 1
+1146,Ceanataur Coil,Ceanataur,waist,MR,8,108,168,-3,1,-1,-4,2,[1],Critical Eye 2; Handicraft 1; Grinder (S) 1
+1147,Ceanataur Greaves,Ceanataur,legs,MR,8,108,168,-3,1,-1,-4,2,[1],Critical Eye 1; Handicraft 2; Marathon Runner 1; Pierce Up 2
+1148,Divine Ire Mask,Grand Divine Ire,head,MR,10,122,178,2,1,-5,3,2,"[1, 1, 1]",Critical Eye 1; Razor Sharp 2; Spare Shot 2; Furious 1
+1149,Divine Ire Haori,Grand Divine Ire,chest,MR,10,122,178,2,1,-5,3,2,[3],Maximum Might 2; Evade Extender 1; Burst 1
+1150,Divine Ire Kote,Grand Divine Ire,arms,MR,10,122,178,2,1,-5,3,2,[4],Critical Eye 2; Furious 1
+1151,Divine Ire Obi,Grand Divine Ire,waist,MR,10,122,178,2,1,-5,3,2,[3],Critical Element 2; Razor Sharp 1; Spare Shot 1; Burst 1
+1152,Holy Ire Hakama,Grand Divine Ire,legs,MR,10,122,178,2,1,-5,3,2,[4],Evade Extender 2; Furious 1
+1153,Gore Helm,Gore Magala,head,MR,9,112,172,-2,3,2,-1,-1,"[2, 2]",Agitator 1; Constitution 2
+1154,Gore Mail,Gore Magala,chest,MR,9,112,172,-2,3,2,-1,-1,"[2, 1]",Constitution 3; Coalescence 1
+1155,Gore Braces,Gore Magala,arms,MR,9,112,172,-2,3,2,-1,-1,[4],Speed Eating 2; Coalescence 1
+1156,Gore Coil,Gore Magala,waist,MR,9,112,172,-2,3,2,-1,-1,"[4, 2]",Agitator 1; Coalescence 1
+1157,Gore Greaves,Gore Magala,legs,MR,9,112,172,-2,3,2,-1,-1,"[1, 1, 1]",Agitator 3; Speed Eating 1
+1158,Arc Helm A,Arc A,head,MR,9,120,178,-2,2,2,-1,-4,[3],Coalescence 2; Bloodlust 1
+1159,Arc Mail A,Arc A,chest,MR,9,120,178,-2,2,2,-1,-4,[2],Resuscitate 2; Critical Element 1; Bloodlust 1
+1160,Arc Vambraces A,Arc A,arms,MR,9,120,178,-2,2,2,-1,-4,[4],Resuscitate 1; Critical Element 2
+1161,Arc Coil A,Arc A,waist,MR,9,120,178,-2,2,2,-1,-4,[4],Razor Sharp 2; Spare Shot 2; Coalescence 1
+1162,Arc Greaves A,Arc A,legs,MR,9,120,178,-2,2,2,-1,-4,"[3, 2]",Razor Sharp 1; Spare Shot 1; Bloodlust 1
+1163,Storge Helm B,Storge B,head,MR,9,120,178,-2,2,2,-1,-4,[3],Coalescence 2; Bloodlust 1
+1164,Storge Mail B,Storge B,chest,MR,9,120,178,-2,2,2,-1,-4,[2],Resuscitate 2; Critical Element 1; Bloodlust 1
+1165,Storge Vambraces B,Storge B,arms,MR,9,120,178,-2,2,2,-1,-4,[4],Resuscitate 1; Critical Element 2
+1166,Storge Coil B,Storge B,waist,MR,9,120,178,-2,2,2,-1,-4,[4],Razor Sharp 2; Spare Shot 2; Coalescence 1
+1167,Storge Greaves B,Storge B,legs,MR,9,120,178,-2,2,2,-1,-4,"[3, 2]",Razor Sharp 1; Spare Shot 1; Bloodlust 1
+1168,Regios Helm,Seregios,head,MR,9,114,174,4,0,-2,-3,0,[3],Constitution 3; Bladescale Hone 1
+1169,Regios Mail,Seregios,chest,MR,9,114,174,4,0,-2,-3,0,[3],Evade Window 3; Bladescale Hone 1
+1170,Regios Vambraces,Seregios,arms,MR,9,114,174,4,0,-2,-3,0,[],Handicraft 3
+1171,Regios Coil,Seregios,waist,MR,9,114,174,4,0,-2,-3,0,"[4, 1, 1]",Wall Runner 2; Wall Runner (Boost) 1
+1172,Regios Greaves,Seregios,legs,MR,9,114,174,4,0,-2,-3,0,[4],Evade Extender 2; Bladescale Hone 1
+1173,Astalos Helm,Astalos,head,MR,9,114,174,0,-1,-3,4,0,"[4, 2, 1]",Stun Resistance 2; Burst 1
+1174,Astalos Mail,Astalos,chest,MR,9,114,174,0,-1,-3,4,0,"[3, 1]",Stamina Surge 2; Burst 1
+1175,Astalos Braces,Astalos,arms,MR,9,114,174,0,-1,-3,4,0,"[4, 1]",Stamina Surge 1; Stun Resistance 1; Burst 1
+1176,Astalos Coil,Astalos,waist,MR,9,114,174,0,-1,-3,4,0,"[2, 1]",Power Prolonger 3; Speed Sharpening 2
+1177,Astalos Greaves,Astalos,legs,MR,9,114,174,0,-1,-3,4,0,"[1, 1]",Thunder Attack 3; Razor Sharp 3; Spare Shot 3
+1178,Onmyo Toukan,Onmyo,head,MR,10,120,176,2,0,-3,-1,1,"[4, 1, 1]",Evade Extender 3; Adrenaline Rush 1
+1179,Onmyo Kariginu,Onmyo,chest,MR,10,120,176,2,0,-3,-1,1,"[3, 2, 1]",Weakness Exploit 1; Stamina Surge 2; Embolden 1
+1180,Onmyo Tekkou,Onmyo,arms,MR,10,120,176,2,0,-3,-1,1,"[2, 2, 2]",Agitator 2; Stamina Surge 1; Embolden 1
+1181,Onmyo Ateobi,Onmyo,waist,MR,10,120,176,2,0,-3,-1,1,"[2, 2, 1]",Agitator 3; Adrenaline Rush 1; Embolden 1
+1182,Onmyo Sashiko,Onmyo,legs,MR,10,120,176,2,0,-3,-1,1,[4],Weakness Exploit 2; Offensive Guard 2; Flinch Free 3
+1183,Sinister Grudge Helm,Sinister Grudge,head,MR,10,124,180,3,-3,1,-2,1,[3],Hellfire Cloak 2; Coalescence 2; Redirection 1
+1184,Sinister Grudge Garb,Sinister Grudge,chest,MR,10,124,180,3,-3,1,-2,1,"[4, 1]",Wirebug Whisperer 2; Mail of Hellfire 1
+1185,Sinister Grudge Gauntlets,Sinister Grudge,arms,MR,10,124,180,3,-3,1,-2,1,"[3, 2]",Counterstrike 1; Mail of Hellfire 1; Redirection 1
+1186,Sinister Grudge Tassets,Sinister Grudge,waist,MR,10,124,180,3,-3,1,-2,1,"[4, 2, 1]",Mail of Hellfire 1; Coalescence 1
+1187,Sinister Grudge Greaves,Sinister Grudge,legs,MR,10,124,180,3,-3,1,-2,1,[4],Wirebug Whisperer 1; Counterstrike 2; Hellfire Cloak 2
+1188,Orangaten Helm,Orangaten,head,MR,8,96,160,2,-4,0,-2,2,"[3, 2]",Latent Power 2; Blast Attack 1
+1189,Orangaten Mail,Orangaten,chest,MR,8,96,160,2,-4,0,-2,2,"[4, 1, 1]",Quick Sheathe 1; Recovery Speed 3; Fire Resistance 2
+1190,Orangaten Braces,Orangaten,arms,MR,8,96,160,2,-4,0,-2,2,"[2, 1]",Latent Power 3; Quick Sheathe 1
+1191,Orangaten Coil,Orangaten,waist,MR,8,96,160,2,-4,0,-2,2,[1],Blast Attack 2; Handicraft 2; Spread Up 2
+1192,Orangaten Greaves,Orangaten,legs,MR,8,96,160,2,-4,0,-2,2,"[4, 1]",Protective Polish 2; Quick Sheathe 1; Spread Up 1
+1193,Auroracanth Head,Auroracanth,head,MR,8,108,168,-3,1,3,-1,2,"[2, 2]",Agitator 2; Master's Touch 1
+1194,Auroracanth Mail,Auroracanth,chest,MR,8,108,168,-3,1,3,-1,2,[4],Agitator 2; Critical Element 1
+1195,Auroracanth Braces,Auroracanth,arms,MR,8,108,168,-3,1,3,-1,2,"[4, 1]",Critical Element 1; Master's Touch 1; Ice Attack 1
+1196,Auroracanth Coil,Auroracanth,waist,MR,8,108,168,-3,1,3,-1,2,"[4, 2]",Master's Touch 1; Ice Attack 2
+1197,Auroracanth Greaves,Auroracanth,legs,MR,8,108,168,-3,1,3,-1,2,"[4, 1]",Agitator 1; Critical Element 1; Ice Attack 2
+1198,Pyre-Kadaki Helm A,Pyre-Kadaki A,head,MR,9,112,172,2,-4,-2,2,2,"[4, 1]",Maximum Might 1; Blast Attack 1; Wirebug Whisperer 1
+1199,Pyre-Kadaki Mail A,Pyre-Kadaki A,chest,MR,9,112,172,2,-4,-2,2,2,"[2, 2, 1]",Maximum Might 1; Wirebug Whisperer 2
+1200,Pyre-Kadaki Braces A,Pyre-Kadaki A,arms,MR,9,112,172,2,-4,-2,2,2,[4],Maximum Might 1; Blast Resistance 1; Rapid Morph 2; Tune-Up 1
+1201,Pyre-Kadaki Coil A,Pyre-Kadaki A,waist,MR,9,112,172,2,-4,-2,2,2,[3],Peak Performance 2; Blast Attack 2
+1202,Pyre-Kadaki Greaves A,Pyre-Kadaki A,legs,MR,9,112,172,2,-4,-2,2,2,"[4, 2, 1]",Peak Performance 1; Blast Resistance 2
+1203,Pyre-Kadaki Helm B,Pyre-Kadaki B,head,MR,9,112,172,2,-4,-2,2,2,"[4, 1]",Maximum Might 1; Blast Attack 1; Wirebug Whisperer 1
+1204,Pyre-Kadaki Mail B,Pyre-Kadaki B,chest,MR,9,112,172,2,-4,-2,2,2,"[2, 2, 1]",Maximum Might 1; Wirebug Whisperer 2
+1205,Pyre-Kadaki Braces B,Pyre-Kadaki B,arms,MR,9,112,172,2,-4,-2,2,2,[4],Maximum Might 1; Blast Resistance 1; Rapid Morph 2; Tune-Up 1
+1206,Pyre-Kadaki Coil B,Pyre-Kadaki B,waist,MR,9,112,172,2,-4,-2,2,2,[3],Peak Performance 2; Blast Attack 2
+1207,Pyre-Kadaki Greaves B,Pyre-Kadaki B,legs,MR,9,112,172,2,-4,-2,2,2,"[4, 2, 1]",Peak Performance 1; Blast Resistance 2
+1208,Magmadron Helm,Magmadron,head,MR,9,112,172,5,-5,-4,0,0,[3],Resentment 1; Fire Attack 3; Heroics 2
+1209,Magmadron Mail,Magmadron,chest,MR,9,112,172,5,-5,-4,0,0,"[4, 1]",Resuscitate 1; Heroics 2
+1210,Magmadron Vambraces,Magmadron,arms,MR,9,112,172,5,-5,-4,0,0,[3],Resentment 1; Guard Up 2; Heroics 1
+1211,Magmadron Coil,Magmadron,waist,MR,9,112,172,5,-5,-4,0,0,"[3, 3]",Resuscitate 1; Guard Up 1
+1212,Magmadron Greaves,Magmadron,legs,MR,9,112,172,5,-5,-4,0,0,"[3, 3]",Resentment 1; Resuscitate 1
+1213,Pride Helm,Pride,head,MR,10,123,179,3,0,-3,-2,-1,"[3, 2]",Attack Boost 1; Latent Power 2; Earplugs 1
+1214,Pride Mail,Pride,chest,MR,10,123,179,3,0,-3,-2,-1,[3],Attack Boost 1; Speed Eating 2; Guts 1
+1215,Pride Vambraces,Pride,arms,MR,10,123,179,3,0,-3,-2,-1,"[3, 1]",Weakness Exploit 1; Earplugs 1; Guts 1
+1216,Pride Coil,Pride,waist,MR,10,123,179,3,0,-3,-2,-1,"[2, 1, 1]",Latent Power 3; Stamina Surge 1; Earplugs 1
+1217,Pride Greaves,Pride,legs,MR,10,123,179,3,0,-3,-2,-1,"[2, 2]",Stamina Surge 2; Stamina Thief 3; Guts 1
+1218,Malzeno Helm,Malzeno,head,MR,9,120,178,-2,2,-1,2,-5,"[2, 2]",Weakness Exploit 1; Wirebug Whisperer 2
+1219,Malzeno Mail,Malzeno,chest,MR,9,120,178,-2,2,-1,2,-5,"[2, 1]",Weakness Exploit 1; Partbreaker 1; Blood Rite 1
+1220,Malzeno Braces,Malzeno,arms,MR,9,120,178,-2,2,-1,2,-5,[4],Attack Boost 2; Blight Resistance 1; Wirebug Whisperer 1
+1221,Malzeno Coil,Malzeno,waist,MR,9,120,178,-2,2,-1,2,-5,"[1, 1]",Attack Boost 1; Partbreaker 1; Blood Rite 2
+1222,Malzeno Greaves,Malzeno,legs,MR,9,120,178,-2,2,-1,2,-5,"[4, 1, 1]",Attack Boost 1; Weakness Exploit 1; Blight Resistance 2
+1223,Lunagaron Helm,Lunagaron,head,MR,9,114,174,-4,2,4,-1,-1,"[2, 2]",Critical Eye 2; Wirebug Whisperer 1
+1224,Lunagaron Mail,Lunagaron,chest,MR,9,114,174,-4,2,4,-1,-1,[4],Agitator 2; Redirection 1
+1225,Lunagaron Braces,Lunagaron,arms,MR,9,114,174,-4,2,4,-1,-1,"[2, 1]",Agitator 3; Wirebug Whisperer 1
+1226,Lunagaron Coil,Lunagaron,waist,MR,9,114,174,-4,2,4,-1,-1,[4],Latent Power 2; Wirebug Whisperer 1
+1227,Lunagaron Greaves,Lunagaron,legs,MR,9,114,174,-4,2,4,-1,-1,"[2, 1, 1]",Latent Power 3; Redirection 1
+1228,Golm Helm,Garangolm,head,MR,8,112,172,-1,3,0,-2,2,"[4, 1]",Maximum Might 1; Tremor Resistance 1; Charge Master 1
+1229,Golm Mail,Garangolm,chest,MR,8,112,172,-1,3,0,-2,2,"[4, 1, 1]",Tremor Resistance 2; Flinch Free 3
+1230,Golm Braces,Garangolm,arms,MR,8,112,172,-1,3,0,-2,2,"[2, 2, 1]",Focus 2; Charge Master 1
+1231,Golm Faulds,Garangolm,waist,MR,8,112,172,-1,3,0,-2,2,"[3, 2]",Maximum Might 2; Focus 1; Spiribird's Call 1
+1232,Golm Greaves,Garangolm,legs,MR,8,112,172,-1,3,0,-2,2,"[2, 2, 1]",Slugger 2; Stamina Thief 2; Charge Master 1
+1233,Archfiend Armor Cerato,Archfiend Armor,head,MR,10,126,182,0,3,3,-2,-5,"[4, 2]",Resentment 2; Weakness Exploit 1
+1234,Archfiend Armor Baulo,Archfiend Armor,chest,MR,10,126,182,0,3,3,-2,-5,"[3, 2]",Resentment 1; Weakness Exploit 1; Burst 1
+1235,Archfiend Armor Epine,Archfiend Armor,arms,MR,10,126,182,0,3,3,-2,-5,[4],Resentment 1; Dereliction 2
+1236,Archfiend Armor Ura,Archfiend Armor,waist,MR,10,126,182,0,3,3,-2,-5,[4],Weakness Exploit 1; Burst 2
+1237,Archfiend Armor Sceros,Archfiend Armor,legs,MR,10,126,182,0,3,3,-2,-5,"[3, 2, 2]",Resentment 1; Dereliction 1
+1238,Espinas Brain,Espinas,head,MR,9,116,176,3,-1,-3,2,-2,"[2, 2]",Paralysis Attack 3; Partbreaker 1
+1239,Espinas Muscle,Espinas,chest,MR,9,116,176,3,-1,-3,2,-2,[4],Partbreaker 2; Foray 1
+1240,Espinas Vambraces,Espinas,arms,MR,9,116,176,3,-1,-3,2,-2,[4],Protective Polish 2; Rapid Fire Up 1; Foray 1
+1241,Espinas Bowels,Espinas,waist,MR,9,116,176,3,-1,-3,2,-2,"[3, 1]",Agitator 2; Protective Polish 1
+1242,Espinas Heel,Espinas,legs,MR,9,116,176,3,-1,-3,2,-2,"[4, 1]",Poison Attack 3; Flinch Free 2; Foray 1
+1243,Velociprey Helm,Velociprey,head,MR,8,86,158,0,0,-2,0,0,"[4, 1]",Attack Boost 1; Stun Resistance 1
+1244,Velociprey Mail,Velociprey,chest,MR,8,86,158,0,0,-2,0,0,"[4, 1]",Attack Boost 1; Windproof 1
+1245,Velociprey Braces,Velociprey,arms,MR,8,86,158,0,0,-2,0,0,"[3, 1]",Attack Boost 2
+1246,Velociprey Tassets,Velociprey,waist,MR,8,86,158,0,0,-2,0,0,[4],Attack Boost 1; Capture Master 1
+1247,Velociprey Greaves,Velociprey,legs,MR,8,86,158,0,0,-2,0,0,"[3, 2]",Windproof 2; Stun Resistance 2
+1248,Vespoid Helm,Vespoid,head,MR,8,84,156,-2,1,1,1,2,[4],Paralysis Attack 1; Wirebug Whisperer 2
+1249,Vespoid Mail,Vespoid,chest,MR,8,84,156,-2,1,1,1,2,"[4, 1]",Quick Sheathe 1; Paralysis Resistance 2
+1250,Vespoid Vambraces,Vespoid,arms,MR,8,84,156,-2,1,1,1,2,[3],Paralysis Attack 2; Master Mounter 1
+1251,Vespoid Tassets,Vespoid,waist,MR,8,84,156,-2,1,1,1,2,"[4, 1]",Quick Sheathe 1; Paralysis Resistance 1
+1252,Vespoid Greaves,Vespoid,legs,MR,8,84,156,-2,1,1,1,2,[4],Quick Sheathe 1; Wirebug Whisperer 1
+1253,Hornetaur Helm,Hornetaur,head,MR,8,86,158,-1,-1,-1,-1,4,[3],Resuscitate 2; Recovery Up 1
+1254,Hornetaur Mail,Hornetaur,chest,MR,8,86,158,-1,-1,-1,-1,4,[4],Dragon Attack 2; Recovery Up 1
+1255,Hornetaur Braces,Hornetaur,arms,MR,8,86,158,-1,-1,-1,-1,4,"[4, 2]",Dragon Attack 1; Steadiness 2
+1256,Hornetaur Tassets,Hornetaur,waist,MR,8,86,158,-1,-1,-1,-1,4,[4],Dragon Attack 2; Dragon Resistance 3
+1257,Hornetaur Greaves,Hornetaur,legs,MR,8,86,158,-1,-1,-1,-1,4,"[2, 2]",Resuscitate 1; Steadiness 1; Recovery Up 1
+1258,Professor's Goggles A,Professor A,head,MR,9,114,172,1,1,1,1,1,"[1, 1, 1]",Recovery Speed 3; Earplugs 2
+1259,Professor's Jacket A,Professor A,chest,MR,9,114,172,1,1,1,1,1,"[1, 1]",Earplugs 3; Hunger Resistance 1
+1260,Professor's Mittens A,Professor A,arms,MR,9,114,172,1,1,1,1,1,"[2, 2, 1]",Divine Blessing 3; Hunger Resistance 1
+1261,Professor's Bottoms A,Professor A,waist,MR,9,114,172,1,1,1,1,1,"[2, 2, 1]",Tremor Resistance 3; Flinch Free 2
+1262,Professor's Boots A,Professor A,legs,MR,9,114,172,1,1,1,1,1,"[4, 1]",Marathon Runner 3; Hunger Resistance 1
+1263,Charité Barrette B,Charité B,head,MR,9,114,172,1,1,1,1,1,"[1, 1, 1]",Recovery Speed 3; Earplugs 2
+1264,Charité Jacket B,Charité B,chest,MR,9,114,172,1,1,1,1,1,"[1, 1]",Earplugs 3; Hunger Resistance 1
+1265,Charité Gloves B,Charité B,arms,MR,9,114,172,1,1,1,1,1,"[2, 2, 1]",Divine Blessing 3; Hunger Resistance 1
+1266,Charité Skirt B,Charité B,waist,MR,9,114,172,1,1,1,1,1,"[2, 2, 1]",Tremor Resistance 3; Flinch Free 2
+1267,Charité Boots B,Charité B,legs,MR,9,114,172,1,1,1,1,1,"[4, 1]",Marathon Runner 3; Hunger Resistance 1
+1268,Guild Bard Lobos A,Guild Bard A,head,MR,8,104,164,0,0,0,0,0,[3],Evade Window 2; Mushroomancer 1
+1269,Guild Bard Bolero A,Guild Bard A,chest,MR,8,104,164,0,0,0,0,0,[4],Divine Blessing 1; Evade Window 1; Good Luck 1
+1270,Guild Bard Braces A,Guild Bard A,arms,MR,8,104,164,0,0,0,0,0,"[2, 1]",Evade Window 1; Good Luck 1; Mushroomancer 1
+1271,Guild Bard Coil A,Guild Bard A,waist,MR,8,104,164,0,0,0,0,0,"[4, 1]",Horn Maestro 1; Evade Window 1; Good Luck 1
+1272,Guild Bard Boots A,Guild Bard A,legs,MR,8,104,164,0,0,0,0,0,[4],Divine Blessing 2; Mushroomancer 1
+1273,Scholar's Beret B,Scholar B,head,MR,8,104,164,0,0,0,0,0,[3],Evade Window 2; Mushroomancer 1
+1274,Scholar's Blouse B,Scholar B,chest,MR,8,104,164,0,0,0,0,0,[4],Divine Blessing 1; Evade Window 1; Good Luck 1
+1275,Scholar's Gloves B,Scholar B,arms,MR,8,104,164,0,0,0,0,0,"[2, 1]",Evade Window 1; Good Luck 1; Mushroomancer 1
+1276,Scholar's Skirt B,Scholar B,waist,MR,8,104,164,0,0,0,0,0,"[4, 1]",Horn Maestro 1; Evade Window 1; Good Luck 1
+1277,Scholar's Socks B,Scholar B,legs,MR,8,104,164,0,0,0,0,0,[4],Divine Blessing 2; Mushroomancer 1
+1278,Sailor Hat,Sailor,head,MR,9,114,172,0,0,0,0,0,"[4, 2, 1]",Spiribird's Call 1
+1279,Sailor Suit,Sailor,chest,MR,9,114,172,0,0,0,0,0,"[1, 1]",Evade Window 4; Wirebug Whisperer 1
+1280,Sailor Gloves,Sailor,arms,MR,9,114,172,0,0,0,0,0,[3],Focus 3; Wirebug Whisperer 1
+1281,Sailor Skirt,Sailor,waist,MR,9,114,172,0,0,0,0,0,[3],Protective Polish 3; Ballistics 3; Wirebug Whisperer 1
+1282,Sailor Socks,Sailor,legs,MR,9,114,172,0,0,0,0,0,[3],Marathon Runner 3; Evade Window 1
+1283,Hawkhat A,Hawk A,head,MR,9,110,170,0,0,0,0,0,[1],Weakness Exploit 1; Constitution 2; Good Luck 1
+1284,Hawksuit A,Hawk A,chest,MR,9,110,170,0,0,0,0,0,"[2, 1]",Constitution 1; Quick Sheathe 1; Good Luck 1
+1285,Hawk Gloves A,Hawk A,arms,MR,9,110,170,0,0,0,0,0,[2],Weakness Exploit 1; Quick Sheathe 2; Speed Eating 1
+1286,Hawkcoil A,Hawk A,waist,MR,9,110,170,0,0,0,0,0,"[1, 1, 1]",Constitution 2; Speed Eating 2
+1287,Hawkboots A,Hawk A,legs,MR,9,110,170,0,0,0,0,0,"[2, 1]",Weakness Exploit 1; Capture Master 1; Good Luck 1
+1288,Lecturer's Hood B,Lecturer B,head,MR,9,110,170,0,0,0,0,0,[1],Weakness Exploit 1; Constitution 2; Good Luck 1
+1289,Lecturer's Suit B,Lecturer B,chest,MR,9,110,170,0,0,0,0,0,"[2, 1]",Constitution 1; Quick Sheathe 1; Good Luck 1
+1290,Lecturer Gloves B,Lecturer B,arms,MR,9,110,170,0,0,0,0,0,[2],Weakness Exploit 1; Quick Sheathe 2; Speed Eating 1
+1291,Lecturer's Skirt B,Lecturer B,waist,MR,9,110,170,0,0,0,0,0,"[1, 1, 1]",Constitution 2; Speed Eating 2
+1292,Lecturer's Boots B,Lecturer B,legs,MR,9,110,170,0,0,0,0,0,"[2, 1]",Weakness Exploit 1; Capture Master 1; Good Luck 1
+1293,Scholarly Hood,Scholarly,head,MR,9,114,172,0,0,0,0,0,[4],Capture Master 1; Wide-Range 3
+1294,Scholarly Suit,Scholarly,chest,MR,9,114,172,0,0,0,0,0,"[2, 2, 1]",Blight Resistance 3; Free Meal 1
+1295,Scholarly Strongarm,Scholarly,arms,MR,9,114,172,0,0,0,0,0,"[2, 2, 1]",Recovery Up 3; Free Meal 1
+1296,Scholarly Sash,Scholarly,waist,MR,9,114,172,0,0,0,0,0,"[3, 1, 1]",Quick Sheathe 3; Free Meal 1
+1297,Scholarly Boots,Scholarly,legs,MR,9,114,172,0,0,0,0,0,[2],Item Prolonger 3; Wide-Range 2
+1298,Commission Gorget,Commission,head,MR,9,114,172,2,2,2,2,2,[4],Constitution 3; Recovery Speed 1
+1299,Commission Vest,Commission,chest,MR,9,114,172,2,2,2,2,2,"[2, 2]",Recovery Speed 1; Good Luck 2
+1300,Commission Vambraces,Commission,arms,MR,9,114,172,2,2,2,2,2,"[1, 1, 1]",Speed Eating 3; Mushroomancer 1
+1301,Commission Belt,Commission,waist,MR,9,114,172,2,2,2,2,2,"[3, 1]",Recovery Speed 1; Mushroomancer 2
+1302,Commission Trousers,Commission,legs,MR,9,114,172,2,2,2,2,2,[4],Constitution 2; Good Luck 1
+1303,Outpost HQ Earrings,Base Commander A,head,MR,10,118,174,1,1,1,1,1,[2],Focus 3; Wide-Range 3
+1304,Outpost HQ Armor,Base Commander A,chest,MR,10,118,174,1,1,1,1,1,"[3, 3]",Critical Draw 1; Charge Master 1
+1305,Outpost HQ Braces,Base Commander A,arms,MR,10,118,174,1,1,1,1,1,"[4, 1]",Quick Sheathe 1; Charge Master 2
+1306,Outpost HQ Belt,Base Commander A,waist,MR,10,118,174,1,1,1,1,1,[4],Punishing Draw 3; Quick Sheathe 1
+1307,Outpost HQ Greaves,Base Commander A,legs,MR,10,118,174,1,1,1,1,1,"[2, 2]",Critical Draw 2; Quick Sheathe 1
+1308,Outpost HQ Earrings,Base Commander B,head,MR,10,118,174,1,1,1,1,1,[2],Focus 3; Wide-Range 3
+1309,Outpost HQ Armor,Base Commander B,chest,MR,10,118,174,1,1,1,1,1,"[3, 3]",Critical Draw 1; Charge Master 1
+1310,Outpost HQ Braces,Base Commander B,arms,MR,10,118,174,1,1,1,1,1,"[4, 1]",Quick Sheathe 1; Charge Master 2
+1311,Outpost HQ Belt,Base Commander B,waist,MR,10,118,174,1,1,1,1,1,[4],Punishing Draw 3; Quick Sheathe 1
+1312,Outpost HQ Greaves,Base Commander B,legs,MR,10,118,174,1,1,1,1,1,"[2, 2]",Critical Draw 2; Quick Sheathe 1
+1314,Barbania Patch,Barbania,head,MR,9,110,170,1,1,1,1,1,[3],Resentment 2; Weakness Exploit 1; Capture Master 1
+1315,Barbania Vest,Barbania,chest,MR,9,110,170,1,1,1,1,1,"[2, 2, 1]",Resentment 1; Partbreaker 1; Counterstrike 1
+1316,Barbania Gloves,Barbania,arms,MR,9,110,170,1,1,1,1,1,"[2, 1, 1]",Weakness Exploit 1; Partbreaker 1; Good Luck 1
+1317,Barbania Belt,Barbania,waist,MR,9,110,170,1,1,1,1,1,"[2, 1, 1]",Weakness Exploit 1; Good Luck 1; Counterstrike 1
+1318,Barbania Boots,Barbania,legs,MR,9,110,170,1,1,1,1,1,[3],Partbreaker 1; Good Luck 1; Counterstrike 1
+1319,Snowshear Headgear,Snowshear,head,MR,9,112,172,0,0,3,0,0,[2],Attack Boost 2; Stamina Thief 1; Grinder (S) 1
+1320,Snowshear Mail,Snowshear,chest,MR,9,112,172,0,0,3,0,0,"[4, 1]",Attack Boost 1; Stamina Thief 1; Tremor Resistance 1
+1321,Snowshear Braces,Snowshear,arms,MR,9,112,172,0,0,3,0,0,"[1, 1, 1]",Attack Boost 1; Latent Power 2; Recovery Speed 3
+1322,Snowshear Coil,Snowshear,waist,MR,9,112,172,0,0,3,0,0,[3],Attack Boost 1; Stamina Thief 1; Tremor Resistance 2
+1323,Snowshear Greaves,Snowshear,legs,MR,9,112,172,0,0,3,0,0,[2],Attack Boost 2; Latent Power 1; Grinder (S) 1
+1324,Five Element Mask,Five Element,head,MR,8,100,164,0,0,0,0,3,[2],Mind's Eye 1; Ballistics 1; Hellfire Cloak 2
+1325,Five Element Garb,Five Element,chest,MR,8,100,164,0,0,0,0,3,[4],Mind's Eye 2; Blight Resistance 1
+1326,Five Element Arms,Five Element,arms,MR,8,100,164,0,0,0,0,3,[4],Ballistics 2; Divine Blessing 1
+1327,Five Element Obi,Five Element,waist,MR,8,100,164,0,0,0,0,3,[4],Blight Resistance 2; Master Mounter 1
+1328,Five Element Legwear,Five Element,legs,MR,8,100,164,0,0,0,0,3,[3],Divine Blessing 2; Hellfire Cloak 1
+1329,Guardian Helm,Guardian,head,MR,8,108,168,2,0,2,0,3,[3],Guard 1; Guard Up 1; Earplugs 1
+1330,Guardian Suit,Guardian,chest,MR,8,108,168,2,0,2,0,3,"[4, 1]",Guard 1; Blight Resistance 1; Speed Sharpening 1
+1331,Guardian Vambraces,Guardian,arms,MR,8,108,168,2,0,2,0,3,"[2, 2, 1]",Guard 1; Earplugs 1; Speed Sharpening 1
+1332,Guardian Coil,Guardian,waist,MR,8,108,168,2,0,2,0,3,"[4, 1, 1]",Blight Resistance 2; Speed Sharpening 1; Diversion 1
+1333,Guardian Boots,Guardian,legs,MR,8,108,168,2,0,2,0,3,"[2, 1]",Guard 2; Earplugs 1
+1334,Guild Palace Helm,Guild Palace,head,MR,9,120,176,1,2,1,2,1,[3],Agitator 1; Offensive Guard 2
+1335,Guild Palace Mail,Guild Palace,chest,MR,9,120,176,1,2,1,2,1,[4],Agitator 2; Heroics 1
+1336,Guild Palace Braces,Guild Palace,arms,MR,9,120,176,1,2,1,2,1,[4],Agitator 2; Coalescence 1; Wall Runner (Boost) 1
+1337,Guild Palace Coil,Guild Palace,waist,MR,9,120,176,1,2,1,2,1,"[3, 1]",Offensive Guard 1; Heroics 2
+1338,Guild Palace Greaves,Guild Palace,legs,MR,9,120,176,1,2,1,2,1,[3],Heroics 2; Coalescence 2
+1339,Yukumo Sky Kasa,Yukumo Sky,head,MR,8,92,156,0,0,0,2,0,[2],Critical Eye 2; Recovery Up 1; Evade Window 1
+1340,Yukumo Sky Dogi,Yukumo Sky,chest,MR,8,92,156,0,0,0,2,0,[1],Critical Eye 1; Earplugs 2
+1341,Yukumo Sky Kote,Yukumo Sky,arms,MR,8,92,156,0,0,0,2,0,"[1, 1, 1]",Critical Eye 2; Evade Window 2
+1342,Yukumo Sky Obi,Yukumo Sky,waist,MR,8,92,156,0,0,0,2,0,"[2, 1]",Critical Eye 1; Earplugs 1; Evade Window 1
+1343,Yukumo Sky Hakama,Yukumo Sky,legs,MR,8,92,156,0,0,0,2,0,[2],Critical Eye 1; Recovery Up 2; Evade Window 1
+1344,Golden Lunehelm,Golden Lune,head,MR,10,120,176,3,-3,-1,-4,2,"[2, 2]",Foray 1; Burst 2; Status Trigger 2
+1345,Golden Lunemail,Golden Lune,chest,MR,10,120,176,3,-3,-1,-4,2,"[3, 2]",Divine Blessing 3; Counterstrike 2; Defiance 2
+1346,Golden Lunebraces,Golden Lune,arms,MR,10,120,176,3,-3,-1,-4,2,"[4, 2, 1]",Peak Performance 1; Critical Boost 1; Burst 1
+1347,Golden Lunecoil,Golden Lune,waist,MR,10,120,176,3,-3,-1,-4,2,"[3, 2]",Evade Window 2; Foray 1; Status Trigger 1
+1348,Golden Lunegreaves,Golden Lune,legs,MR,10,120,176,3,-3,-1,-4,2,"[4, 2]",Peak Performance 2; Recovery Up 2; Defiance 3
+1349,Silver Solhelm,Silver Sol,head,MR,10,122,178,4,-4,-2,-3,3,"[4, 1, 1]",Critical Boost 2; Critical Element 1; Windproof 3
+1350,Silver Solmail,Silver Sol,chest,MR,10,122,178,4,-4,-2,-3,3,"[4, 3, 1]",Critical Element 1; Fire Attack 3; Element Exploit 1
+1351,Silver Solbraces,Silver Sol,arms,MR,10,122,178,4,-4,-2,-3,3,"[4, 1, 1]",Critical Element 1; Constitution 2; Element Exploit 1
+1352,Silver Solcoil,Silver Sol,waist,MR,10,122,178,4,-4,-2,-3,3,"[2, 1, 1]",Constitution 3; Redirection 1; Element Exploit 1
+1353,Silver Solgreaves,Silver Sol,legs,MR,10,122,178,4,-4,-2,-3,3,"[2, 2, 1]",Critical Boost 1; Maximum Might 2; Redirection 1
+1354,Flaming Espinas Brain,Flaming Espinas,head,MR,10,122,178,3,-4,2,-1,-3,"[3, 2]",Attack Boost 2; Razor Sharp 1; Spare Shot 1
+1355,Flaming Espinas Muscle,Flaming Espinas,chest,MR,10,122,178,3,-4,2,-1,-3,"[2, 2]",Attack Boost 2; Marathon Runner 2; Charge Master 1
+1356,Flaming Espinas Grip,Flaming Espinas,arms,MR,10,122,178,3,-4,2,-1,-3,"[4, 2]",Attack Boost 1; Razor Sharp 2; Spare Shot 2; Intrepid Heart 1
+1357,Flaming Espinas Bowels,Flaming Espinas,waist,MR,10,122,178,3,-4,2,-1,-3,"[4, 1, 1]",Marathon Runner 1; Charge Master 2; Burst 1
+1358,Flaming Espinas Heel,Flaming Espinas,legs,MR,10,122,178,3,-4,2,-1,-3,"[4, 1]",Attack Boost 1; Burst 2; Intrepid Heart 1
+1359,Lambent Casque,Lucent Narga,head,MR,10,118,174,3,3,-5,0,-2,"[3, 1, 1]",Agitator 3; Handicraft 1; Ammo Up 1
+1360,Lambent Hauberk,Lucent Narga,chest,MR,10,118,174,3,3,-5,0,-2,"[3, 1]",Agitator 2; Critical Boost 1; Sneak Attack 1
+1361,Lambent Wristrays,Lucent Narga,arms,MR,10,118,174,3,3,-5,0,-2,"[2, 2]",Evade Window 3; Adrenaline Rush 2
+1362,Lambent Sash,Lucent Narga,waist,MR,10,118,174,3,3,-5,0,-2,"[3, 1, 1]",Handicraft 2; Spread Up 2; Sneak Attack 1
+1363,Lambent Gaiters,Lucent Narga,legs,MR,10,118,174,3,3,-5,0,-2,[3],Handicraft 2; Ammo Up 2; Sneak Attack 1; Adrenaline Rush 1
+1409,Hoplite's Helm,Heavy Knight,head,MR,9,114,174,1,1,1,1,1,[2],Guard Up 1; Artillery 1; Load Shells 2
+1410,Hoplite's Armor,Heavy Knight,chest,MR,9,114,174,1,1,1,1,1,"[1, 1]",Guard 1; Offensive Guard 1; Artillery 2
+1411,Hoplite's Braces,Heavy Knight,arms,MR,9,114,174,1,1,1,1,1,[2],Razor Sharp 1; Guard 2; Guard Up 1
+1412,Hoplite's Belt,Heavy Knight,waist,MR,9,114,174,1,1,1,1,1,[],Guard 1; Offensive Guard 2; Quick Sheathe 1
+1413,Hoplite's Greaves,Heavy Knight,legs,MR,9,114,174,1,1,1,1,1,[1],Razor Sharp 2; Guard Up 1; Quick Sheathe 2
+1414,Squire's Earrings,Knight Squire,head,MR,8,100,160,1,1,1,1,1,[1],Attack Boost 2; Speed Eating 3
+1415,Squire's Cuirass,Knight Squire,chest,MR,8,100,160,1,1,1,1,1,"[1, 1]",Razor Sharp 1; Offensive Guard 2; Flinch Free 1
+1416,Squire's Braces,Knight Squire,arms,MR,8,100,160,1,1,1,1,1,"[2, 1]",Guard Up 3; Flinch Free 2
+1417,Squire's Belt,Knight Squire,waist,MR,8,100,160,1,1,1,1,1,[3],Critical Boost 1; Weakness Exploit 1; Offensive Guard 1
+1418,Squire's Greaves,Knight Squire,legs,MR,8,100,160,1,1,1,1,1,"[3, 1]",Critical Boost 1; Razor Sharp 2
+1419,Artillery Corps Helm,Royal Artillery Corps,head,MR,8,106,166,1,1,1,1,1,[3],Recoil Down 1; Steadiness 2; Evade Extender 2
+1420,Artillery Corps Vest,Royal Artillery Corps,chest,MR,8,106,166,1,1,1,1,1,[],Ballistics 3; Recoil Down 1; Evade Extender 1
+1421,Artillery Corps Gauntlets,Royal Artillery Corps,arms,MR,8,106,166,1,1,1,1,1,[1],Artillery 2; Ammo Up 1; Reload Speed 1
+1422,Artillery Corps Tassets,Royal Artillery Corps,waist,MR,8,106,166,1,1,1,1,1,[2],Ammo Up 2; Reload Speed 1
+1423,Artillery Corps Greaves,Royal Artillery Corps,legs,MR,8,106,166,1,1,1,1,1,[],Spare Shot 3; Artillery 1; Special Ammo Boost 1
+1461,Dignified Earrings,Dignified,head,MR,9,112,172,1,1,1,1,1,[1],Focus 2; Power Prolonger 2; Evade Extender 1
+1462,Dignified Jacket,Dignified,chest,MR,9,112,172,1,1,1,1,1,"[2, 1]",Evade Window 1; Evade Extender 2; Rapid Morph 1
+1463,Dignified Gloves,Dignified,arms,MR,9,112,172,1,1,1,1,1,[3],Razor Sharp 1; Evade Window 2; Rapid Morph 1
+1464,Dignified Cuisse,Dignified,waist,MR,9,112,172,1,1,1,1,1,[3],Razor Sharp 1; Focus 1; Evade Window 2
+1465,Dignified Greaves,Dignified,legs,MR,9,112,172,1,1,1,1,1,[4],Razor Sharp 1; Power Prolonger 1; Rapid Morph 1
+1466,Black Belt Helm S,Black Belt S Event,head,HR,7,66,72,1,1,1,1,1,[],Attack Boost 1; Recovery Up 1; Earplugs 1
+1467,Black Belt Mail S,Black Belt S Event,chest,HR,7,66,72,1,1,1,1,1,[1],Attack Boost 1; Earplugs 1
+1468,Black Belt Braces S,Black Belt S Event,arms,HR,7,66,72,1,1,1,1,1,[],Attack Boost 1; Constitution 1; Recovery Up 1
+1469,Black Belt Tassets S,Black Belt S Event,waist,HR,7,66,72,1,1,1,1,1,[2],Constitution 2; Earplugs 1
+1470,Black Belt Greaves S,Black Belt S Event,legs,HR,7,66,72,1,1,1,1,1,[],Attack Boost 1; Recovery Up 1; Flinch Free 1
+1471,Soaring Feather,Soaring Feather,head,MR,10,116,172,0,0,0,0,0,[4],Wirebug Whisperer 3; Wall Runner (Boost) 1
+1472,Blessed Feather,Blessed Feather,head,MR,10,116,172,0,0,0,0,0,[2],Good Luck 3
+1561,Risen Mizuha Headdress,Risen Mizuha,head,MR,10,125,181,-5,1,3,0,-3,"[4, 2]",Peak Performance 3; Evade Window 1
+1562,Risen Mizuha Robes,Risen Mizuha,chest,MR,10,125,181,-5,1,3,0,-3,[4],Chameleos Blessing 2; Wirebug Whisperer 1; Buildup Boost 1
+1563,Risen Mizuha Sleeves,Risen Mizuha,arms,MR,10,125,181,-5,1,3,0,-3,"[4, 2, 1]",Chameleos Blessing 1; Foray 1; Buildup Boost 1
+1564,Risen Mizuha Sash,Risen Mizuha,waist,MR,10,125,181,-5,1,3,0,-3,"[4, 4]",Wirebug Whisperer 2; Foray 1
+1565,Risen Mizuha Gaiters,Risen Mizuha,legs,MR,10,125,181,-5,1,3,0,-3,"[4, 1, 1]",Evade Window 2; Chameleos Blessing 1; Buildup Boost 1
+1566,Risen Kushala Glare,Risen Kushala,head,MR,10,124,180,-1,2,3,-2,-3,"[3, 2, 1]",Wirebug Whisperer 3; Wind Mantle 1
+1567,Risen Kushala Iram,Risen Kushala,chest,MR,10,124,180,-1,2,3,-2,-3,"[3, 2, 1]",Attack Boost 2; Razor Sharp 2; Spare Shot 2; Kushala Blessing 2
+1568,Risen Kushala Grande,Risen Kushala,arms,MR,10,124,180,-1,2,3,-2,-3,"[4, 2]",Burst 2; Wind Mantle 1
+1569,Risen Kushala Cocoon,Risen Kushala,waist,MR,10,124,180,-1,2,3,-2,-3,"[3, 1]",Attack Boost 2; Recovery Up 3; Kushala Blessing 2
+1570,Risen Kushala Crus,Risen Kushala,legs,MR,10,124,180,-1,2,3,-2,-3,"[4, 4]",Burst 1; Wind Mantle 1
+1571,Risen Kaiser Horns,Risen Kaiser,head,MR,10,124,180,4,-4,-1,1,-3,"[3, 2]",Critical Eye 2; Weakness Exploit 1; Powder Mantle 1
+1572,Risen Kaiser Mail,Risen Kaiser,chest,MR,10,124,180,4,-4,-1,1,-3,"[2, 2]",Critical Eye 3; Weakness Exploit 1; Powder Mantle 1
+1573,Risen Kaiser Braces,Risen Kaiser,arms,MR,10,124,180,4,-4,-1,1,-3,"[4, 4]",Critical Eye 1; Master's Touch 1; Ballistics 1; Teostra Blessing 2
+1574,Risen Kaiser Coil,Risen Kaiser,waist,MR,10,124,180,4,-4,-1,1,-3,"[4, 3]",Master's Touch 2; Ballistics 2; Powder Mantle 1
+1575,Risen Kaiser Cuisse,Risen Kaiser,legs,MR,10,124,180,4,-4,-1,1,-3,"[4, 1, 1]",Weakness Exploit 1; Critical Element 2; Fire Attack 2; Teostra Blessing 2
+1576,Chaotic Helm,Chaotic Gore A,head,MR,10,118,174,-4,3,2,-2,-4,"[4, 2]",Critical Eye 2; Element Exploit 1; Strife 1
+1577,Chaotic Mail,Chaotic Gore A,chest,MR,10,118,174,-4,3,2,-2,-4,"[3, 1]",Critical Eye 2; Critical Boost 2; Strife 1
+1578,Chaotic Vambraces,Chaotic Gore A,arms,MR,10,118,174,-4,3,2,-2,-4,[3],Resentment 3; Bloodlust 1; Berserk 1
+1579,Chaotic Faulds,Chaotic Gore A,waist,MR,10,118,174,-4,3,2,-2,-4,"[3, 1, 1]",Resentment 2; Critical Eye 2; Strife 1
+1580,Chaotic Greaves,Chaotic Gore A,legs,MR,10,118,174,-4,3,2,-2,-4,[3],Coalescence 3; Bloodlust 1; Berserk 1
+1581,Nephilim Helm,Nephilim B,head,MR,10,118,174,-4,3,2,-2,-4,"[4, 2]",Critical Eye 2; Element Exploit 1; Strife 1
+1582,Nephilim Mail,Nephilim B,chest,MR,10,118,174,-4,3,2,-2,-4,"[3, 1]",Critical Eye 2; Critical Boost 2; Strife 1
+1583,Nephilim Vambraces,Nephilim B,arms,MR,10,118,174,-4,3,2,-2,-4,[3],Resentment 3; Bloodlust 1; Berserk 1
+1584,Nephilim Tassets,Nephilim B,waist,MR,10,118,174,-4,3,2,-2,-4,"[3, 1, 1]",Resentment 2; Critical Eye 2; Strife 1
+1585,Nephilim Greaves,Nephilim B,legs,MR,10,118,174,-4,3,2,-2,-4,[3],Coalescence 3; Bloodlust 1; Berserk 1
+1596,Rimeguard Helm,Rimeguard,head,MR,10,123,179,-3,2,4,-1,-1,"[3, 1]",Protective Polish 1; Ammo Up 3; Grinder (S) 3
+1597,Rimeguard Mail,Rimeguard,chest,MR,10,123,179,-3,2,4,-1,-1,"[4, 2, 1]",Quick Sheathe 3; Frostcraft 1
+1598,Rimeguard Gloves,Rimeguard,arms,MR,10,123,179,-3,2,4,-1,-1,"[3, 2, 1]",Critical Draw 3; Frostcraft 1
+1599,Rimeguard Coil,Rimeguard,waist,MR,10,123,179,-3,2,4,-1,-1,"[3, 3, 2]",Focus 3; Frostcraft 1
+1600,Rimeguard Greaves,Rimeguard,legs,MR,10,123,179,-3,2,4,-1,-1,"[4, 1]",Critical Element 3; Ice Attack 5; Element Exploit 1
+1601,Valstrax Helm - Epoch,Crimson Valstrax - Epoch,head,MR,10,121,177,-2,-2,-2,-2,3,"[4, 2]",Attack Boost 1; Latent Power 2; Dragon Conversion 1
+1602,Valstrax Mail - Epoch,Crimson Valstrax - Epoch,chest,MR,10,121,177,-2,-2,-2,-2,3,"[4, 4]",Attack Boost 1; Dragon Resistance 3; Dragon Conversion 1
+1603,Valstrax Braces - Epoch,Crimson Valstrax - Epoch,arms,MR,10,121,177,-2,-2,-2,-2,3,"[4, 1, 1]",Attack Boost 1; Critical Boost 2; Latent Power 2
+1604,Valstrax Coil - Epoch,Crimson Valstrax - Epoch,waist,MR,10,121,177,-2,-2,-2,-2,3,"[4, 1, 1]",Attack Boost 1; Stamina Surge 3; Dragon Conversion 1
+1605,Valstrax Greaves - Epoch,Crimson Valstrax - Epoch,legs,MR,10,121,177,-2,-2,-2,-2,3,"[4, 3]",Attack Boost 2; Critical Boost 1; Stun Resistance 3
+1606,Tempest Crown,Tempest,head,MR,10,125,181,-3,4,0,0,-5,"[4, 3]",Evade Window 5
+1607,Tempest Robe,Tempest,chest,MR,10,125,181,-3,4,0,0,-5,"[4, 4, 1]",Critical Boost 1; Heaven-Sent 1
+1608,Tempest Sleeves,Tempest,arms,MR,10,125,181,-3,4,0,0,-5,"[4, 4, 1]",Latent Power 1; Heaven-Sent 1
+1609,Tempest Obi,Tempest,waist,MR,10,125,181,-3,4,0,0,-5,"[4, 3]",Latent Power 4
+1610,Tempest Hakama,Tempest,legs,MR,10,125,181,-3,4,0,0,-5,"[4, 4]",Critical Boost 2; Heaven-Sent 1
+1611,Virtue Helm A,Virtue A,head,MR,10,122,178,-2,2,2,-1,-4,"[4, 4]",Defiance 2; Redirection 2
+1612,Virtue Mail A,Virtue A,chest,MR,10,122,178,-2,2,2,-1,-4,"[3, 1, 1]",Handicraft 3; Ammo Up 3; Strife 2
+1613,Virtue Braces A,Virtue A,arms,MR,10,122,178,-2,2,2,-1,-4,"[3, 1]",Attack Boost 3; Bloodlust 1; Frenzied Bloodlust 1
+1614,Virtue Coil A,Virtue A,waist,MR,10,122,178,-2,2,2,-1,-4,"[4, 2]",Weakness Exploit 2; Bloodlust 1; Frenzied Bloodlust 1
+1615,Virtue Greaves A,Virtue A,legs,MR,10,122,178,-2,2,2,-1,-4,"[4, 3, 1]",Bloodlust 1; Frenzied Bloodlust 1; Strife 1
+1616,Primordial Helm,Primordial,head,MR,10,125,181,-2,2,-1,2,-5,"[4, 4]",Blood Rite 3
+1617,Primordial Mail,Primordial,chest,MR,10,125,181,-2,2,-1,2,-5,"[4, 4, 2]",Burst 1; Blood Awakening 1
+1618,Primordial Vambraces,Primordial,arms,MR,10,125,181,-2,2,-1,2,-5,"[4, 4, 2]",Critical Boost 1; Blood Awakening 1
+1619,Primordial Coil,Primordial,waist,MR,10,125,181,-2,2,-1,2,-5,"[4, 4, 2]",Critical Boost 1; Burst 2
+1620,Primordial Greaves,Primordial,legs,MR,10,125,181,-2,2,-1,2,-5,"[4, 4]",Critical Boost 1; Partbreaker 3; Blood Awakening 1
+1621,Buff Chest,Buff Body Event,chest,MR,9,120,180,2,-1,0,-1,-3,"[4, 1]",Agitator 3; Guts 1
+1622,Buff Arms,Buff Body Event,arms,MR,9,120,180,2,-1,0,-1,-3,"[3, 2, 1]",Attack Boost 2; Heroics 3
+1623,Buff Waist,Buff Body Event,waist,MR,9,120,180,2,-1,0,-1,-3,"[3, 2]",Attack Boost 2; Guts 1
+1624,Buff Legs,Buff Body Event,legs,MR,9,120,180,2,-1,0,-1,-3,"[4, 1]",Attack Boost 3; Fortify 1
+1625,Prudence Helm B,Prudence B,head,MR,10,122,178,-2,2,2,-1,-4,"[4, 4]",Defiance 2; Redirection 2
+1626,Prudence Mail B,Prudence B,chest,MR,10,122,178,-2,2,2,-1,-4,"[3, 1, 1]",Handicraft 3; Ammo Up 3; Strife 2
+1627,Prudence Braces B,Prudence B,arms,MR,10,122,178,-2,2,2,-1,-4,"[3, 1]",Attack Boost 3; Bloodlust 1; Frenzied Bloodlust 1
+1628,Prudence Coil B,Prudence B,waist,MR,10,122,178,-2,2,2,-1,-4,"[4, 2]",Weakness Exploit 2; Bloodlust 1; Frenzied Bloodlust 1
+1629,Prudence Greaves B,Prudence B,legs,MR,10,122,178,-2,2,2,-1,-4,"[4, 3, 1]",Bloodlust 1; Frenzied Bloodlust 1; Strife 1
