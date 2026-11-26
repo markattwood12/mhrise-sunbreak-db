@@ -7,6 +7,13 @@
   "talisman": {"skills": {"Wirebug Whisperer": 3, "Constitution": 2}, "slots": [2]},
   "other_talismans": [{"skills": {"Weakness Exploit": 2, "Constitution": 1}, "slots": [2]}],
   "owned_armor": ["Onmyo Toukan", "Tempest Robe", "Tempest Hakama"],
+  "qurious_armor": [
+    {"base": "Kaiser Crown X", "add_skills": {"Evade Extender": 1}},
+    {"base": "Tempest Robe", "add_skills": {"Divine Blessing": 1}, "slots": [4, 4, 2]},
+    {"base": "Kaiser Vambraces X", "add_skills": {"Evade Extender": 1}},
+    {"base": "Silver Solcoil", "slots": [4, 1, 1]},
+    {"base": "Tempest Hakama", "add_skills": {"Handicraft": 1}}
+  ],
   "decoration_limits": {"Sprinter Jewel+ 4": 1, "Physique Jewel+ 4": 1},
   "preferred_skills": {
     "core": {"Weakness Exploit": 3, "Critical Boost": 3, "Critical Eye": 7},
