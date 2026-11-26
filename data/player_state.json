@@ -5,6 +5,7 @@
   "anomaly_research_level": 130,
   "cleared": ["Amatsu", "Violet Mizutsune", "Primordial Malzeno"],
   "talisman": {"skills": {"Wirebug Whisperer": 3, "Constitution": 2}, "slots": [2]},
+  "other_talismans": [{"skills": {"Weakness Exploit": 2, "Constitution": 1}, "slots": [2]}],
   "owned_armor": ["Onmyo Toukan", "Tempest Robe", "Tempest Hakama"],
   "decoration_limits": {"Sprinter Jewel+ 4": 1, "Physique Jewel+ 4": 1},
   "preferred_skills": {
